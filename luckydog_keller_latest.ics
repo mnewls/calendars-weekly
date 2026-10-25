@@ -4,715 +4,9 @@ PRODID:-//LuckyDogScraper//mxm.dk//
 X-WR-CALNAME:Lucky Dog Keller - Daily Classes
 BEGIN:VEVENT
 SUMMARY:Manners 3 - Advanced (Rachel Simmons)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20261018T141500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20261018T151000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010005Z
-UID:1792332900_Manners3-Advanced@luckydog
-DESCRIPTION:Ready to take your dog’s training to the next level? In Adva
- nced Manners\, we build on your basic foundation to add distractions\, lea
- ve treats behind\, and introduce some tricks to keep it interesting! This 
- class is designed to take your dog’s behavior above and beyond to make s
- ure he can keep his brain in any situation. If you want to get into therap
- y work\, dog sports\, or just want your best friend to go out and about wi
- th you\, Advanced Manners is the place to be!
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Canine Conditioning (Lea Pfeiffer)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20261018T141500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20261018T151000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010005Z
-UID:1792332900_CanineConditioning@luckydog
-DESCRIPTION:Canine Conditioning is a fun educational canine fitness class 
- designed to help dogs move with strength\, confidence\, and purpose.\nThro
- ugh safe\, low impact exercises\, dogs will improve their balance\, streng
- th\, flexibility\, coordination\, and body awareness while reducing their 
- risk of injury. Whether you have an athlete preparing for competition\, an
-  adventure companion who loves hiking and exploring\, the daily running pa
- rtner\, or a senior dog who could benefit from gentle conditioning and imp
- rove mobility\, this class provides exercises that can be tailored to your
-  dog’s individual needs.\nHandlers will also learn how to support their 
- dog’s long term health through proper warm ups and cool down routines\, 
- safe exercises\, and an understanding of how fitness contributes to overal
- l performance\, recovery\, and everyday wellness.\nCanine Conditioning is 
- about more than building stronger dogs-it’s about creating healthier mov
- ement for every stage of life.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Agility - Competition Level 1 (Beth Martin)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20261018T151500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20261018T161500Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010005Z
-UID:1792336500_Agility-CompetitionLevel1@luckydog
-DESCRIPTION:Teams will continue building skills from previous courses. Tea
- ms must be able to perform:\nAll equipment\nContacts full height\nunassist
- ed see-saw\nClosed\n12 weaves without assistance\nCan utilize front\, rear
- \, and blind crosses on course\nRunning full courses at Novice to Open Lev
- els\nPinwheels\, serpentines\, and threadles\nProficient back sides and ju
- mp wraps\nNovice sends (6-10 ft gamble lines)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Specialty - Sports Sampler (Lea Pfeiffer)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20261018T153000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20261018T163000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010005Z
-UID:1792337400_Specialty-SportsSampler@luckydog
-DESCRIPTION:Are you interested in dog sports but overwhelmed by the option
- s? This four-week class is a short introduction to tricks\, nosework\, agi
- lity\, and rally! We'll spend one week on the foundation skills for each s
- port so you can get a better idea of where your dog will really shine!
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Specialty - Zen Dog (Rachel Simmons)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20261018T153000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20261018T162500Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010005Z
-UID:1792337400_Specialty-ZenDog@luckydog
-DESCRIPTION:Does your dog have a hard time settling down in arousing situa
- tions\, such as when company is over or on restaurant patios? Do they get 
- nervous or display demand behaviors like barking\, whining\, or more when 
- you aren’t paying attention to them? If your dog is over-excited in new 
- situations or too nervous to calm down\, Zen Dog is the class for you! Fou
- r-weeks long\, this class will focus on teaching us how to nurture our dog
- s’ ability to self-soothe and settle in the home as well as in novel env
- ironments by incorporating impulse control\, the “art of doing nothing
- ” and more. These life-long skills can help set you and your dog up for 
- success at home or in public\, and are a great foundation for creating a h
- ealthier and more enjoyable relationship between you and your dog.\nIf thi
- s is your first class at Lucky Dog\, please attend an orientation before e
- nrolling.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Agility - Competition Level 1 (Beth Martin)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20261018T163000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20261018T173000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010005Z
-UID:1792341000_Agility-CompetitionLevel1@luckydog
-DESCRIPTION:Teams will continue building skills from previous courses. Tea
- ms must be able to perform:\nAll equipment\nContacts full height\nunassist
- ed see-saw\nClosed\n12 weaves without assistance\nCan utilize front\, rear
- \, and blind crosses on course\nRunning full courses at Novice to Open Lev
- els\nPinwheels\, serpentines\, and threadles\nProficient back sides and ju
- mp wraps\nNovice sends (6-10 ft gamble lines)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Puppy Kindergarten (Rachel Simmons)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20261018T164500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20261018T174000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010005Z
-UID:1792341900_PuppyKindergarten@luckydog
-DESCRIPTION:If you recently added a new puppy to your family\, you're in t
- he right place! Puppy Kindergarten is the perfect place to start for puppi
- es between the age of 2 and 5 months. We'll cover everything from teaching
-  your puppy his name to the manners he'll need to be a great member of you
- r household. We'll also address unwanted behaviors like chewing\, jumping\
- , and pulling on the leash. Last but not least\, we'll help you socialize 
- your puppy to strange noises\, objects\, and surfaces!
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rally 3 - Intermediate (Lea Pfeiffer)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20261018T164500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20261018T174000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010005Z
-UID:1792341900_Rally3-Intermediate@luckydog
-DESCRIPTION:
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Orientation (Rachel Simmons)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20261018T180000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20261018T183000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010005Z
-UID:1792346400_Orientation@luckydog
-DESCRIPTION:Orientation is a mini-class to cover requirements and check th
- at your dog will be a good fit for Basic Manners. Our manners classes typi
- cally fill 1-3 weeks before they start\, so you may want to register for c
- lass in advance!\nAfter reserving your spot\, you'll receive a confirmatio
- n email with instructions for orientation. Please be sure you're opted in 
- for reminder emails and we look forward to seeing you soon!
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Agility - Pre-Novice (Beth Martin)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20261018T180000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20261018T190000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010005Z
-UID:1792346400_Agility-Pre-Novice@luckydog
-DESCRIPTION:The Pre-Novice class is for teams who are gearing up to compet
- e! It focuses on closing weaves\, nailing contacts\, and adding to sequenc
- es
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Semi-Private: Agility (Beth Martin)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20261018T193000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20261018T203000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010005Z
-UID:1792351800_Semi-Private:Agility@luckydog
-DESCRIPTION:
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Agility - Competition Level 2 (Beth Martin)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20261019T160000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20261019T170000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010007Z
-UID:1792425600_Agility-CompetitionLevel2@luckydog
-DESCRIPTION:Teams must be competent on all equipment\, including 12 straig
- ht weaves and running full courses at Advanced - Excellent - Senior levels
- .
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Agility - Competition Level 1 (Beth Martin)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20261019T173000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20261019T183000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010007Z
-UID:1792431000_Agility-CompetitionLevel1@luckydog
-DESCRIPTION:Teams will continue building skills from previous courses. Tea
- ms must be able to perform:\nAll equipment\nContacts full height\nunassist
- ed see-saw\nClosed\n12 weaves without assistance\nCan utilize front\, rear
- \, and blind crosses on course\nRunning full courses at Novice to Open Lev
- els\nPinwheels\, serpentines\, and threadles\nProficient back sides and ju
- mp wraps\nNovice sends (6-10 ft gamble lines)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Orientation (Lea Pfeiffer)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20261019T220000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20261019T223000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010007Z
-UID:1792447200_Orientation@luckydog
-DESCRIPTION:Orientation is a mini-class to cover requirements and check th
- at your dog will be a good fit for Basic Manners. Our manners classes typi
- cally fill 1-3 weeks before they start\, so you may want to register for c
- lass in advance!\nAfter reserving your spot\, you'll receive a confirmatio
- n email with instructions for orientation. Please be sure you're opted in 
- for reminder emails and we look forward to seeing you soon!
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Agility - Competition Level 1 (Beth Martin)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20261019T224500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20261019T234500Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010007Z
-UID:1792449900_Agility-CompetitionLevel1@luckydog
-DESCRIPTION:Teams will continue building skills from previous courses. Tea
- ms must be able to perform:\nAll equipment\nContacts full height\nunassist
- ed see-saw\nClosed\n12 weaves without assistance\nCan utilize front\, rear
- \, and blind crosses on course\nRunning full courses at Novice to Open Lev
- els\nPinwheels\, serpentines\, and threadles\nProficient back sides and ju
- mp wraps\nNovice sends (6-10 ft gamble lines)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Manners 3 - Advanced (Lea Pfeiffer)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20261019T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20261019T235500Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010007Z
-UID:1792450800_Manners3-Advanced@luckydog
-DESCRIPTION:Ready to take your dog’s training to the next level? In Adva
- nced Manners\, we build on your basic foundation to add distractions\, lea
- ve treats behind\, and introduce some tricks to keep it interesting! This 
- class is designed to take your dog’s behavior above and beyond to make s
- ure he can keep his brain in any situation. If you want to get into therap
- y work\, dog sports\, or just want your best friend to go out and about wi
- th you\, Advanced Manners is the place to be!
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NW3 -  Novice Nosework (Melinda Meche)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20261019T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20261020T000000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010007Z
-UID:1792450800_NW3-NoviceNosework@luckydog
-DESCRIPTION:In the Novice class of Nosework we add all of the oils into ou
- r cocktail so that your dog can start to discriminate between the differen
- t oils. We will start to build our search areas to mock Novice trial-like 
- settings. We will start to discuss rules and regulations of AKC\, UKC and 
- other organizations.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Agility - Competition Level 3 (Beth Martin)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20261020T000500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20261020T010500Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010007Z
-UID:1792454700_Agility-CompetitionLevel3@luckydog
-DESCRIPTION:Focusing on Premier and International-style courses and workin
- g on the handling skills needed to get around those courses. Dogs must be 
- competing at Master level\, or have instructor approval.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NW4 - Advanced Nosework (Melinda Meche)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20261020T000500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20261020T010500Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010007Z
-UID:1792454700_NW4-AdvancedNosework@luckydog
-DESCRIPTION:
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Puppy Kindergarten (Lea Pfeiffer)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20261020T000500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20261020T010000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010007Z
-UID:1792454700_PuppyKindergarten@luckydog
-DESCRIPTION:If you recently added a new puppy to your family\, you're in t
- he right place! Puppy Kindergarten is the perfect place to start for puppi
- es between the age of 2 and 5 months. We'll cover everything from teaching
-  your puppy his name to the manners he'll need to be a great member of you
- r household. We'll also address unwanted behaviors like chewing\, jumping\
- , and pulling on the leash. Last but not least\, we'll help you socialize 
- your puppy to strange noises\, objects\, and surfaces!
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Agility - Beginner 3 (Susan Waits)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20261020T011500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20261020T021500Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010007Z
-UID:1792458900_Agility-Beginner3@luckydog
-DESCRIPTION:
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NW5 - Excellent Nosework (Melinda Meche)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20261020T011500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20261020T021500Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010007Z
-UID:1792458900_NW5-ExcellentNosework@luckydog
-DESCRIPTION:The Intermediate class of Nosework incorporates the use of all
-  the different oils  We will start to build search areas to mock Advanced
-  trial-like setting of Interior\, Exterior\, Vehicles as well as continue 
- working on containers.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NW5 - Excellent Nosework (Amanda Lewis)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20261020T170000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20261020T180000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010009Z
-UID:1792515600_NW5-ExcellentNosework@luckydog
-DESCRIPTION:The Intermediate class of Nosework incorporates the use of all
-  the different oils  We will start to build search areas to mock Advanced
-  trial-like setting of Interior\, Exterior\, Vehicles as well as continue 
- working on containers.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NW3 -  Novice Nosework (Amanda Lewis)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20261020T183000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20261020T193000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010009Z
-UID:1792521000_NW3-NoviceNosework@luckydog
-DESCRIPTION:In the Novice class of Nosework we add all of the oils into ou
- r cocktail so that your dog can start to discriminate between the differen
- t oils. We will start to build our search areas to mock Novice trial-like 
- settings. We will start to discuss rules and regulations of AKC\, UKC and 
- other organizations.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Agility - Competition Level 1 (Beth Martin)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20261020T190000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20261020T200000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010009Z
-UID:1792522800_Agility-CompetitionLevel1@luckydog
-DESCRIPTION:Teams will continue building skills from previous courses. Tea
- ms must be able to perform:\nAll equipment\nContacts full height\nunassist
- ed see-saw\nClosed\n12 weaves without assistance\nCan utilize front\, rear
- \, and blind crosses on course\nRunning full courses at Novice to Open Lev
- els\nPinwheels\, serpentines\, and threadles\nProficient back sides and ju
- mp wraps\nNovice sends (6-10 ft gamble lines)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NW2 - Beginner Nosework (Amanda Lewis)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20261020T200000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20261020T210000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010009Z
-UID:1792526400_NW2-BeginnerNosework@luckydog
-DESCRIPTION:Novice Nose Work class will introduce more games and elements 
- of Scentwork searches such as\; containers\, interiors\, exteriors\, burie
- d\, vehicles and handler discrimination.  This class progresses from Intr
- o to Nosework which must be completed prior to this class.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Agility - Competition Level 2 (Beth Martin)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20261020T203000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20261020T213000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010009Z
-UID:1792528200_Agility-CompetitionLevel2@luckydog
-DESCRIPTION:Teams must be competent on all equipment\, including 12 straig
- ht weaves and running full courses at Advanced - Excellent - Senior levels
- .
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Agility - Competition Level 3 (Beth Martin)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20261020T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20261021T000000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010009Z
-UID:1792537200_Agility-CompetitionLevel3@luckydog
-DESCRIPTION:Focusing on Premier and International-style courses and workin
- g on the handling skills needed to get around those courses. Dogs must be 
- competing at Master level\, or have instructor approval.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NW5 - Excellent Nosework (Melinda Meche)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20261020T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20261021T000000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010009Z
-UID:1792537200_NW5-ExcellentNosework@luckydog
-DESCRIPTION:The Intermediate class of Nosework incorporates the use of all
-  the different oils  We will start to build search areas to mock Advanced
-  trial-like setting of Interior\, Exterior\, Vehicles as well as continue 
- working on containers.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Manners 3 - Advanced (Lea Pfeiffer)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20261020T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20261020T235500Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010009Z
-UID:1792537200_Manners3-Advanced@luckydog
-DESCRIPTION:Ready to take your dog’s training to the next level? In Adva
- nced Manners\, we build on your basic foundation to add distractions\, lea
- ve treats behind\, and introduce some tricks to keep it interesting! This 
- class is designed to take your dog’s behavior above and beyond to make s
- ure he can keep his brain in any situation. If you want to get into therap
- y work\, dog sports\, or just want your best friend to go out and about wi
- th you\, Advanced Manners is the place to be!
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Agility - Pre-Novice (Jordan Phoenix)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20261021T000500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20261021T010500Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010009Z
-UID:1792541100_Agility-Pre-Novice@luckydog
-DESCRIPTION:The Pre-Novice class is for teams who are gearing up to compet
- e! It focuses on closing weaves\, nailing contacts\, and adding to sequenc
- es
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Specialty - Therapy Dog Prep/CGC (Lea Pfeiffer)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20261021T001000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20261021T010500Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010009Z
-UID:1792541400_Specialty-TherapyDogPrep/CGC@luckydog
-DESCRIPTION:Therapy Dog Prep and CGC\nWould you like to share your dog’s
-  companionship with people in hospitals\, nursing homes\, schools\, or eve
- n in communities recovering from stressful situations or disasters? Therap
- y dogs provide comfort\, emotional support\, and affection in these settin
- gs.\nThe most important qualities of a therapy dog are temperament and sta
- bility. Is your dog friendly with both people and other dogs? Does your do
- g enjoy being petted and hugged by adults and children? How does your dog 
- respond to sudden loud noises or unexpected situations?\nIf your dog is ca
- lm\, gentle\, and enjoys interacting with others\, they may be an excellen
- t candidate for this therapy dog class.\nCanine Good Citizen\nThe CGC clas
- s is the first step to also becoming a Therapy Assistant Dog.  The 10 beh
- aviors that are learned in the CGC class will apply to the first 10 steps 
- in the Therapy test.  Therefore we combine the classes together so that w
- hatever your goals may be that you can accomplish that without having to t
- ake a separate class.\nThe AKC's Canine Good Citizen (CGC) program is reco
- gnized as the gold standard for dog behavior. Would you love for people to
-  point at your dog and say\, I want my dog to act like that. That is what 
- we strive for in this class. We train for the 10 behaviors/commands that a
- re required for your dog to pass the Canine Good Citizen test.\nIf you wan
- t to know more about the CGC program\, click on this link\nhttp://www.akc.
- org/dog-owners/training/canine-good-citizen/what-is-canine-good-citizen/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NW5 - Excellent Nosework (Melinda Meche)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20261021T001000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20261021T011000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010009Z
-UID:1792541400_NW5-ExcellentNosework@luckydog
-DESCRIPTION:The Intermediate class of Nosework incorporates the use of all
-  the different oils  We will start to build search areas to mock Advanced
-  trial-like setting of Interior\, Exterior\, Vehicles as well as continue 
- working on containers.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Agility - Pre-Novice (Jordan Phoenix)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20261021T011500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20261021T021500Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010009Z
-UID:1792545300_Agility-Pre-Novice@luckydog
-DESCRIPTION:The Pre-Novice class is for teams who are gearing up to compet
- e! It focuses on closing weaves\, nailing contacts\, and adding to sequenc
- es
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NW4 - Advanced Nosework (Melinda Meche)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20261021T011500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20261021T021500Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010009Z
-UID:1792545300_NW4-AdvancedNosework@luckydog
-DESCRIPTION:
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NW6- Master Nosework (Melinda Meche)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20261021T153000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20261021T163000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010010Z
-UID:1792596600_NW6-MasterNosework@luckydog
-DESCRIPTION:
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NW5 - Excellent Nosework (Melinda Meche)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20261021T164500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20261021T174500Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010010Z
-UID:1792601100_NW5-ExcellentNosework@luckydog
-DESCRIPTION:The Intermediate class of Nosework incorporates the use of all
-  the different oils  We will start to build search areas to mock Advanced
-  trial-like setting of Interior\, Exterior\, Vehicles as well as continue 
- working on containers.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NW5 - Excellent Nosework (Melinda Meche)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20261021T190000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20261021T200000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010010Z
-UID:1792609200_NW5-ExcellentNosework@luckydog
-DESCRIPTION:The Intermediate class of Nosework incorporates the use of all
-  the different oils  We will start to build search areas to mock Advanced
-  trial-like setting of Interior\, Exterior\, Vehicles as well as continue 
- working on containers.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Semi-Private: Agility (Beth Martin)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20261021T214500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20261021T223000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010010Z
-UID:1792619100_Semi-Private:Agility@luckydog
-DESCRIPTION:
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Orientation (Lea Pfeiffer)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20261021T220000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20261021T223000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010010Z
-UID:1792620000_Orientation@luckydog
-DESCRIPTION:Orientation is a mini-class to cover requirements and check th
- at your dog will be a good fit for Basic Manners. Our manners classes typi
- cally fill 1-3 weeks before they start\, so you may want to register for c
- lass in advance!\nAfter reserving your spot\, you'll receive a confirmatio
- n email with instructions for orientation. Please be sure you're opted in 
- for reminder emails and we look forward to seeing you soon!
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Trick Dog 1 -  Novice (Lea Pfeiffer)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20261021T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20261021T235500Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010010Z
-UID:1792623600_TrickDog1-Novice@luckydog
-DESCRIPTION:This six-week class is designed to work towards your AKC Trick
-  Dog Novice title! Teams will work on tricks for their respective levels i
- n stations.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Agility - Competition Level 2 (Beth Martin)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20261021T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20261022T000000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010010Z
-UID:1792623600_Agility-CompetitionLevel2@luckydog
-DESCRIPTION:Teams must be competent on all equipment\, including 12 straig
- ht weaves and running full courses at Advanced - Excellent - Senior levels
- .
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Manners 1 - Basic (Lea Pfeiffer)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20261022T000500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20261022T010000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010010Z
-UID:1792627500_Manners1-Basic@luckydog
-DESCRIPTION:Let’s face it\, dogs these days are part of the family. But 
- as much as we treat them like furry humans\, they need some help to act li
- ke it! In Basic Manners\, we cover the essentials that your dog needs to b
- e a well-behaved member of your family. You’ll learn things like not jum
- ping up\, coming when called\, and walking nicely on a leash\, as well as 
- your standard sit\, down\, and stay! We also work on impulse control\, the
-  “place” behavior\, and sitting at the door\, all of which discourage 
- naughty behavior like stealing food\, darting out the door\, and begging/c
- ounter surfing.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Agility - Masters/International Level (Beth Martin)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20261022T000500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20261022T010500Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010010Z
-UID:1792627500_Agility-Masters/InternationalLevel@luckydog
-DESCRIPTION:Must have successfully completed Agility Open or have instruct
- or approval
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rally 2 - Advanced (Susan Ramsbottom)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20261022T003000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20261022T013000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010010Z
-UID:1792629000_Rally2-Advanced@luckydog
-DESCRIPTION:
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Manners 1 - Basic (Lea Pfeiffer)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20261022T011000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20261022T020500Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010010Z
-UID:1792631400_Manners1-Basic@luckydog
-DESCRIPTION:Let’s face it\, dogs these days are part of the family. But 
- as much as we treat them like furry humans\, they need some help to act li
- ke it! In Basic Manners\, we cover the essentials that your dog needs to b
- e a well-behaved member of your family. You’ll learn things like not jum
- ping up\, coming when called\, and walking nicely on a leash\, as well as 
- your standard sit\, down\, and stay! We also work on impulse control\, the
-  “place” behavior\, and sitting at the door\, all of which discourage 
- naughty behavior like stealing food\, darting out the door\, and begging/c
- ounter surfing.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Agility - Competition Level 1 (Beth Martin)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20261022T011500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20261022T021500Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010010Z
-UID:1792631700_Agility-CompetitionLevel1@luckydog
-DESCRIPTION:Teams will continue building skills from previous courses. Tea
- ms must be able to perform:\nAll equipment\nContacts full height\nunassist
- ed see-saw\nClosed\n12 weaves without assistance\nCan utilize front\, rear
- \, and blind crosses on course\nRunning full courses at Novice to Open Lev
- els\nPinwheels\, serpentines\, and threadles\nProficient back sides and ju
- mp wraps\nNovice sends (6-10 ft gamble lines)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Agility - Competition Level 1 (Beth Martin)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20261022T153000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20261022T163000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010012Z
-UID:1792683000_Agility-CompetitionLevel1@luckydog
-DESCRIPTION:Teams will continue building skills from previous courses. Tea
- ms must be able to perform:\nAll equipment\nContacts full height\nunassist
- ed see-saw\nClosed\n12 weaves without assistance\nCan utilize front\, rear
- \, and blind crosses on course\nRunning full courses at Novice to Open Lev
- els\nPinwheels\, serpentines\, and threadles\nProficient back sides and ju
- mp wraps\nNovice sends (6-10 ft gamble lines)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Agility - Pre-Novice (Beth Martin)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20261022T170000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20261022T180000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010012Z
-UID:1792688400_Agility-Pre-Novice@luckydog
-DESCRIPTION:The Pre-Novice class is for teams who are gearing up to compet
- e! It focuses on closing weaves\, nailing contacts\, and adding to sequenc
- es
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Agility - Competition Level 1 (Beth Martin)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20261022T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20261023T000000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010012Z
-UID:1792710000_Agility-CompetitionLevel1@luckydog
-DESCRIPTION:Teams will continue building skills from previous courses. Tea
- ms must be able to perform:\nAll equipment\nContacts full height\nunassist
- ed see-saw\nClosed\n12 weaves without assistance\nCan utilize front\, rear
- \, and blind crosses on course\nRunning full courses at Novice to Open Lev
- els\nPinwheels\, serpentines\, and threadles\nProficient back sides and ju
- mp wraps\nNovice sends (6-10 ft gamble lines)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rally 2 - Advanced (Lea Pfeiffer)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20261022T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20261023T000000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010012Z
-UID:1792710000_Rally2-Advanced@luckydog
-DESCRIPTION:
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Agility - Competition Level 3 (Beth Martin)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20261023T000500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20261023T010500Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010012Z
-UID:1792713900_Agility-CompetitionLevel3@luckydog
-DESCRIPTION:Focusing on Premier and International-style courses and workin
- g on the handling skills needed to get around those courses. Dogs must be 
- competing at Master level\, or have instructor approval.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rally 1 - Novice (Lea Pfeiffer)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20261023T001500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20261023T011500Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010012Z
-UID:1792714500_Rally1-Novice@luckydog
-DESCRIPTION:
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Agility - Competition Level 2 (Beth Martin)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20261023T011500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20261023T021500Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010012Z
-UID:1792718100_Agility-CompetitionLevel2@luckydog
-DESCRIPTION:Teams must be competent on all equipment\, including 12 straig
- ht weaves and running full courses at Advanced - Excellent - Senior levels
- .
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Manners 1 - Basic (Rachel Simmons)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20261024T141500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20261024T151000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010015Z
-UID:1792851300_Manners1-Basic@luckydog
-DESCRIPTION:Let’s face it\, dogs these days are part of the family. But 
- as much as we treat them like furry humans\, they need some help to act li
- ke it! In Basic Manners\, we cover the essentials that your dog needs to b
- e a well-behaved member of your family. You’ll learn things like not jum
- ping up\, coming when called\, and walking nicely on a leash\, as well as 
- your standard sit\, down\, and stay! We also work on impulse control\, the
-  “place” behavior\, and sitting at the door\, all of which discourage 
- naughty behavior like stealing food\, darting out the door\, and begging/c
- ounter surfing.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Manners 3 - Advanced (Rachel Simmons)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20261024T153000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20261024T162500Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010015Z
-UID:1792855800_Manners3-Advanced@luckydog
-DESCRIPTION:Ready to take your dog’s training to the next level? In Adva
- nced Manners\, we build on your basic foundation to add distractions\, lea
- ve treats behind\, and introduce some tricks to keep it interesting! This 
- class is designed to take your dog’s behavior above and beyond to make s
- ure he can keep his brain in any situation. If you want to get into therap
- y work\, dog sports\, or just want your best friend to go out and about wi
- th you\, Advanced Manners is the place to be!
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Orientation (Rachel Simmons)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20261024T170000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20261024T173000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010015Z
-UID:1792861200_Orientation@luckydog
-DESCRIPTION:Orientation is a mini-class to cover requirements and check th
- at your dog will be a good fit for Basic Manners. Our manners classes typi
- cally fill 1-3 weeks before they start\, so you may want to register for c
- lass in advance!\nAfter reserving your spot\, you'll receive a confirmatio
- n email with instructions for orientation. Please be sure you're opted in 
- for reminder emails and we look forward to seeing you soon!
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Specialty - Therapy Dog Prep/CGC (Rachel Simmons)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20261024T180000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20261024T185500Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010015Z
-UID:1792864800_Specialty-TherapyDogPrep/CGC@luckydog
-DESCRIPTION:Therapy Dog Prep and CGC\nWould you like to share your dog’s
-  companionship with people in hospitals\, nursing homes\, schools\, or eve
- n in communities recovering from stressful situations or disasters? Therap
- y dogs provide comfort\, emotional support\, and affection in these settin
- gs.\nThe most important qualities of a therapy dog are temperament and sta
- bility. Is your dog friendly with both people and other dogs? Does your do
- g enjoy being petted and hugged by adults and children? How does your dog 
- respond to sudden loud noises or unexpected situations?\nIf your dog is ca
- lm\, gentle\, and enjoys interacting with others\, they may be an excellen
- t candidate for this therapy dog class.\nCanine Good Citizen\nThe CGC clas
- s is the first step to also becoming a Therapy Assistant Dog.  The 10 beh
- aviors that are learned in the CGC class will apply to the first 10 steps 
- in the Therapy test.  Therefore we combine the classes together so that w
- hatever your goals may be that you can accomplish that without having to t
- ake a separate class.\nThe AKC's Canine Good Citizen (CGC) program is reco
- gnized as the gold standard for dog behavior. Would you love for people to
-  point at your dog and say\, I want my dog to act like that. That is what 
- we strive for in this class. We train for the 10 behaviors/commands that a
- re required for your dog to pass the Canine Good Citizen test.\nIf you wan
- t to know more about the CGC program\, click on this link\nhttp://www.akc.
- org/dog-owners/training/canine-good-citizen/what-is-canine-good-citizen/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Manners 3 - Advanced (Rachel Simmons)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261025T141500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261025T151000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010016Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010005Z
 UID:1792937700_Manners3-Advanced@luckydog
 DESCRIPTION:Ready to take your dog’s training to the next level? In Adva
  nced Manners\, we build on your basic foundation to add distractions\, lea
@@ -726,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:Canine Conditioning (Lea Pfeiffer)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261025T141500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261025T151000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010016Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010005Z
 UID:1792937700_CanineConditioning@luckydog
 DESCRIPTION:Canine Conditioning is a fun educational canine fitness class 
  designed to help dogs move with strength\, confidence\, and purpose.\nThro
@@ -747,7 +41,7 @@ BEGIN:VEVENT
 SUMMARY:Agility - Competition Level 1 (Beth Martin)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261025T151500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261025T161500Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010016Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010005Z
 UID:1792941300_Agility-CompetitionLevel1@luckydog
 DESCRIPTION:Teams will continue building skills from previous courses. Tea
  ms must be able to perform:\nAll equipment\nContacts full height\nunassist
@@ -760,7 +54,7 @@ BEGIN:VEVENT
 SUMMARY:Specialty - Sports Sampler (Lea Pfeiffer)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261025T153000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261025T163000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010016Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010005Z
 UID:1792942200_Specialty-SportsSampler@luckydog
 DESCRIPTION:Are you interested in dog sports but overwhelmed by the option
  s? This four-week class is a short introduction to tricks\, nosework\, agi
@@ -771,7 +65,7 @@ BEGIN:VEVENT
 SUMMARY:Specialty - Zen Dog (Rachel Simmons)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261025T153000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261025T162500Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010016Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010005Z
 UID:1792942200_Specialty-ZenDog@luckydog
 DESCRIPTION:Does your dog have a hard time settling down in arousing situa
  tions\, such as when company is over or on restaurant patios? Do they get 
@@ -791,7 +85,7 @@ BEGIN:VEVENT
 SUMMARY:Agility - Competition Level 1 (Beth Martin)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261025T163000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261025T173000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010016Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010005Z
 UID:1792945800_Agility-CompetitionLevel1@luckydog
 DESCRIPTION:Teams will continue building skills from previous courses. Tea
  ms must be able to perform:\nAll equipment\nContacts full height\nunassist
@@ -804,7 +98,7 @@ BEGIN:VEVENT
 SUMMARY:Rally 3 - Intermediate (Lea Pfeiffer)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261025T164500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261025T174000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010016Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010005Z
 UID:1792946700_Rally3-Intermediate@luckydog
 DESCRIPTION:
 END:VEVENT
@@ -812,7 +106,7 @@ BEGIN:VEVENT
 SUMMARY:Puppy Kindergarten (Rachel Simmons)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261025T164500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261025T174500Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010016Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010005Z
 UID:1792946700_PuppyKindergarten@luckydog
 DESCRIPTION:If you recently added a new puppy to your family\, you're in t
  he right place! Puppy Kindergarten is the perfect place to start for puppi
@@ -826,7 +120,7 @@ BEGIN:VEVENT
 SUMMARY:Orientation (Rachel Simmons)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261025T180000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261025T183000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010016Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010005Z
 UID:1792951200_Orientation@luckydog
 DESCRIPTION:Orientation is a mini-class to cover requirements and check th
  at your dog will be a good fit for Basic Manners. Our manners classes typi
@@ -839,7 +133,7 @@ BEGIN:VEVENT
 SUMMARY:Agility - Pre-Novice (Beth Martin)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261025T180000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261025T190000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010016Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010005Z
 UID:1792951200_Agility-Pre-Novice@luckydog
 DESCRIPTION:The Pre-Novice class is for teams who are gearing up to compet
  e! It focuses on closing weaves\, nailing contacts\, and adding to sequenc
@@ -849,7 +143,7 @@ BEGIN:VEVENT
 SUMMARY:Specialty - CGCA Prep/Dog About Town (Lea Pfeiffer)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261025T181500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261025T191500Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010016Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010005Z
 UID:1792952100_Specialty-CGCAPrep/DogAboutTown@luckydog
 DESCRIPTION:Ready to test your dog's skills in the real world? This class 
  will focus on real-life applications for the behaviors you learned in Adva
@@ -864,10 +158,18 @@ DESCRIPTION:Ready to test your dog's skills in the real world? This class
  tore or at the park.
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Semi-Private: Agility (Beth Martin)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20261025T193000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20261025T203000Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010005Z
+UID:1792956600_Semi-Private:Agility@luckydog
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Agility - Competition Level 2 (Beth Martin)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261026T160000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261026T170000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010018Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010006Z
 UID:1793030400_Agility-CompetitionLevel2@luckydog
 DESCRIPTION:Teams must be competent on all equipment\, including 12 straig
  ht weaves and running full courses at Advanced - Excellent - Senior levels
@@ -877,7 +179,7 @@ BEGIN:VEVENT
 SUMMARY:Agility - Competition Level 1 (Beth Martin)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261026T173000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261026T183000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010018Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010006Z
 UID:1793035800_Agility-CompetitionLevel1@luckydog
 DESCRIPTION:Teams will continue building skills from previous courses. Tea
  ms must be able to perform:\nAll equipment\nContacts full height\nunassist
@@ -890,7 +192,7 @@ BEGIN:VEVENT
 SUMMARY:Orientation (Lea Pfeiffer)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261026T220000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261026T223000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010018Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010006Z
 UID:1793052000_Orientation@luckydog
 DESCRIPTION:Orientation is a mini-class to cover requirements and check th
  at your dog will be a good fit for Basic Manners. Our manners classes typi
@@ -903,7 +205,7 @@ BEGIN:VEVENT
 SUMMARY:Agility - Competition Level 1 (Beth Martin)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261026T224500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261026T234500Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010018Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010006Z
 UID:1793054700_Agility-CompetitionLevel1@luckydog
 DESCRIPTION:Teams will continue building skills from previous courses. Tea
  ms must be able to perform:\nAll equipment\nContacts full height\nunassist
@@ -916,7 +218,7 @@ BEGIN:VEVENT
 SUMMARY:Manners 3 - Advanced (Lea Pfeiffer)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261026T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261026T235500Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010018Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010006Z
 UID:1793055600_Manners3-Advanced@luckydog
 DESCRIPTION:Ready to take your dog’s training to the next level? In Adva
  nced Manners\, we build on your basic foundation to add distractions\, lea
@@ -930,7 +232,7 @@ BEGIN:VEVENT
 SUMMARY:NW3 -  Novice Nosework (Melinda Meche)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261026T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261027T000000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010018Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010006Z
 UID:1793055600_NW3-NoviceNosework@luckydog
 DESCRIPTION:In the Novice class of Nosework we add all of the oils into ou
  r cocktail so that your dog can start to discriminate between the differen
@@ -942,7 +244,7 @@ BEGIN:VEVENT
 SUMMARY:Puppy Kindergarten (Lea Pfeiffer)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261027T000500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261027T010000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010018Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010006Z
 UID:1793059500_PuppyKindergarten@luckydog
 DESCRIPTION:If you recently added a new puppy to your family\, you're in t
  he right place! Puppy Kindergarten is the perfect place to start for puppi
@@ -956,7 +258,7 @@ BEGIN:VEVENT
 SUMMARY:NW4 - Advanced Nosework (Melinda Meche)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261027T000500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261027T010500Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010018Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010006Z
 UID:1793059500_NW4-AdvancedNosework@luckydog
 DESCRIPTION:
 END:VEVENT
@@ -964,7 +266,7 @@ BEGIN:VEVENT
 SUMMARY:Agility - Competition Level 3 (Beth Martin)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261027T000500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261027T010500Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010018Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010006Z
 UID:1793059500_Agility-CompetitionLevel3@luckydog
 DESCRIPTION:Focusing on Premier and International-style courses and workin
  g on the handling skills needed to get around those courses. Dogs must be 
@@ -974,7 +276,7 @@ BEGIN:VEVENT
 SUMMARY:Agility - Beginner 3 (Susan Waits)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261027T011500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261027T021500Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010018Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010006Z
 UID:1793063700_Agility-Beginner3@luckydog
 DESCRIPTION:
 END:VEVENT
@@ -982,7 +284,7 @@ BEGIN:VEVENT
 SUMMARY:NW5 - Excellent Nosework (Melinda Meche)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261027T011500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261027T021500Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010018Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010006Z
 UID:1793063700_NW5-ExcellentNosework@luckydog
 DESCRIPTION:The Intermediate class of Nosework incorporates the use of all
   the different oils  We will start to build search areas to mock Advanced
@@ -993,7 +295,7 @@ BEGIN:VEVENT
 SUMMARY:NW5 - Excellent Nosework (Amanda Lewis)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261027T170000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261027T180000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010019Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010008Z
 UID:1793120400_NW5-ExcellentNosework@luckydog
 DESCRIPTION:The Intermediate class of Nosework incorporates the use of all
   the different oils  We will start to build search areas to mock Advanced
@@ -1004,7 +306,7 @@ BEGIN:VEVENT
 SUMMARY:NW3 -  Novice Nosework (Amanda Lewis)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261027T183000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261027T193000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010019Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010008Z
 UID:1793125800_NW3-NoviceNosework@luckydog
 DESCRIPTION:In the Novice class of Nosework we add all of the oils into ou
  r cocktail so that your dog can start to discriminate between the differen
@@ -1016,7 +318,7 @@ BEGIN:VEVENT
 SUMMARY:Agility - Competition Level 1 (Beth Martin)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261027T190000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261027T200000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010019Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010008Z
 UID:1793127600_Agility-CompetitionLevel1@luckydog
 DESCRIPTION:Teams will continue building skills from previous courses. Tea
  ms must be able to perform:\nAll equipment\nContacts full height\nunassist
@@ -1029,7 +331,7 @@ BEGIN:VEVENT
 SUMMARY:NW2 - Beginner Nosework (Amanda Lewis)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261027T200000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261027T210000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010019Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010008Z
 UID:1793131200_NW2-BeginnerNosework@luckydog
 DESCRIPTION:Novice Nose Work class will introduce more games and elements 
  of Scentwork searches such as\; containers\, interiors\, exteriors\, burie
@@ -1040,7 +342,7 @@ BEGIN:VEVENT
 SUMMARY:Agility - Competition Level 2 (Beth Martin)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261027T203000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261027T213000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010019Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010008Z
 UID:1793133000_Agility-CompetitionLevel2@luckydog
 DESCRIPTION:Teams must be competent on all equipment\, including 12 straig
  ht weaves and running full courses at Advanced - Excellent - Senior levels
@@ -1050,7 +352,7 @@ BEGIN:VEVENT
 SUMMARY:Agility - Competition Level 3 (Beth Martin)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261027T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261028T000000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010019Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010008Z
 UID:1793142000_Agility-CompetitionLevel3@luckydog
 DESCRIPTION:Focusing on Premier and International-style courses and workin
  g on the handling skills needed to get around those courses. Dogs must be 
@@ -1060,7 +362,7 @@ BEGIN:VEVENT
 SUMMARY:NW5 - Excellent Nosework (Melinda Meche)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261027T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261028T000000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010019Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010008Z
 UID:1793142000_NW5-ExcellentNosework@luckydog
 DESCRIPTION:The Intermediate class of Nosework incorporates the use of all
   the different oils  We will start to build search areas to mock Advanced
@@ -1071,7 +373,7 @@ BEGIN:VEVENT
 SUMMARY:Manners 3 - Advanced (Lea Pfeiffer)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261027T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261027T235500Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010019Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010008Z
 UID:1793142000_Manners3-Advanced@luckydog
 DESCRIPTION:Ready to take your dog’s training to the next level? In Adva
  nced Manners\, we build on your basic foundation to add distractions\, lea
@@ -1085,7 +387,7 @@ BEGIN:VEVENT
 SUMMARY:Agility - Pre-Novice (Jordan Phoenix)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261028T000500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261028T010500Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010019Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010008Z
 UID:1793145900_Agility-Pre-Novice@luckydog
 DESCRIPTION:The Pre-Novice class is for teams who are gearing up to compet
  e! It focuses on closing weaves\, nailing contacts\, and adding to sequenc
@@ -1095,7 +397,7 @@ BEGIN:VEVENT
 SUMMARY:Specialty - Therapy Dog Prep/CGC (Lea Pfeiffer)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261028T001000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261028T010500Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010019Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010008Z
 UID:1793146200_Specialty-TherapyDogPrep/CGC@luckydog
 DESCRIPTION:Therapy Dog Prep and CGC\nWould you like to share your dog’s
   companionship with people in hospitals\, nursing homes\, schools\, or eve
@@ -1123,7 +425,7 @@ BEGIN:VEVENT
 SUMMARY:NW5 - Excellent Nosework (Melinda Meche)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261028T001000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261028T011000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010019Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010008Z
 UID:1793146200_NW5-ExcellentNosework@luckydog
 DESCRIPTION:The Intermediate class of Nosework incorporates the use of all
   the different oils  We will start to build search areas to mock Advanced
@@ -1134,7 +436,7 @@ BEGIN:VEVENT
 SUMMARY:Agility - Pre-Novice (Jordan Phoenix)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261028T011500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261028T021500Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010019Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010008Z
 UID:1793150100_Agility-Pre-Novice@luckydog
 DESCRIPTION:The Pre-Novice class is for teams who are gearing up to compet
  e! It focuses on closing weaves\, nailing contacts\, and adding to sequenc
@@ -1144,7 +446,7 @@ BEGIN:VEVENT
 SUMMARY:NW4 - Advanced Nosework (Melinda Meche)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261028T011500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261028T021500Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010019Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010008Z
 UID:1793150100_NW4-AdvancedNosework@luckydog
 DESCRIPTION:
 END:VEVENT
@@ -1152,7 +454,7 @@ BEGIN:VEVENT
 SUMMARY:NW6- Master Nosework (Melinda Meche)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261028T153000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261028T163000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010021Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010009Z
 UID:1793201400_NW6-MasterNosework@luckydog
 DESCRIPTION:
 END:VEVENT
@@ -1160,7 +462,7 @@ BEGIN:VEVENT
 SUMMARY:NW5 - Excellent Nosework (Melinda Meche)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261028T164500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261028T174500Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010021Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010009Z
 UID:1793205900_NW5-ExcellentNosework@luckydog
 DESCRIPTION:The Intermediate class of Nosework incorporates the use of all
   the different oils  We will start to build search areas to mock Advanced
@@ -1171,7 +473,7 @@ BEGIN:VEVENT
 SUMMARY:NW5 - Excellent Nosework (Melinda Meche)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261028T190000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261028T200000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010021Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010009Z
 UID:1793214000_NW5-ExcellentNosework@luckydog
 DESCRIPTION:The Intermediate class of Nosework incorporates the use of all
   the different oils  We will start to build search areas to mock Advanced
@@ -1182,7 +484,7 @@ BEGIN:VEVENT
 SUMMARY:Semi-Private: Agility (Beth Martin)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261028T214500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261028T223000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010021Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010009Z
 UID:1793223900_Semi-Private:Agility@luckydog
 DESCRIPTION:
 END:VEVENT
@@ -1190,7 +492,7 @@ BEGIN:VEVENT
 SUMMARY:Orientation (Lea Pfeiffer)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261028T220000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261028T223000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010021Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010009Z
 UID:1793224800_Orientation@luckydog
 DESCRIPTION:Orientation is a mini-class to cover requirements and check th
  at your dog will be a good fit for Basic Manners. Our manners classes typi
@@ -1203,7 +505,7 @@ BEGIN:VEVENT
 SUMMARY:Agility - Competition Level 2 (Beth Martin)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261028T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261029T000000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010021Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010009Z
 UID:1793228400_Agility-CompetitionLevel2@luckydog
 DESCRIPTION:Teams must be competent on all equipment\, including 12 straig
  ht weaves and running full courses at Advanced - Excellent - Senior levels
@@ -1213,7 +515,7 @@ BEGIN:VEVENT
 SUMMARY:Trick Dog 2 -  Intermediate (Lea Pfeiffer)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261028T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261028T235500Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010021Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010009Z
 UID:1793228400_TrickDog2-Intermediate@luckydog
 DESCRIPTION:This six-week class is designed to work towards your AKC Trick
   Dog Intermediate title! Teams will work on tricks for their respective le
@@ -1223,7 +525,7 @@ BEGIN:VEVENT
 SUMMARY:Manners 1 - Basic (Lea Pfeiffer)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261029T000500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261029T010000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010021Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010009Z
 UID:1793232300_Manners1-Basic@luckydog
 DESCRIPTION:Let’s face it\, dogs these days are part of the family. But 
  as much as we treat them like furry humans\, they need some help to act li
@@ -1239,7 +541,7 @@ BEGIN:VEVENT
 SUMMARY:Agility - Masters/International Level (Beth Martin)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261029T000500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261029T010500Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010021Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010009Z
 UID:1793232300_Agility-Masters/InternationalLevel@luckydog
 DESCRIPTION:Must have successfully completed Agility Open or have instruct
  or approval
@@ -1248,7 +550,7 @@ BEGIN:VEVENT
 SUMMARY:Rally 2 - Advanced (Susan Ramsbottom)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261029T003000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261029T013000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010021Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010009Z
 UID:1793233800_Rally2-Advanced@luckydog
 DESCRIPTION:
 END:VEVENT
@@ -1256,7 +558,7 @@ BEGIN:VEVENT
 SUMMARY:Manners 1 - Basic (Lea Pfeiffer)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261029T011000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261029T020500Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010021Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010009Z
 UID:1793236200_Manners1-Basic@luckydog
 DESCRIPTION:Let’s face it\, dogs these days are part of the family. But 
  as much as we treat them like furry humans\, they need some help to act li
@@ -1272,7 +574,7 @@ BEGIN:VEVENT
 SUMMARY:Agility - Competition Level 1 (Beth Martin)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261029T011500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261029T021500Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010021Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010009Z
 UID:1793236500_Agility-CompetitionLevel1@luckydog
 DESCRIPTION:Teams will continue building skills from previous courses. Tea
  ms must be able to perform:\nAll equipment\nContacts full height\nunassist
@@ -1285,7 +587,7 @@ BEGIN:VEVENT
 SUMMARY:Agility - Competition Level 1 (Beth Martin)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261029T153000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261029T163000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010022Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010010Z
 UID:1793287800_Agility-CompetitionLevel1@luckydog
 DESCRIPTION:Teams will continue building skills from previous courses. Tea
  ms must be able to perform:\nAll equipment\nContacts full height\nunassist
@@ -1298,7 +600,7 @@ BEGIN:VEVENT
 SUMMARY:Agility - Pre-Novice (Beth Martin)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261029T170000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261029T180000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010022Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010010Z
 UID:1793293200_Agility-Pre-Novice@luckydog
 DESCRIPTION:The Pre-Novice class is for teams who are gearing up to compet
  e! It focuses on closing weaves\, nailing contacts\, and adding to sequenc
@@ -1308,7 +610,7 @@ BEGIN:VEVENT
 SUMMARY:Agility - Competition Level 1 (Beth Martin)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261029T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261030T000000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010022Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010010Z
 UID:1793314800_Agility-CompetitionLevel1@luckydog
 DESCRIPTION:Teams will continue building skills from previous courses. Tea
  ms must be able to perform:\nAll equipment\nContacts full height\nunassist
@@ -1321,7 +623,7 @@ BEGIN:VEVENT
 SUMMARY:Rally 2 - Advanced (Lea Pfeiffer)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261029T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261030T000000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010022Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010010Z
 UID:1793314800_Rally2-Advanced@luckydog
 DESCRIPTION:
 END:VEVENT
@@ -1329,7 +631,7 @@ BEGIN:VEVENT
 SUMMARY:Agility - Competition Level 3 (Beth Martin)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261030T000500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261030T010500Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010022Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010010Z
 UID:1793318700_Agility-CompetitionLevel3@luckydog
 DESCRIPTION:Focusing on Premier and International-style courses and workin
  g on the handling skills needed to get around those courses. Dogs must be 
@@ -1339,7 +641,7 @@ BEGIN:VEVENT
 SUMMARY:Rally 1 - Novice (Lea Pfeiffer)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261030T001500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261030T011500Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010022Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010010Z
 UID:1793319300_Rally1-Novice@luckydog
 DESCRIPTION:
 END:VEVENT
@@ -1347,7 +649,7 @@ BEGIN:VEVENT
 SUMMARY:Agility - Competition Level 2 (Beth Martin)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261030T011500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261030T021500Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010022Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010010Z
 UID:1793322900_Agility-CompetitionLevel2@luckydog
 DESCRIPTION:Teams must be competent on all equipment\, including 12 straig
  ht weaves and running full courses at Advanced - Excellent - Senior levels
@@ -1357,7 +659,7 @@ BEGIN:VEVENT
 SUMMARY:Manners 1 - Basic (Rachel Simmons)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261031T141500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261031T151000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010024Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010012Z
 UID:1793456100_Manners1-Basic@luckydog
 DESCRIPTION:Let’s face it\, dogs these days are part of the family. But 
  as much as we treat them like furry humans\, they need some help to act li
@@ -1373,7 +675,7 @@ BEGIN:VEVENT
 SUMMARY:Manners 3 - Advanced (Rachel Simmons)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261031T153000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261031T162500Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010024Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010012Z
 UID:1793460600_Manners3-Advanced@luckydog
 DESCRIPTION:Ready to take your dog’s training to the next level? In Adva
  nced Manners\, we build on your basic foundation to add distractions\, lea
@@ -1387,7 +689,7 @@ BEGIN:VEVENT
 SUMMARY:Orientation (Rachel Simmons)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261031T170000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261031T173000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010024Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010012Z
 UID:1793466000_Orientation@luckydog
 DESCRIPTION:Orientation is a mini-class to cover requirements and check th
  at your dog will be a good fit for Basic Manners. Our manners classes typi
@@ -1400,7 +702,7 @@ BEGIN:VEVENT
 SUMMARY:Specialty - Therapy Dog Prep/CGC (Rachel Simmons)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261031T180000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261031T185500Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010024Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010012Z
 UID:1793469600_Specialty-TherapyDogPrep/CGC@luckydog
 DESCRIPTION:Therapy Dog Prep and CGC\nWould you like to share your dog’s
   companionship with people in hospitals\, nursing homes\, schools\, or eve
@@ -1425,10 +727,18 @@ DESCRIPTION:Therapy Dog Prep and CGC\nWould you like to share your dog’s
  org/dog-owners/training/canine-good-citizen/what-is-canine-good-citizen/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Rally 2 - Advanced (Cole Mertz)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20261031T191500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20261031T201500Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010012Z
+UID:1793474100_Rally2-Advanced@luckydog
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Manners 3 - Advanced (Rachel Simmons)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261101T151500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261101T161000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010026Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010013Z
 UID:1793546100_Manners3-Advanced@luckydog
 DESCRIPTION:Ready to take your dog’s training to the next level? In Adva
  nced Manners\, we build on your basic foundation to add distractions\, lea
@@ -1442,7 +752,7 @@ BEGIN:VEVENT
 SUMMARY:Canine Conditioning (Lea Pfeiffer)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261101T151500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261101T161000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010026Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010013Z
 UID:1793546100_CanineConditioning@luckydog
 DESCRIPTION:Canine Conditioning is a fun educational canine fitness class 
  designed to help dogs move with strength\, confidence\, and purpose.\nThro
@@ -1463,7 +773,7 @@ BEGIN:VEVENT
 SUMMARY:Agility - Competition Level 1 (Beth Martin)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261101T161500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261101T171500Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010026Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010013Z
 UID:1793549700_Agility-CompetitionLevel1@luckydog
 DESCRIPTION:Teams will continue building skills from previous courses. Tea
  ms must be able to perform:\nAll equipment\nContacts full height\nunassist
@@ -1476,7 +786,7 @@ BEGIN:VEVENT
 SUMMARY:Specialty - Sports Sampler (Lea Pfeiffer)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261101T163000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261101T173000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010026Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010013Z
 UID:1793550600_Specialty-SportsSampler@luckydog
 DESCRIPTION:Are you interested in dog sports but overwhelmed by the option
  s? This four-week class is a short introduction to tricks\, nosework\, agi
@@ -1487,7 +797,7 @@ BEGIN:VEVENT
 SUMMARY:Manners 1 - Basic (Rachel Simmons)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261101T163000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261101T172500Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010026Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010013Z
 UID:1793550600_Manners1-Basic@luckydog
 DESCRIPTION:Let’s face it\, dogs these days are part of the family. But 
  as much as we treat them like furry humans\, they need some help to act li
@@ -1503,7 +813,7 @@ BEGIN:VEVENT
 SUMMARY:Agility - Competition Level 1 (Beth Martin)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261101T173000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261101T183000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010026Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010013Z
 UID:1793554200_Agility-CompetitionLevel1@luckydog
 DESCRIPTION:Teams will continue building skills from previous courses. Tea
  ms must be able to perform:\nAll equipment\nContacts full height\nunassist
@@ -1516,7 +826,7 @@ BEGIN:VEVENT
 SUMMARY:Rally 3 - Intermediate (Lea Pfeiffer)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261101T174500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261101T184000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010026Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010013Z
 UID:1793555100_Rally3-Intermediate@luckydog
 DESCRIPTION:
 END:VEVENT
@@ -1524,7 +834,7 @@ BEGIN:VEVENT
 SUMMARY:Puppy Kindergarten (Rachel Simmons)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261101T174500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261101T184500Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010026Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010013Z
 UID:1793555100_PuppyKindergarten@luckydog
 DESCRIPTION:If you recently added a new puppy to your family\, you're in t
  he right place! Puppy Kindergarten is the perfect place to start for puppi
@@ -1538,7 +848,7 @@ BEGIN:VEVENT
 SUMMARY:Orientation (Rachel Simmons)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261101T190000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261101T193000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010026Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010013Z
 UID:1793559600_Orientation@luckydog
 DESCRIPTION:Orientation is a mini-class to cover requirements and check th
  at your dog will be a good fit for Basic Manners. Our manners classes typi
@@ -1551,7 +861,7 @@ BEGIN:VEVENT
 SUMMARY:Agility - Pre-Novice (Beth Martin)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261101T190000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261101T200000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010026Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010013Z
 UID:1793559600_Agility-Pre-Novice@luckydog
 DESCRIPTION:The Pre-Novice class is for teams who are gearing up to compet
  e! It focuses on closing weaves\, nailing contacts\, and adding to sequenc
@@ -1561,7 +871,7 @@ BEGIN:VEVENT
 SUMMARY:Specialty - CGCA Prep/Dog About Town (Lea Pfeiffer)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261101T191500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261101T201500Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010026Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010013Z
 UID:1793560500_Specialty-CGCAPrep/DogAboutTown@luckydog
 DESCRIPTION:Ready to test your dog's skills in the real world? This class 
  will focus on real-life applications for the behaviors you learned in Adva
@@ -1576,20 +886,41 @@ DESCRIPTION:Ready to test your dog's skills in the real world? This class
  tore or at the park.
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Semi-Private: Agility (Beth Martin)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20261101T203000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20261101T213000Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010013Z
+UID:1793565000_Semi-Private:Agility@luckydog
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Agility - Competition Level 2 (Beth Martin)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261102T170000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261102T180000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010028Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010015Z
 UID:1793638800_Agility-CompetitionLevel2@luckydog
 DESCRIPTION:Teams must be competent on all equipment\, including 12 straig
  ht weaves and running full courses at Advanced - Excellent - Senior levels
  .
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Agility - Competition Level 1 (Beth Martin)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20261102T183000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20261102T193000Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010015Z
+UID:1793644200_Agility-CompetitionLevel1@luckydog
+DESCRIPTION:Teams will continue building skills from previous courses. Tea
+ ms must be able to perform:\nAll equipment\nContacts full height\nunassist
+ ed see-saw\nClosed\n12 weaves without assistance\nCan utilize front\, rear
+ \, and blind crosses on course\nRunning full courses at Novice to Open Lev
+ els\nPinwheels\, serpentines\, and threadles\nProficient back sides and ju
+ mp wraps\nNovice sends (6-10 ft gamble lines)
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Orientation (Lea Pfeiffer)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261102T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261102T233000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010028Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010015Z
 UID:1793660400_Orientation@luckydog
 DESCRIPTION:Orientation is a mini-class to cover requirements and check th
  at your dog will be a good fit for Basic Manners. Our manners classes typi
@@ -1602,7 +933,7 @@ BEGIN:VEVENT
 SUMMARY:Agility - Competition Level 1 (Beth Martin)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261102T234500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261103T004500Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010028Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010015Z
 UID:1793663100_Agility-CompetitionLevel1@luckydog
 DESCRIPTION:Teams will continue building skills from previous courses. Tea
  ms must be able to perform:\nAll equipment\nContacts full height\nunassist
@@ -1615,7 +946,7 @@ BEGIN:VEVENT
 SUMMARY:Manners 3 - Advanced (Lea Pfeiffer)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261103T000000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261103T005500Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010028Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010015Z
 UID:1793664000_Manners3-Advanced@luckydog
 DESCRIPTION:Ready to take your dog’s training to the next level? In Adva
  nced Manners\, we build on your basic foundation to add distractions\, lea
@@ -1629,7 +960,7 @@ BEGIN:VEVENT
 SUMMARY:NW3 -  Novice Nosework (Melinda Meche)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261103T000000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261103T010000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010028Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010015Z
 UID:1793664000_NW3-NoviceNosework@luckydog
 DESCRIPTION:In the Novice class of Nosework we add all of the oils into ou
  r cocktail so that your dog can start to discriminate between the differen
@@ -1641,7 +972,7 @@ BEGIN:VEVENT
 SUMMARY:NW4 - Advanced Nosework (Melinda Meche)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261103T010500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261103T020500Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010028Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010015Z
 UID:1793667900_NW4-AdvancedNosework@luckydog
 DESCRIPTION:
 END:VEVENT
@@ -1649,7 +980,7 @@ BEGIN:VEVENT
 SUMMARY:Agility - Competition Level 3 (Beth Martin)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261103T010500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261103T020500Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010028Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010015Z
 UID:1793667900_Agility-CompetitionLevel3@luckydog
 DESCRIPTION:Focusing on Premier and International-style courses and workin
  g on the handling skills needed to get around those courses. Dogs must be 
@@ -1659,7 +990,7 @@ BEGIN:VEVENT
 SUMMARY:Manners 1 - Basic (Lea Pfeiffer)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261103T010500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261103T020000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010028Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010015Z
 UID:1793667900_Manners1-Basic@luckydog
 DESCRIPTION:Let’s face it\, dogs these days are part of the family. But 
  as much as we treat them like furry humans\, they need some help to act li
@@ -1675,7 +1006,7 @@ BEGIN:VEVENT
 SUMMARY:Agility - Beginner 3 (Susan Waits)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261103T021500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261103T031500Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010028Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010015Z
 UID:1793672100_Agility-Beginner3@luckydog
 DESCRIPTION:
 END:VEVENT
@@ -1683,7 +1014,7 @@ BEGIN:VEVENT
 SUMMARY:NW5 - Excellent Nosework (Melinda Meche)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261103T021500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261103T031500Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010028Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010015Z
 UID:1793672100_NW5-ExcellentNosework@luckydog
 DESCRIPTION:The Intermediate class of Nosework incorporates the use of all
   the different oils  We will start to build search areas to mock Advanced
@@ -1694,7 +1025,7 @@ BEGIN:VEVENT
 SUMMARY:Semi-Private: Agility (Beth Martin)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261103T180000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261103T190000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010029Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010016Z
 UID:1793728800_Semi-Private:Agility@luckydog
 DESCRIPTION:
 END:VEVENT
@@ -1702,7 +1033,7 @@ BEGIN:VEVENT
 SUMMARY:NW5 - Excellent Nosework (Amanda Lewis)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261103T180000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261103T190000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010029Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010016Z
 UID:1793728800_NW5-ExcellentNosework@luckydog
 DESCRIPTION:The Intermediate class of Nosework incorporates the use of all
   the different oils  We will start to build search areas to mock Advanced
@@ -1713,7 +1044,7 @@ BEGIN:VEVENT
 SUMMARY:NW3 -  Novice Nosework (Amanda Lewis)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261103T193000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261103T203000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010029Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010016Z
 UID:1793734200_NW3-NoviceNosework@luckydog
 DESCRIPTION:In the Novice class of Nosework we add all of the oils into ou
  r cocktail so that your dog can start to discriminate between the differen
@@ -1722,10 +1053,33 @@ DESCRIPTION:In the Novice class of Nosework we add all of the oils into ou
  other organizations.
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Agility - Competition Level 1 (Beth Martin)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20261103T200000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20261103T210000Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010016Z
+UID:1793736000_Agility-CompetitionLevel1@luckydog
+DESCRIPTION:Teams will continue building skills from previous courses. Tea
+ ms must be able to perform:\nAll equipment\nContacts full height\nunassist
+ ed see-saw\nClosed\n12 weaves without assistance\nCan utilize front\, rear
+ \, and blind crosses on course\nRunning full courses at Novice to Open Lev
+ els\nPinwheels\, serpentines\, and threadles\nProficient back sides and ju
+ mp wraps\nNovice sends (6-10 ft gamble lines)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Agility - Competition Level 2 (Beth Martin)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20261103T213000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20261103T223000Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010016Z
+UID:1793741400_Agility-CompetitionLevel2@luckydog
+DESCRIPTION:Teams must be competent on all equipment\, including 12 straig
+ ht weaves and running full courses at Advanced - Excellent - Senior levels
+ .
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:NW5 - Excellent Nosework (Melinda Meche)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261104T000000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261104T010000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010029Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010016Z
 UID:1793750400_NW5-ExcellentNosework@luckydog
 DESCRIPTION:The Intermediate class of Nosework incorporates the use of all
   the different oils  We will start to build search areas to mock Advanced
@@ -1736,7 +1090,7 @@ BEGIN:VEVENT
 SUMMARY:Manners 3 - Advanced (Lea Pfeiffer)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261104T000000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261104T005500Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010029Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010016Z
 UID:1793750400_Manners3-Advanced@luckydog
 DESCRIPTION:Ready to take your dog’s training to the next level? In Adva
  nced Manners\, we build on your basic foundation to add distractions\, lea
@@ -1747,20 +1101,49 @@ DESCRIPTION:Ready to take your dog’s training to the next level? In Adva
  th you\, Advanced Manners is the place to be!
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Agility - Competition Level 3 (Beth Martin)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20261104T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20261104T010000Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010016Z
+UID:1793750400_Agility-CompetitionLevel3@luckydog
+DESCRIPTION:Focusing on Premier and International-style courses and workin
+ g on the handling skills needed to get around those courses. Dogs must be 
+ competing at Master level\, or have instructor approval.
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Agility - Pre-Novice (Jordan Phoenix)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261104T010500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261104T020500Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010029Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010016Z
 UID:1793754300_Agility-Pre-Novice@luckydog
 DESCRIPTION:The Pre-Novice class is for teams who are gearing up to compet
  e! It focuses on closing weaves\, nailing contacts\, and adding to sequenc
  es
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Specialty - Nice Greets with a Loose Leash (Lea Pfeiffer)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20261104T010500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20261104T020000Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010016Z
+UID:1793754300_Specialty-NiceGreetswithaLooseLeash@luckydog
+DESCRIPTION:Having a friendly dog is a wonderful thing! Having a friendly 
+ dog with manners is even better. This 4 week class will focus on two essen
+ tial skills: loose leash walking and keeping all four paws on the floor! T
+ his class will teach your overly friendly dog how to appropriately greet (
+ or ignore) people instead of tackling them with excitement. We’ll also h
+ elp you teach your dog how to maintain that beautiful loose leash in the f
+ ace of distractions (including other dogs) with the added bonus of getting
+  better on leash attention from your dog.\nPlease note that this class is 
+ for dogs who are extremely excited about saying hi to people and are leash
+  pullers. This is not for dogs who respond fearfully or who lunge or bark 
+ aggressively towards other people or dogs. If this is your first class at 
+ Lucky Dog\, please attend an orientation before enrolling.
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:NW5 - Excellent Nosework (Melinda Meche)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261104T011000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261104T021000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010029Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010016Z
 UID:1793754600_NW5-ExcellentNosework@luckydog
 DESCRIPTION:The Intermediate class of Nosework incorporates the use of all
   the different oils  We will start to build search areas to mock Advanced
@@ -1771,7 +1154,7 @@ BEGIN:VEVENT
 SUMMARY:Agility - Pre-Novice (Jordan Phoenix)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261104T021500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261104T031500Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010029Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010016Z
 UID:1793758500_Agility-Pre-Novice@luckydog
 DESCRIPTION:The Pre-Novice class is for teams who are gearing up to compet
  e! It focuses on closing weaves\, nailing contacts\, and adding to sequenc
@@ -1781,7 +1164,7 @@ BEGIN:VEVENT
 SUMMARY:NW4 - Advanced Nosework (Melinda Meche)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261104T021500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261104T031500Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010029Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010016Z
 UID:1793758500_NW4-AdvancedNosework@luckydog
 DESCRIPTION:
 END:VEVENT
@@ -1789,15 +1172,26 @@ BEGIN:VEVENT
 SUMMARY:NW6- Master Nosework (Melinda Meche)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261104T163000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261104T173000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010031Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010017Z
 UID:1793809800_NW6-MasterNosework@luckydog
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NW5 - Excellent Nosework (Melinda Meche)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20261104T174500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20261104T184500Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010017Z
+UID:1793814300_NW5-ExcellentNosework@luckydog
+DESCRIPTION:The Intermediate class of Nosework incorporates the use of all
+  the different oils  We will start to build search areas to mock Advanced
+  trial-like setting of Interior\, Exterior\, Vehicles as well as continue 
+ working on containers.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NW5 - Excellent Nosework (Melinda Meche)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261104T200000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261104T210000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010031Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010017Z
 UID:1793822400_NW5-ExcellentNosework@luckydog
 DESCRIPTION:The Intermediate class of Nosework incorporates the use of all
   the different oils  We will start to build search areas to mock Advanced
@@ -1808,7 +1202,7 @@ BEGIN:VEVENT
 SUMMARY:Semi-Private: Agility (Beth Martin)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261104T224500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261104T233000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010031Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010017Z
 UID:1793832300_Semi-Private:Agility@luckydog
 DESCRIPTION:
 END:VEVENT
@@ -1816,7 +1210,7 @@ BEGIN:VEVENT
 SUMMARY:Orientation (Lea Pfeiffer)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261104T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261104T233000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010031Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010017Z
 UID:1793833200_Orientation@luckydog
 DESCRIPTION:Orientation is a mini-class to cover requirements and check th
  at your dog will be a good fit for Basic Manners. Our manners classes typi
@@ -1829,7 +1223,7 @@ BEGIN:VEVENT
 SUMMARY:Agility - Competition Level 2 (Beth Martin)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261105T000000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261105T010000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010031Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010017Z
 UID:1793836800_Agility-CompetitionLevel2@luckydog
 DESCRIPTION:Teams must be competent on all equipment\, including 12 straig
  ht weaves and running full courses at Advanced - Excellent - Senior levels
@@ -1839,7 +1233,7 @@ BEGIN:VEVENT
 SUMMARY:Trick Dog 2 -  Intermediate (Lea Pfeiffer)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261105T000000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261105T005500Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010031Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010017Z
 UID:1793836800_TrickDog2-Intermediate@luckydog
 DESCRIPTION:This six-week class is designed to work towards your AKC Trick
   Dog Intermediate title! Teams will work on tricks for their respective le
@@ -1849,7 +1243,7 @@ BEGIN:VEVENT
 SUMMARY:Manners 1 - Basic (Lea Pfeiffer)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261105T010500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261105T020000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010031Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010017Z
 UID:1793840700_Manners1-Basic@luckydog
 DESCRIPTION:Let’s face it\, dogs these days are part of the family. But 
  as much as we treat them like furry humans\, they need some help to act li
@@ -1865,7 +1259,7 @@ BEGIN:VEVENT
 SUMMARY:Agility - Masters/International Level (Beth Martin)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261105T010500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261105T020500Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010031Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010017Z
 UID:1793840700_Agility-Masters/InternationalLevel@luckydog
 DESCRIPTION:Must have successfully completed Agility Open or have instruct
  or approval
@@ -1874,7 +1268,7 @@ BEGIN:VEVENT
 SUMMARY:Rally 2 - Advanced (Susan Ramsbottom)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261105T013000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261105T023000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010031Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010017Z
 UID:1793842200_Rally2-Advanced@luckydog
 DESCRIPTION:
 END:VEVENT
@@ -1882,7 +1276,7 @@ BEGIN:VEVENT
 SUMMARY:Manners 1 - Basic (Lea Pfeiffer)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261105T021000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261105T030500Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010031Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010017Z
 UID:1793844600_Manners1-Basic@luckydog
 DESCRIPTION:Let’s face it\, dogs these days are part of the family. But 
  as much as we treat them like furry humans\, they need some help to act li
@@ -1898,7 +1292,7 @@ BEGIN:VEVENT
 SUMMARY:Agility - Competition Level 1 (Beth Martin)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261105T021500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261105T031500Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010031Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010017Z
 UID:1793844900_Agility-CompetitionLevel1@luckydog
 DESCRIPTION:Teams will continue building skills from previous courses. Tea
  ms must be able to perform:\nAll equipment\nContacts full height\nunassist
@@ -1911,7 +1305,7 @@ BEGIN:VEVENT
 SUMMARY:Agility - Competition Level 1 (Beth Martin)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261105T163000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261105T173000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010032Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010018Z
 UID:1793896200_Agility-CompetitionLevel1@luckydog
 DESCRIPTION:Teams will continue building skills from previous courses. Tea
  ms must be able to perform:\nAll equipment\nContacts full height\nunassist
@@ -1924,7 +1318,7 @@ BEGIN:VEVENT
 SUMMARY:Agility - Pre-Novice (Beth Martin)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261105T180000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261105T190000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010032Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010018Z
 UID:1793901600_Agility-Pre-Novice@luckydog
 DESCRIPTION:The Pre-Novice class is for teams who are gearing up to compet
  e! It focuses on closing weaves\, nailing contacts\, and adding to sequenc
@@ -1934,7 +1328,7 @@ BEGIN:VEVENT
 SUMMARY:Agility - Competition Level 1 (Beth Martin)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261106T000000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261106T010000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010032Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010018Z
 UID:1793923200_Agility-CompetitionLevel1@luckydog
 DESCRIPTION:Teams will continue building skills from previous courses. Tea
  ms must be able to perform:\nAll equipment\nContacts full height\nunassist
@@ -1947,7 +1341,7 @@ BEGIN:VEVENT
 SUMMARY:Rally 2 - Advanced (Lea Pfeiffer)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261106T000000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261106T010000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010032Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010018Z
 UID:1793923200_Rally2-Advanced@luckydog
 DESCRIPTION:
 END:VEVENT
@@ -1955,7 +1349,7 @@ BEGIN:VEVENT
 SUMMARY:Agility - Competition Level 3 (Beth Martin)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261106T010500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261106T020500Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010032Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010018Z
 UID:1793927100_Agility-CompetitionLevel3@luckydog
 DESCRIPTION:Focusing on Premier and International-style courses and workin
  g on the handling skills needed to get around those courses. Dogs must be 
@@ -1965,15 +1359,25 @@ BEGIN:VEVENT
 SUMMARY:Rally 1 - Novice (Lea Pfeiffer)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261106T011500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261106T021500Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010032Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010018Z
 UID:1793927700_Rally1-Novice@luckydog
 DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Agility - Competition Level 2 (Beth Martin)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20261106T021500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20261106T031500Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010018Z
+UID:1793931300_Agility-CompetitionLevel2@luckydog
+DESCRIPTION:Teams must be competent on all equipment\, including 12 straig
+ ht weaves and running full courses at Advanced - Excellent - Senior levels
+ .
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Manners 1 - Basic (Rachel Simmons)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261107T151500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261107T161000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010034Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010020Z
 UID:1794064500_Manners1-Basic@luckydog
 DESCRIPTION:Let’s face it\, dogs these days are part of the family. But 
  as much as we treat them like furry humans\, they need some help to act li
@@ -1989,7 +1393,7 @@ BEGIN:VEVENT
 SUMMARY:Manners 3 - Advanced (Rachel Simmons)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261107T163000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261107T172500Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010034Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010020Z
 UID:1794069000_Manners3-Advanced@luckydog
 DESCRIPTION:Ready to take your dog’s training to the next level? In Adva
  nced Manners\, we build on your basic foundation to add distractions\, lea
@@ -2003,7 +1407,7 @@ BEGIN:VEVENT
 SUMMARY:Orientation (Rachel Simmons)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261107T180000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261107T183000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010034Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010020Z
 UID:1794074400_Orientation@luckydog
 DESCRIPTION:Orientation is a mini-class to cover requirements and check th
  at your dog will be a good fit for Basic Manners. Our manners classes typi
@@ -2016,7 +1420,7 @@ BEGIN:VEVENT
 SUMMARY:Specialty - Therapy Dog Prep/CGC (Rachel Simmons)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261107T190000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261107T195500Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010034Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010020Z
 UID:1794078000_Specialty-TherapyDogPrep/CGC@luckydog
 DESCRIPTION:Therapy Dog Prep and CGC\nWould you like to share your dog’s
   companionship with people in hospitals\, nursing homes\, schools\, or eve
@@ -2041,10 +1445,18 @@ DESCRIPTION:Therapy Dog Prep and CGC\nWould you like to share your dog’s
  org/dog-owners/training/canine-good-citizen/what-is-canine-good-citizen/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Rally 2 - Advanced (Cole Mertz)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20261107T201500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20261107T211500Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010020Z
+UID:1794082500_Rally2-Advanced@luckydog
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Canine Conditioning (Lea Pfeiffer)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261108T151500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261108T161000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010036Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010021Z
 UID:1794150900_CanineConditioning@luckydog
 DESCRIPTION:Canine Conditioning is a fun educational canine fitness class 
  designed to help dogs move with strength\, confidence\, and purpose.\nThro
@@ -2065,7 +1477,7 @@ BEGIN:VEVENT
 SUMMARY:Puppy Kindergarten (Rachel Simmons)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261108T151500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261108T161000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010036Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010021Z
 UID:1794150900_PuppyKindergarten@luckydog
 DESCRIPTION:If you recently added a new puppy to your family\, you're in t
  he right place! Puppy Kindergarten is the perfect place to start for puppi
@@ -2079,7 +1491,7 @@ BEGIN:VEVENT
 SUMMARY:Agility - Competition Level 1 (Beth Martin)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261108T161500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261108T171500Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010036Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010021Z
 UID:1794154500_Agility-CompetitionLevel1@luckydog
 DESCRIPTION:Teams will continue building skills from previous courses. Tea
  ms must be able to perform:\nAll equipment\nContacts full height\nunassist
@@ -2092,7 +1504,7 @@ BEGIN:VEVENT
 SUMMARY:Manners 1 - Basic (Rachel Simmons)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261108T163000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261108T172500Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010036Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010021Z
 UID:1794155400_Manners1-Basic@luckydog
 DESCRIPTION:Let’s face it\, dogs these days are part of the family. But 
  as much as we treat them like furry humans\, they need some help to act li
@@ -2105,10 +1517,26 @@ DESCRIPTION:Let’s face it\, dogs these days are part of the family. But
  ounter surfing.
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Rally 0 - Intro (Lea Pfeiffer)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20261108T163000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20261108T172500Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010021Z
+UID:1794155400_Rally0-Intro@luckydog
+DESCRIPTION:Looking for a fun way to build more focus with your dog? Wheth
+ er you are preparing to take a Canine Good Citizen test\, Therapy Test or 
+ maybe you just want to try something new…Rally helps you build a great f
+ oundation with your dog and can help you in many other teamwork events.  
+ This class refines your dogs basic manners and has real life applications.
+   This class will focus on AKC Rally-O including attentive heeling\, fini
+ sh\, fronts and some cone work. We use positive training techniques in a f
+ un and supportive environment.\nPrerequisite: Successful completion of Man
+ ners 2
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Agility - Competition Level 1 (Beth Martin)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261108T173000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261108T183000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010036Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010021Z
 UID:1794159000_Agility-CompetitionLevel1@luckydog
 DESCRIPTION:Teams will continue building skills from previous courses. Tea
  ms must be able to perform:\nAll equipment\nContacts full height\nunassist
@@ -2121,7 +1549,7 @@ BEGIN:VEVENT
 SUMMARY:Rally 3 - Intermediate (Lea Pfeiffer)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261108T174500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261108T184000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010036Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010021Z
 UID:1794159900_Rally3-Intermediate@luckydog
 DESCRIPTION:
 END:VEVENT
@@ -2129,7 +1557,7 @@ BEGIN:VEVENT
 SUMMARY:Puppy Kindergarten (Rachel Simmons)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261108T174500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261108T184500Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010036Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010021Z
 UID:1794159900_PuppyKindergarten@luckydog
 DESCRIPTION:If you recently added a new puppy to your family\, you're in t
  he right place! Puppy Kindergarten is the perfect place to start for puppi
@@ -2143,7 +1571,7 @@ BEGIN:VEVENT
 SUMMARY:Orientation (Rachel Simmons)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261108T190000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261108T193000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010036Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010021Z
 UID:1794164400_Orientation@luckydog
 DESCRIPTION:Orientation is a mini-class to cover requirements and check th
  at your dog will be a good fit for Basic Manners. Our manners classes typi
@@ -2156,7 +1584,7 @@ BEGIN:VEVENT
 SUMMARY:Agility - Pre-Novice (Beth Martin)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261108T190000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261108T200000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010036Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010021Z
 UID:1794164400_Agility-Pre-Novice@luckydog
 DESCRIPTION:The Pre-Novice class is for teams who are gearing up to compet
  e! It focuses on closing weaves\, nailing contacts\, and adding to sequenc
@@ -2166,7 +1594,7 @@ BEGIN:VEVENT
 SUMMARY:Specialty - CGCA Prep/Dog About Town (Lea Pfeiffer)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261108T191500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261108T201500Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010036Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010021Z
 UID:1794165300_Specialty-CGCAPrep/DogAboutTown@luckydog
 DESCRIPTION:Ready to test your dog's skills in the real world? This class 
  will focus on real-life applications for the behaviors you learned in Adva
@@ -2181,20 +1609,41 @@ DESCRIPTION:Ready to test your dog's skills in the real world? This class
  tore or at the park.
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Semi-Private: Agility (Beth Martin)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20261108T203000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20261108T213000Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010021Z
+UID:1794169800_Semi-Private:Agility@luckydog
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Agility - Competition Level 2 (Beth Martin)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261109T170000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261109T180000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010038Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010022Z
 UID:1794243600_Agility-CompetitionLevel2@luckydog
 DESCRIPTION:Teams must be competent on all equipment\, including 12 straig
  ht weaves and running full courses at Advanced - Excellent - Senior levels
  .
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Agility - Competition Level 1 (Beth Martin)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20261109T183000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20261109T193000Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010022Z
+UID:1794249000_Agility-CompetitionLevel1@luckydog
+DESCRIPTION:Teams will continue building skills from previous courses. Tea
+ ms must be able to perform:\nAll equipment\nContacts full height\nunassist
+ ed see-saw\nClosed\n12 weaves without assistance\nCan utilize front\, rear
+ \, and blind crosses on course\nRunning full courses at Novice to Open Lev
+ els\nPinwheels\, serpentines\, and threadles\nProficient back sides and ju
+ mp wraps\nNovice sends (6-10 ft gamble lines)
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Orientation (Lea Pfeiffer)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261109T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261109T233000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010038Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010022Z
 UID:1794265200_Orientation@luckydog
 DESCRIPTION:Orientation is a mini-class to cover requirements and check th
  at your dog will be a good fit for Basic Manners. Our manners classes typi
@@ -2207,7 +1656,7 @@ BEGIN:VEVENT
 SUMMARY:Agility - Competition Level 1 (Beth Martin)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261109T234500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261110T004500Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010038Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010022Z
 UID:1794267900_Agility-CompetitionLevel1@luckydog
 DESCRIPTION:Teams will continue building skills from previous courses. Tea
  ms must be able to perform:\nAll equipment\nContacts full height\nunassist
@@ -2220,7 +1669,7 @@ BEGIN:VEVENT
 SUMMARY:Manners 3 - Advanced (Lea Pfeiffer)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261110T000000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261110T005500Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010038Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010022Z
 UID:1794268800_Manners3-Advanced@luckydog
 DESCRIPTION:Ready to take your dog’s training to the next level? In Adva
  nced Manners\, we build on your basic foundation to add distractions\, lea
@@ -2234,7 +1683,7 @@ BEGIN:VEVENT
 SUMMARY:NW3 -  Novice Nosework (Melinda Meche)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261110T000000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261110T010000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010038Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010022Z
 UID:1794268800_NW3-NoviceNosework@luckydog
 DESCRIPTION:In the Novice class of Nosework we add all of the oils into ou
  r cocktail so that your dog can start to discriminate between the differen
@@ -2246,7 +1695,7 @@ BEGIN:VEVENT
 SUMMARY:NW4 - Advanced Nosework (Melinda Meche)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261110T010500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261110T020500Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010038Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010022Z
 UID:1794272700_NW4-AdvancedNosework@luckydog
 DESCRIPTION:
 END:VEVENT
@@ -2254,7 +1703,7 @@ BEGIN:VEVENT
 SUMMARY:Agility - Competition Level 3 (Beth Martin)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261110T010500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261110T020500Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010038Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010022Z
 UID:1794272700_Agility-CompetitionLevel3@luckydog
 DESCRIPTION:Focusing on Premier and International-style courses and workin
  g on the handling skills needed to get around those courses. Dogs must be 
@@ -2264,7 +1713,7 @@ BEGIN:VEVENT
 SUMMARY:Manners 1 - Basic (Lea Pfeiffer)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261110T010500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261110T020000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010038Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010022Z
 UID:1794272700_Manners1-Basic@luckydog
 DESCRIPTION:Let’s face it\, dogs these days are part of the family. But 
  as much as we treat them like furry humans\, they need some help to act li
@@ -2280,7 +1729,7 @@ BEGIN:VEVENT
 SUMMARY:NW5 - Excellent Nosework (Melinda Meche)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261110T021500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261110T031500Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010038Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010022Z
 UID:1794276900_NW5-ExcellentNosework@luckydog
 DESCRIPTION:The Intermediate class of Nosework incorporates the use of all
   the different oils  We will start to build search areas to mock Advanced
@@ -2291,7 +1740,7 @@ BEGIN:VEVENT
 SUMMARY:NW5 - Excellent Nosework (Amanda Lewis)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261110T180000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261110T190000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010040Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010024Z
 UID:1794333600_NW5-ExcellentNosework@luckydog
 DESCRIPTION:The Intermediate class of Nosework incorporates the use of all
   the different oils  We will start to build search areas to mock Advanced
@@ -2302,7 +1751,7 @@ BEGIN:VEVENT
 SUMMARY:NW3 -  Novice Nosework (Amanda Lewis)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261110T193000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261110T203000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010040Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010024Z
 UID:1794339000_NW3-NoviceNosework@luckydog
 DESCRIPTION:In the Novice class of Nosework we add all of the oils into ou
  r cocktail so that your dog can start to discriminate between the differen
@@ -2311,10 +1760,33 @@ DESCRIPTION:In the Novice class of Nosework we add all of the oils into ou
  other organizations.
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Agility - Competition Level 1 (Beth Martin)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20261110T200000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20261110T210000Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010024Z
+UID:1794340800_Agility-CompetitionLevel1@luckydog
+DESCRIPTION:Teams will continue building skills from previous courses. Tea
+ ms must be able to perform:\nAll equipment\nContacts full height\nunassist
+ ed see-saw\nClosed\n12 weaves without assistance\nCan utilize front\, rear
+ \, and blind crosses on course\nRunning full courses at Novice to Open Lev
+ els\nPinwheels\, serpentines\, and threadles\nProficient back sides and ju
+ mp wraps\nNovice sends (6-10 ft gamble lines)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Agility - Competition Level 2 (Beth Martin)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20261110T213000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20261110T223000Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010024Z
+UID:1794346200_Agility-CompetitionLevel2@luckydog
+DESCRIPTION:Teams must be competent on all equipment\, including 12 straig
+ ht weaves and running full courses at Advanced - Excellent - Senior levels
+ .
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Manners 3 - Advanced (Lea Pfeiffer)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261111T000000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261111T005500Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010040Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010024Z
 UID:1794355200_Manners3-Advanced@luckydog
 DESCRIPTION:Ready to take your dog’s training to the next level? In Adva
  nced Manners\, we build on your basic foundation to add distractions\, lea
@@ -2325,20 +1797,60 @@ DESCRIPTION:Ready to take your dog’s training to the next level? In Adva
  th you\, Advanced Manners is the place to be!
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Agility - Competition Level 3 (Beth Martin)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20261111T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20261111T010000Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010024Z
+UID:1794355200_Agility-CompetitionLevel3@luckydog
+DESCRIPTION:Focusing on Premier and International-style courses and workin
+ g on the handling skills needed to get around those courses. Dogs must be 
+ competing at Master level\, or have instructor approval.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NW5 - Excellent Nosework (Melinda Meche)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20261111T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20261111T010000Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010024Z
+UID:1794355200_NW5-ExcellentNosework@luckydog
+DESCRIPTION:The Intermediate class of Nosework incorporates the use of all
+  the different oils  We will start to build search areas to mock Advanced
+  trial-like setting of Interior\, Exterior\, Vehicles as well as continue 
+ working on containers.
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Agility - Pre-Novice (Jordan Phoenix)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261111T010500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261111T020500Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010040Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010024Z
 UID:1794359100_Agility-Pre-Novice@luckydog
 DESCRIPTION:The Pre-Novice class is for teams who are gearing up to compet
  e! It focuses on closing weaves\, nailing contacts\, and adding to sequenc
  es
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Specialty - Nice Greets with a Loose Leash (Lea Pfeiffer)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20261111T010500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20261111T020000Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010024Z
+UID:1794359100_Specialty-NiceGreetswithaLooseLeash@luckydog
+DESCRIPTION:Having a friendly dog is a wonderful thing! Having a friendly 
+ dog with manners is even better. This 4 week class will focus on two essen
+ tial skills: loose leash walking and keeping all four paws on the floor! T
+ his class will teach your overly friendly dog how to appropriately greet (
+ or ignore) people instead of tackling them with excitement. We’ll also h
+ elp you teach your dog how to maintain that beautiful loose leash in the f
+ ace of distractions (including other dogs) with the added bonus of getting
+  better on leash attention from your dog.\nPlease note that this class is 
+ for dogs who are extremely excited about saying hi to people and are leash
+  pullers. This is not for dogs who respond fearfully or who lunge or bark 
+ aggressively towards other people or dogs. If this is your first class at 
+ Lucky Dog\, please attend an orientation before enrolling.
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:NW5 - Excellent Nosework (Melinda Meche)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261111T011000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261111T021000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010040Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010024Z
 UID:1794359400_NW5-ExcellentNosework@luckydog
 DESCRIPTION:The Intermediate class of Nosework incorporates the use of all
   the different oils  We will start to build search areas to mock Advanced
@@ -2349,7 +1861,7 @@ BEGIN:VEVENT
 SUMMARY:Agility - Pre-Novice (Jordan Phoenix)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261111T021500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261111T031500Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010040Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010024Z
 UID:1794363300_Agility-Pre-Novice@luckydog
 DESCRIPTION:The Pre-Novice class is for teams who are gearing up to compet
  e! It focuses on closing weaves\, nailing contacts\, and adding to sequenc
@@ -2359,7 +1871,7 @@ BEGIN:VEVENT
 SUMMARY:NW4 - Advanced Nosework (Melinda Meche)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261111T021500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261111T031500Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010040Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010024Z
 UID:1794363300_NW4-AdvancedNosework@luckydog
 DESCRIPTION:
 END:VEVENT
@@ -2367,15 +1879,26 @@ BEGIN:VEVENT
 SUMMARY:NW6- Master Nosework (Melinda Meche)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261111T163000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261111T173000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010041Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010025Z
 UID:1794414600_NW6-MasterNosework@luckydog
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NW5 - Excellent Nosework (Melinda Meche)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20261111T174500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20261111T184500Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010025Z
+UID:1794419100_NW5-ExcellentNosework@luckydog
+DESCRIPTION:The Intermediate class of Nosework incorporates the use of all
+  the different oils  We will start to build search areas to mock Advanced
+  trial-like setting of Interior\, Exterior\, Vehicles as well as continue 
+ working on containers.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NW5 - Excellent Nosework (Melinda Meche)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261111T200000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261111T210000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010041Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010025Z
 UID:1794427200_NW5-ExcellentNosework@luckydog
 DESCRIPTION:The Intermediate class of Nosework incorporates the use of all
   the different oils  We will start to build search areas to mock Advanced
@@ -2386,7 +1909,7 @@ BEGIN:VEVENT
 SUMMARY:Semi-Private: Agility (Beth Martin)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261111T224500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261111T233000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010041Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010025Z
 UID:1794437100_Semi-Private:Agility@luckydog
 DESCRIPTION:
 END:VEVENT
@@ -2394,7 +1917,7 @@ BEGIN:VEVENT
 SUMMARY:Orientation (Lea Pfeiffer)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261111T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261111T233000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010041Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010025Z
 UID:1794438000_Orientation@luckydog
 DESCRIPTION:Orientation is a mini-class to cover requirements and check th
  at your dog will be a good fit for Basic Manners. Our manners classes typi
@@ -2407,17 +1930,50 @@ BEGIN:VEVENT
 SUMMARY:Trick Dog 2 -  Intermediate (Lea Pfeiffer)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261112T000000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261112T005500Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010041Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010025Z
 UID:1794441600_TrickDog2-Intermediate@luckydog
 DESCRIPTION:This six-week class is designed to work towards your AKC Trick
   Dog Intermediate title! Teams will work on tricks for their respective le
  vels in stations.
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Agility - Competition Level 2 (Beth Martin)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20261112T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20261112T010000Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010025Z
+UID:1794441600_Agility-CompetitionLevel2@luckydog
+DESCRIPTION:Teams must be competent on all equipment\, including 12 straig
+ ht weaves and running full courses at Advanced - Excellent - Senior levels
+ .
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manners 3 - Advanced (Lea Pfeiffer)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20261112T010500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20261112T020000Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010025Z
+UID:1794445500_Manners3-Advanced@luckydog
+DESCRIPTION:Ready to take your dog’s training to the next level? In Adva
+ nced Manners\, we build on your basic foundation to add distractions\, lea
+ ve treats behind\, and introduce some tricks to keep it interesting! This 
+ class is designed to take your dog’s behavior above and beyond to make s
+ ure he can keep his brain in any situation. If you want to get into therap
+ y work\, dog sports\, or just want your best friend to go out and about wi
+ th you\, Advanced Manners is the place to be!
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Agility - Masters/International Level (Beth Martin)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20261112T010500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20261112T020500Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010025Z
+UID:1794445500_Agility-Masters/InternationalLevel@luckydog
+DESCRIPTION:Must have successfully completed Agility Open or have instruct
+ or approval
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Rally 2 - Advanced (Susan Ramsbottom)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261112T013000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261112T023000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010041Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010025Z
 UID:1794447000_Rally2-Advanced@luckydog
 DESCRIPTION:
 END:VEVENT
@@ -2425,7 +1981,7 @@ BEGIN:VEVENT
 SUMMARY:Manners 1 - Basic (Lea Pfeiffer)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261112T021000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261112T030500Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010041Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010025Z
 UID:1794449400_Manners1-Basic@luckydog
 DESCRIPTION:Let’s face it\, dogs these days are part of the family. But 
  as much as we treat them like furry humans\, they need some help to act li
@@ -2441,8 +1997,21 @@ BEGIN:VEVENT
 SUMMARY:Agility - Competition Level 1 (Beth Martin)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261112T021500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261112T031500Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010041Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010025Z
 UID:1794449700_Agility-CompetitionLevel1@luckydog
+DESCRIPTION:Teams will continue building skills from previous courses. Tea
+ ms must be able to perform:\nAll equipment\nContacts full height\nunassist
+ ed see-saw\nClosed\n12 weaves without assistance\nCan utilize front\, rear
+ \, and blind crosses on course\nRunning full courses at Novice to Open Lev
+ els\nPinwheels\, serpentines\, and threadles\nProficient back sides and ju
+ mp wraps\nNovice sends (6-10 ft gamble lines)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Agility - Competition Level 1 (Beth Martin)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20261112T163000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20261112T173000Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010026Z
+UID:1794501000_Agility-CompetitionLevel1@luckydog
 DESCRIPTION:Teams will continue building skills from previous courses. Tea
  ms must be able to perform:\nAll equipment\nContacts full height\nunassist
  ed see-saw\nClosed\n12 weaves without assistance\nCan utilize front\, rear
@@ -2454,7 +2023,7 @@ BEGIN:VEVENT
 SUMMARY:Agility - Pre-Novice (Beth Martin)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261112T180000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261112T190000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010042Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010026Z
 UID:1794506400_Agility-Pre-Novice@luckydog
 DESCRIPTION:The Pre-Novice class is for teams who are gearing up to compet
  e! It focuses on closing weaves\, nailing contacts\, and adding to sequenc
@@ -2464,15 +2033,28 @@ BEGIN:VEVENT
 SUMMARY:Rally 2 - Advanced (Lea Pfeiffer)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261113T000000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261113T010000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010042Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010026Z
 UID:1794528000_Rally2-Advanced@luckydog
 DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Agility - Competition Level 1 (Beth Martin)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20261113T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20261113T010000Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010026Z
+UID:1794528000_Agility-CompetitionLevel1@luckydog
+DESCRIPTION:Teams will continue building skills from previous courses. Tea
+ ms must be able to perform:\nAll equipment\nContacts full height\nunassist
+ ed see-saw\nClosed\n12 weaves without assistance\nCan utilize front\, rear
+ \, and blind crosses on course\nRunning full courses at Novice to Open Lev
+ els\nPinwheels\, serpentines\, and threadles\nProficient back sides and ju
+ mp wraps\nNovice sends (6-10 ft gamble lines)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Agility - Competition Level 3 (Beth Martin)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261113T010500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261113T020500Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010042Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010026Z
 UID:1794531900_Agility-CompetitionLevel3@luckydog
 DESCRIPTION:Focusing on Premier and International-style courses and workin
  g on the handling skills needed to get around those courses. Dogs must be 
@@ -2482,15 +2064,25 @@ BEGIN:VEVENT
 SUMMARY:Rally 1 - Novice (Lea Pfeiffer)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261113T011500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261113T021500Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010042Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010026Z
 UID:1794532500_Rally1-Novice@luckydog
 DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Agility - Competition Level 2 (Beth Martin)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20261113T021500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20261113T031500Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010026Z
+UID:1794536100_Agility-CompetitionLevel2@luckydog
+DESCRIPTION:Teams must be competent on all equipment\, including 12 straig
+ ht weaves and running full courses at Advanced - Excellent - Senior levels
+ .
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Manners 3 - Advanced (Rachel Simmons)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261114T163000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261114T172500Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010045Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010028Z
 UID:1794673800_Manners3-Advanced@luckydog
 DESCRIPTION:Ready to take your dog’s training to the next level? In Adva
  nced Manners\, we build on your basic foundation to add distractions\, lea
@@ -2504,7 +2096,7 @@ BEGIN:VEVENT
 SUMMARY:Orientation (Rachel Simmons)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261114T180000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261114T183000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010045Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010028Z
 UID:1794679200_Orientation@luckydog
 DESCRIPTION:Orientation is a mini-class to cover requirements and check th
  at your dog will be a good fit for Basic Manners. Our manners classes typi
@@ -2517,7 +2109,7 @@ BEGIN:VEVENT
 SUMMARY:Specialty - Therapy Dog Prep/CGC (Rachel Simmons)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261114T190000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261114T195500Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010045Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010028Z
 UID:1794682800_Specialty-TherapyDogPrep/CGC@luckydog
 DESCRIPTION:Therapy Dog Prep and CGC\nWould you like to share your dog’s
   companionship with people in hospitals\, nursing homes\, schools\, or eve
@@ -2542,10 +2134,18 @@ DESCRIPTION:Therapy Dog Prep and CGC\nWould you like to share your dog’s
  org/dog-owners/training/canine-good-citizen/what-is-canine-good-citizen/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Rally 2 - Advanced (Cole Mertz)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20261114T201500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20261114T211500Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010028Z
+UID:1794687300_Rally2-Advanced@luckydog
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Puppy Kindergarten (Rachel Simmons)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261115T151500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261115T161000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010046Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010029Z
 UID:1794755700_PuppyKindergarten@luckydog
 DESCRIPTION:If you recently added a new puppy to your family\, you're in t
  he right place! Puppy Kindergarten is the perfect place to start for puppi
@@ -2556,10 +2156,20 @@ DESCRIPTION:If you recently added a new puppy to your family\, you're in t
  your puppy to strange noises\, objects\, and surfaces!
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Trick Dog 1 -  Novice (Lea Pfeiffer)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20261115T151500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20261115T161000Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010029Z
+UID:1794755700_TrickDog1-Novice@luckydog
+DESCRIPTION:This six-week class is designed to work towards your AKC Trick
+  Dog Novice title! Teams will work on tricks for their respective levels i
+ n stations.
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Agility - Competition Level 1 (Beth Martin)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261115T161500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261115T171500Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010046Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010029Z
 UID:1794759300_Agility-CompetitionLevel1@luckydog
 DESCRIPTION:Teams will continue building skills from previous courses. Tea
  ms must be able to perform:\nAll equipment\nContacts full height\nunassist
@@ -2572,7 +2182,7 @@ BEGIN:VEVENT
 SUMMARY:Manners 1 - Basic (Rachel Simmons)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261115T163000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261115T172500Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010046Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010029Z
 UID:1794760200_Manners1-Basic@luckydog
 DESCRIPTION:Let’s face it\, dogs these days are part of the family. But 
  as much as we treat them like furry humans\, they need some help to act li
@@ -2585,10 +2195,26 @@ DESCRIPTION:Let’s face it\, dogs these days are part of the family. But
  ounter surfing.
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Rally 0 - Intro (Lea Pfeiffer)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20261115T163000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20261115T172500Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010029Z
+UID:1794760200_Rally0-Intro@luckydog
+DESCRIPTION:Looking for a fun way to build more focus with your dog? Wheth
+ er you are preparing to take a Canine Good Citizen test\, Therapy Test or 
+ maybe you just want to try something new…Rally helps you build a great f
+ oundation with your dog and can help you in many other teamwork events.  
+ This class refines your dogs basic manners and has real life applications.
+   This class will focus on AKC Rally-O including attentive heeling\, fini
+ sh\, fronts and some cone work. We use positive training techniques in a f
+ un and supportive environment.\nPrerequisite: Successful completion of Man
+ ners 2
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Agility - Competition Level 1 (Beth Martin)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261115T173000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261115T183000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010046Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010029Z
 UID:1794763800_Agility-CompetitionLevel1@luckydog
 DESCRIPTION:Teams will continue building skills from previous courses. Tea
  ms must be able to perform:\nAll equipment\nContacts full height\nunassist
@@ -2601,7 +2227,7 @@ BEGIN:VEVENT
 SUMMARY:Rally 3 - Intermediate (Lea Pfeiffer)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261115T174500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261115T184000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010046Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010029Z
 UID:1794764700_Rally3-Intermediate@luckydog
 DESCRIPTION:
 END:VEVENT
@@ -2609,7 +2235,7 @@ BEGIN:VEVENT
 SUMMARY:Puppy Kindergarten (Rachel Simmons)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261115T174500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261115T184500Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010046Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010029Z
 UID:1794764700_PuppyKindergarten@luckydog
 DESCRIPTION:If you recently added a new puppy to your family\, you're in t
  he right place! Puppy Kindergarten is the perfect place to start for puppi
@@ -2623,7 +2249,7 @@ BEGIN:VEVENT
 SUMMARY:Orientation (Rachel Simmons)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261115T190000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261115T193000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010046Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010029Z
 UID:1794769200_Orientation@luckydog
 DESCRIPTION:Orientation is a mini-class to cover requirements and check th
  at your dog will be a good fit for Basic Manners. Our manners classes typi
@@ -2636,7 +2262,7 @@ BEGIN:VEVENT
 SUMMARY:Agility - Pre-Novice (Beth Martin)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261115T190000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261115T200000Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010046Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010029Z
 UID:1794769200_Agility-Pre-Novice@luckydog
 DESCRIPTION:The Pre-Novice class is for teams who are gearing up to compet
  e! It focuses on closing weaves\, nailing contacts\, and adding to sequenc
@@ -2646,8 +2272,629 @@ BEGIN:VEVENT
 SUMMARY:Specialty - CGCA Prep/Dog About Town (Lea Pfeiffer)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261115T191500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261115T201500Z
-DTSTAMP;VALUE=DATE-TIME:20261018T010046Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010029Z
 UID:1794770100_Specialty-CGCAPrep/DogAboutTown@luckydog
+DESCRIPTION:Ready to test your dog's skills in the real world? This class 
+ will focus on real-life applications for the behaviors you learned in Adva
+ nced Manners class! We'll start off at Lucky Dog for the first week and sp
+ end the other 3 weeks of class meeting at various dog-friendly locations. 
+ If your dog already has their Canine Good Citizen Title\, this class will 
+ also prepare you for the Community Canine\, or CGCA\, test. See descriptio
+ n below.\nCommunity Canine (CGCA) is the advanced level of AKC’s Canine 
+ Good Citizen (CGC) program. Like the CGC\, dogs must pass a 10-step test o
+ f skills to earn their CGCA award. The test focuses on real-world scenario
+ s and testing your dog's skills in a more natural setting\, such as in a s
+ tore or at the park.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Semi-Private: Agility (Beth Martin)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20261115T203000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20261115T213000Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010029Z
+UID:1794774600_Semi-Private:Agility@luckydog
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Agility - Competition Level 2 (Beth Martin)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20261116T170000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20261116T180000Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010031Z
+UID:1794848400_Agility-CompetitionLevel2@luckydog
+DESCRIPTION:Teams must be competent on all equipment\, including 12 straig
+ ht weaves and running full courses at Advanced - Excellent - Senior levels
+ .
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Agility - Competition Level 1 (Beth Martin)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20261116T183000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20261116T193000Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010031Z
+UID:1794853800_Agility-CompetitionLevel1@luckydog
+DESCRIPTION:Teams will continue building skills from previous courses. Tea
+ ms must be able to perform:\nAll equipment\nContacts full height\nunassist
+ ed see-saw\nClosed\n12 weaves without assistance\nCan utilize front\, rear
+ \, and blind crosses on course\nRunning full courses at Novice to Open Lev
+ els\nPinwheels\, serpentines\, and threadles\nProficient back sides and ju
+ mp wraps\nNovice sends (6-10 ft gamble lines)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Orientation (Lea Pfeiffer)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20261116T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20261116T233000Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010031Z
+UID:1794870000_Orientation@luckydog
+DESCRIPTION:Orientation is a mini-class to cover requirements and check th
+ at your dog will be a good fit for Basic Manners. Our manners classes typi
+ cally fill 1-3 weeks before they start\, so you may want to register for c
+ lass in advance!\nAfter reserving your spot\, you'll receive a confirmatio
+ n email with instructions for orientation. Please be sure you're opted in 
+ for reminder emails and we look forward to seeing you soon!
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Agility - Competition Level 1 (Beth Martin)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20261116T234500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20261117T004500Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010031Z
+UID:1794872700_Agility-CompetitionLevel1@luckydog
+DESCRIPTION:Teams will continue building skills from previous courses. Tea
+ ms must be able to perform:\nAll equipment\nContacts full height\nunassist
+ ed see-saw\nClosed\n12 weaves without assistance\nCan utilize front\, rear
+ \, and blind crosses on course\nRunning full courses at Novice to Open Lev
+ els\nPinwheels\, serpentines\, and threadles\nProficient back sides and ju
+ mp wraps\nNovice sends (6-10 ft gamble lines)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NW3 -  Novice Nosework (Melinda Meche)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20261117T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20261117T010000Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010031Z
+UID:1794873600_NW3-NoviceNosework@luckydog
+DESCRIPTION:In the Novice class of Nosework we add all of the oils into ou
+ r cocktail so that your dog can start to discriminate between the differen
+ t oils. We will start to build our search areas to mock Novice trial-like 
+ settings. We will start to discuss rules and regulations of AKC\, UKC and 
+ other organizations.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NW4 - Advanced Nosework (Melinda Meche)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20261117T010500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20261117T020500Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010031Z
+UID:1794877500_NW4-AdvancedNosework@luckydog
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Agility - Competition Level 3 (Beth Martin)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20261117T010500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20261117T020500Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010031Z
+UID:1794877500_Agility-CompetitionLevel3@luckydog
+DESCRIPTION:Focusing on Premier and International-style courses and workin
+ g on the handling skills needed to get around those courses. Dogs must be 
+ competing at Master level\, or have instructor approval.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manners 1 - Basic (Lea Pfeiffer)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20261117T010500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20261117T020000Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010031Z
+UID:1794877500_Manners1-Basic@luckydog
+DESCRIPTION:Let’s face it\, dogs these days are part of the family. But 
+ as much as we treat them like furry humans\, they need some help to act li
+ ke it! In Basic Manners\, we cover the essentials that your dog needs to b
+ e a well-behaved member of your family. You’ll learn things like not jum
+ ping up\, coming when called\, and walking nicely on a leash\, as well as 
+ your standard sit\, down\, and stay! We also work on impulse control\, the
+  “place” behavior\, and sitting at the door\, all of which discourage 
+ naughty behavior like stealing food\, darting out the door\, and begging/c
+ ounter surfing.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NW5 - Excellent Nosework (Melinda Meche)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20261117T021500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20261117T031500Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010031Z
+UID:1794881700_NW5-ExcellentNosework@luckydog
+DESCRIPTION:The Intermediate class of Nosework incorporates the use of all
+  the different oils  We will start to build search areas to mock Advanced
+  trial-like setting of Interior\, Exterior\, Vehicles as well as continue 
+ working on containers.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NW5 - Excellent Nosework (Amanda Lewis)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20261117T180000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20261117T190000Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010032Z
+UID:1794938400_NW5-ExcellentNosework@luckydog
+DESCRIPTION:The Intermediate class of Nosework incorporates the use of all
+  the different oils  We will start to build search areas to mock Advanced
+  trial-like setting of Interior\, Exterior\, Vehicles as well as continue 
+ working on containers.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NW3 -  Novice Nosework (Amanda Lewis)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20261117T193000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20261117T203000Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010032Z
+UID:1794943800_NW3-NoviceNosework@luckydog
+DESCRIPTION:In the Novice class of Nosework we add all of the oils into ou
+ r cocktail so that your dog can start to discriminate between the differen
+ t oils. We will start to build our search areas to mock Novice trial-like 
+ settings. We will start to discuss rules and regulations of AKC\, UKC and 
+ other organizations.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Agility - Competition Level 1 (Beth Martin)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20261117T200000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20261117T210000Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010032Z
+UID:1794945600_Agility-CompetitionLevel1@luckydog
+DESCRIPTION:Teams will continue building skills from previous courses. Tea
+ ms must be able to perform:\nAll equipment\nContacts full height\nunassist
+ ed see-saw\nClosed\n12 weaves without assistance\nCan utilize front\, rear
+ \, and blind crosses on course\nRunning full courses at Novice to Open Lev
+ els\nPinwheels\, serpentines\, and threadles\nProficient back sides and ju
+ mp wraps\nNovice sends (6-10 ft gamble lines)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Agility - Competition Level 2 (Beth Martin)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20261117T213000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20261117T223000Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010032Z
+UID:1794951000_Agility-CompetitionLevel2@luckydog
+DESCRIPTION:Teams must be competent on all equipment\, including 12 straig
+ ht weaves and running full courses at Advanced - Excellent - Senior levels
+ .
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manners 3 - Advanced (Lea Pfeiffer)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20261118T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20261118T005500Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010032Z
+UID:1794960000_Manners3-Advanced@luckydog
+DESCRIPTION:Ready to take your dog’s training to the next level? In Adva
+ nced Manners\, we build on your basic foundation to add distractions\, lea
+ ve treats behind\, and introduce some tricks to keep it interesting! This 
+ class is designed to take your dog’s behavior above and beyond to make s
+ ure he can keep his brain in any situation. If you want to get into therap
+ y work\, dog sports\, or just want your best friend to go out and about wi
+ th you\, Advanced Manners is the place to be!
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Agility - Competition Level 3 (Beth Martin)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20261118T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20261118T010000Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010032Z
+UID:1794960000_Agility-CompetitionLevel3@luckydog
+DESCRIPTION:Focusing on Premier and International-style courses and workin
+ g on the handling skills needed to get around those courses. Dogs must be 
+ competing at Master level\, or have instructor approval.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NW5 - Excellent Nosework (Melinda Meche)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20261118T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20261118T010000Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010032Z
+UID:1794960000_NW5-ExcellentNosework@luckydog
+DESCRIPTION:The Intermediate class of Nosework incorporates the use of all
+  the different oils  We will start to build search areas to mock Advanced
+  trial-like setting of Interior\, Exterior\, Vehicles as well as continue 
+ working on containers.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Agility - Pre-Novice (Jordan Phoenix)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20261118T010500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20261118T020500Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010032Z
+UID:1794963900_Agility-Pre-Novice@luckydog
+DESCRIPTION:The Pre-Novice class is for teams who are gearing up to compet
+ e! It focuses on closing weaves\, nailing contacts\, and adding to sequenc
+ es
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Specialty - Nice Greets with a Loose Leash (Lea Pfeiffer)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20261118T010500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20261118T020000Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010032Z
+UID:1794963900_Specialty-NiceGreetswithaLooseLeash@luckydog
+DESCRIPTION:Having a friendly dog is a wonderful thing! Having a friendly 
+ dog with manners is even better. This 4 week class will focus on two essen
+ tial skills: loose leash walking and keeping all four paws on the floor! T
+ his class will teach your overly friendly dog how to appropriately greet (
+ or ignore) people instead of tackling them with excitement. We’ll also h
+ elp you teach your dog how to maintain that beautiful loose leash in the f
+ ace of distractions (including other dogs) with the added bonus of getting
+  better on leash attention from your dog.\nPlease note that this class is 
+ for dogs who are extremely excited about saying hi to people and are leash
+  pullers. This is not for dogs who respond fearfully or who lunge or bark 
+ aggressively towards other people or dogs. If this is your first class at 
+ Lucky Dog\, please attend an orientation before enrolling.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Agility - Pre-Novice (Jordan Phoenix)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20261118T021500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20261118T031500Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010032Z
+UID:1794968100_Agility-Pre-Novice@luckydog
+DESCRIPTION:The Pre-Novice class is for teams who are gearing up to compet
+ e! It focuses on closing weaves\, nailing contacts\, and adding to sequenc
+ es
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NW4 - Advanced Nosework (Melinda Meche)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20261118T021500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20261118T031500Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010032Z
+UID:1794968100_NW4-AdvancedNosework@luckydog
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NW6- Master Nosework (Melinda Meche)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20261118T163000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20261118T173000Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010033Z
+UID:1795019400_NW6-MasterNosework@luckydog
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NW5 - Excellent Nosework (Melinda Meche)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20261118T174500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20261118T184500Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010033Z
+UID:1795023900_NW5-ExcellentNosework@luckydog
+DESCRIPTION:The Intermediate class of Nosework incorporates the use of all
+  the different oils  We will start to build search areas to mock Advanced
+  trial-like setting of Interior\, Exterior\, Vehicles as well as continue 
+ working on containers.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Semi-Private: Agility (Beth Martin)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20261118T224500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20261118T233000Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010033Z
+UID:1795041900_Semi-Private:Agility@luckydog
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Orientation (Lea Pfeiffer)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20261118T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20261118T233000Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010033Z
+UID:1795042800_Orientation@luckydog
+DESCRIPTION:Orientation is a mini-class to cover requirements and check th
+ at your dog will be a good fit for Basic Manners. Our manners classes typi
+ cally fill 1-3 weeks before they start\, so you may want to register for c
+ lass in advance!\nAfter reserving your spot\, you'll receive a confirmatio
+ n email with instructions for orientation. Please be sure you're opted in 
+ for reminder emails and we look forward to seeing you soon!
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Trick Dog 2 -  Intermediate (Lea Pfeiffer)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20261119T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20261119T005500Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010033Z
+UID:1795046400_TrickDog2-Intermediate@luckydog
+DESCRIPTION:This six-week class is designed to work towards your AKC Trick
+  Dog Intermediate title! Teams will work on tricks for their respective le
+ vels in stations.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Agility - Competition Level 2 (Beth Martin)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20261119T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20261119T010000Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010033Z
+UID:1795046400_Agility-CompetitionLevel2@luckydog
+DESCRIPTION:Teams must be competent on all equipment\, including 12 straig
+ ht weaves and running full courses at Advanced - Excellent - Senior levels
+ .
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manners 3 - Advanced (Lea Pfeiffer)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20261119T010500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20261119T020000Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010033Z
+UID:1795050300_Manners3-Advanced@luckydog
+DESCRIPTION:Ready to take your dog’s training to the next level? In Adva
+ nced Manners\, we build on your basic foundation to add distractions\, lea
+ ve treats behind\, and introduce some tricks to keep it interesting! This 
+ class is designed to take your dog’s behavior above and beyond to make s
+ ure he can keep his brain in any situation. If you want to get into therap
+ y work\, dog sports\, or just want your best friend to go out and about wi
+ th you\, Advanced Manners is the place to be!
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Agility - Masters/International Level (Beth Martin)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20261119T010500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20261119T020500Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010033Z
+UID:1795050300_Agility-Masters/InternationalLevel@luckydog
+DESCRIPTION:Must have successfully completed Agility Open or have instruct
+ or approval
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rally 2 - Advanced (Susan Ramsbottom)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20261119T013000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20261119T023000Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010033Z
+UID:1795051800_Rally2-Advanced@luckydog
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manners 1 - Basic (Lea Pfeiffer)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20261119T021000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20261119T030500Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010033Z
+UID:1795054200_Manners1-Basic@luckydog
+DESCRIPTION:Let’s face it\, dogs these days are part of the family. But 
+ as much as we treat them like furry humans\, they need some help to act li
+ ke it! In Basic Manners\, we cover the essentials that your dog needs to b
+ e a well-behaved member of your family. You’ll learn things like not jum
+ ping up\, coming when called\, and walking nicely on a leash\, as well as 
+ your standard sit\, down\, and stay! We also work on impulse control\, the
+  “place” behavior\, and sitting at the door\, all of which discourage 
+ naughty behavior like stealing food\, darting out the door\, and begging/c
+ ounter surfing.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Agility - Competition Level 1 (Beth Martin)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20261119T021500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20261119T031500Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010033Z
+UID:1795054500_Agility-CompetitionLevel1@luckydog
+DESCRIPTION:Teams will continue building skills from previous courses. Tea
+ ms must be able to perform:\nAll equipment\nContacts full height\nunassist
+ ed see-saw\nClosed\n12 weaves without assistance\nCan utilize front\, rear
+ \, and blind crosses on course\nRunning full courses at Novice to Open Lev
+ els\nPinwheels\, serpentines\, and threadles\nProficient back sides and ju
+ mp wraps\nNovice sends (6-10 ft gamble lines)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Agility - Competition Level 1 (Beth Martin)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20261119T163000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20261119T173000Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010034Z
+UID:1795105800_Agility-CompetitionLevel1@luckydog
+DESCRIPTION:Teams will continue building skills from previous courses. Tea
+ ms must be able to perform:\nAll equipment\nContacts full height\nunassist
+ ed see-saw\nClosed\n12 weaves without assistance\nCan utilize front\, rear
+ \, and blind crosses on course\nRunning full courses at Novice to Open Lev
+ els\nPinwheels\, serpentines\, and threadles\nProficient back sides and ju
+ mp wraps\nNovice sends (6-10 ft gamble lines)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rally 2 - Advanced (Lea Pfeiffer)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20261120T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20261120T010000Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010034Z
+UID:1795132800_Rally2-Advanced@luckydog
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Agility - Competition Level 1 (Beth Martin)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20261120T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20261120T010000Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010034Z
+UID:1795132800_Agility-CompetitionLevel1@luckydog
+DESCRIPTION:Teams will continue building skills from previous courses. Tea
+ ms must be able to perform:\nAll equipment\nContacts full height\nunassist
+ ed see-saw\nClosed\n12 weaves without assistance\nCan utilize front\, rear
+ \, and blind crosses on course\nRunning full courses at Novice to Open Lev
+ els\nPinwheels\, serpentines\, and threadles\nProficient back sides and ju
+ mp wraps\nNovice sends (6-10 ft gamble lines)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Agility - Competition Level 3 (Beth Martin)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20261120T010500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20261120T020500Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010034Z
+UID:1795136700_Agility-CompetitionLevel3@luckydog
+DESCRIPTION:Focusing on Premier and International-style courses and workin
+ g on the handling skills needed to get around those courses. Dogs must be 
+ competing at Master level\, or have instructor approval.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rally 1 - Novice (Lea Pfeiffer)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20261120T011500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20261120T021500Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010034Z
+UID:1795137300_Rally1-Novice@luckydog
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Agility - Competition Level 2 (Beth Martin)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20261120T021500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20261120T031500Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010034Z
+UID:1795140900_Agility-CompetitionLevel2@luckydog
+DESCRIPTION:Teams must be competent on all equipment\, including 12 straig
+ ht weaves and running full courses at Advanced - Excellent - Senior levels
+ .
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manners 3 - Advanced (Rachel Simmons)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20261121T163000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20261121T172500Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010036Z
+UID:1795278600_Manners3-Advanced@luckydog
+DESCRIPTION:Ready to take your dog’s training to the next level? In Adva
+ nced Manners\, we build on your basic foundation to add distractions\, lea
+ ve treats behind\, and introduce some tricks to keep it interesting! This 
+ class is designed to take your dog’s behavior above and beyond to make s
+ ure he can keep his brain in any situation. If you want to get into therap
+ y work\, dog sports\, or just want your best friend to go out and about wi
+ th you\, Advanced Manners is the place to be!
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Orientation (Rachel Simmons)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20261121T180000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20261121T183000Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010036Z
+UID:1795284000_Orientation@luckydog
+DESCRIPTION:Orientation is a mini-class to cover requirements and check th
+ at your dog will be a good fit for Basic Manners. Our manners classes typi
+ cally fill 1-3 weeks before they start\, so you may want to register for c
+ lass in advance!\nAfter reserving your spot\, you'll receive a confirmatio
+ n email with instructions for orientation. Please be sure you're opted in 
+ for reminder emails and we look forward to seeing you soon!
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CGC Test (Rachel Simmons)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20261121T190000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20261121T192000Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010036Z
+UID:1795287600_CGCTest@luckydog
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CGC Test (Rachel Simmons)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20261121T192500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20261121T194500Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010036Z
+UID:1795289100_CGCTest@luckydog
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CGC Test (Rachel Simmons)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20261121T195000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20261121T201000Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010036Z
+UID:1795290600_CGCTest@luckydog
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CGC Test (Rachel Simmons)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20261121T201500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20261121T203500Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010036Z
+UID:1795292100_CGCTest@luckydog
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rally 2 - Advanced (Cole Mertz)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20261121T201500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20261121T211500Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010036Z
+UID:1795292100_Rally2-Advanced@luckydog
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CGC Test (Rachel Simmons)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20261121T204000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20261121T210000Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010036Z
+UID:1795293600_CGCTest@luckydog
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CGC Test (Rachel Simmons)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20261121T210500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20261121T212500Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010036Z
+UID:1795295100_CGCTest@luckydog
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Puppy Kindergarten (Rachel Simmons)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20261122T151500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20261122T161000Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010038Z
+UID:1795360500_PuppyKindergarten@luckydog
+DESCRIPTION:If you recently added a new puppy to your family\, you're in t
+ he right place! Puppy Kindergarten is the perfect place to start for puppi
+ es between the age of 2 and 5 months. We'll cover everything from teaching
+  your puppy his name to the manners he'll need to be a great member of you
+ r household. We'll also address unwanted behaviors like chewing\, jumping\
+ , and pulling on the leash. Last but not least\, we'll help you socialize 
+ your puppy to strange noises\, objects\, and surfaces!
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Trick Dog 1 -  Novice (Lea Pfeiffer)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20261122T151500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20261122T161000Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010038Z
+UID:1795360500_TrickDog1-Novice@luckydog
+DESCRIPTION:This six-week class is designed to work towards your AKC Trick
+  Dog Novice title! Teams will work on tricks for their respective levels i
+ n stations.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Agility - Competition Level 1 (Beth Martin)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20261122T161500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20261122T171500Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010038Z
+UID:1795364100_Agility-CompetitionLevel1@luckydog
+DESCRIPTION:Teams will continue building skills from previous courses. Tea
+ ms must be able to perform:\nAll equipment\nContacts full height\nunassist
+ ed see-saw\nClosed\n12 weaves without assistance\nCan utilize front\, rear
+ \, and blind crosses on course\nRunning full courses at Novice to Open Lev
+ els\nPinwheels\, serpentines\, and threadles\nProficient back sides and ju
+ mp wraps\nNovice sends (6-10 ft gamble lines)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manners 1 - Basic (Rachel Simmons)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20261122T163000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20261122T172500Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010038Z
+UID:1795365000_Manners1-Basic@luckydog
+DESCRIPTION:Let’s face it\, dogs these days are part of the family. But 
+ as much as we treat them like furry humans\, they need some help to act li
+ ke it! In Basic Manners\, we cover the essentials that your dog needs to b
+ e a well-behaved member of your family. You’ll learn things like not jum
+ ping up\, coming when called\, and walking nicely on a leash\, as well as 
+ your standard sit\, down\, and stay! We also work on impulse control\, the
+  “place” behavior\, and sitting at the door\, all of which discourage 
+ naughty behavior like stealing food\, darting out the door\, and begging/c
+ ounter surfing.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rally 0 - Intro (Lea Pfeiffer)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20261122T163000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20261122T172500Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010038Z
+UID:1795365000_Rally0-Intro@luckydog
+DESCRIPTION:Looking for a fun way to build more focus with your dog? Wheth
+ er you are preparing to take a Canine Good Citizen test\, Therapy Test or 
+ maybe you just want to try something new…Rally helps you build a great f
+ oundation with your dog and can help you in many other teamwork events.  
+ This class refines your dogs basic manners and has real life applications.
+   This class will focus on AKC Rally-O including attentive heeling\, fini
+ sh\, fronts and some cone work. We use positive training techniques in a f
+ un and supportive environment.\nPrerequisite: Successful completion of Man
+ ners 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Puppy Kindergarten (Rachel Simmons)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20261122T174500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20261122T184500Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010038Z
+UID:1795369500_PuppyKindergarten@luckydog
+DESCRIPTION:If you recently added a new puppy to your family\, you're in t
+ he right place! Puppy Kindergarten is the perfect place to start for puppi
+ es between the age of 2 and 5 months. We'll cover everything from teaching
+  your puppy his name to the manners he'll need to be a great member of you
+ r household. We'll also address unwanted behaviors like chewing\, jumping\
+ , and pulling on the leash. Last but not least\, we'll help you socialize 
+ your puppy to strange noises\, objects\, and surfaces!
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Orientation (Rachel Simmons)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20261122T190000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20261122T193000Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010038Z
+UID:1795374000_Orientation@luckydog
+DESCRIPTION:Orientation is a mini-class to cover requirements and check th
+ at your dog will be a good fit for Basic Manners. Our manners classes typi
+ cally fill 1-3 weeks before they start\, so you may want to register for c
+ lass in advance!\nAfter reserving your spot\, you'll receive a confirmatio
+ n email with instructions for orientation. Please be sure you're opted in 
+ for reminder emails and we look forward to seeing you soon!
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Specialty - CGCA Prep/Dog About Town (Lea Pfeiffer)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20261122T191500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20261122T201500Z
+DTSTAMP;VALUE=DATE-TIME:20261025T010038Z
+UID:1795374900_Specialty-CGCAPrep/DogAboutTown@luckydog
 DESCRIPTION:Ready to test your dog's skills in the real world? This class 
  will focus on real-life applications for the behaviors you learned in Adva
  nced Manners class! We'll start off at Lucky Dog for the first week and sp
