@@ -3,118 +3,10 @@ VERSION:2.0
 PRODID:-//EOS Fitness Scraper//mxm.dk//
 X-WR-CALNAME:EOS Fitness Schedule
 BEGIN:VEVENT
-SUMMARY:BBL Event (Edina P.)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20261110T113000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20261110T121500Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
-UID:1794310200_BBLEvent(EdinaP.)@eos
-DESCRIPTION:Welcome to your Booty Builder Lab ("aka" BBL)! This is a magic
- al place where strong\, shapely and healthy bootys are created. All booty 
- sizes and shapes are loved and welcomed in the lab. Enhance your power and
-  exercise performance\, reduce knee and back pain and stabilize your hips 
- in these specialty classes performed on the actual "Booty Builder" state o
- f the art full line of equipment designed to transform your body and your 
- mind!\nHow-To\, go here: https://bootybuilder.com/how-to-use-the-booty-bui
- lder/
-LOCATION:North Richland Hills Rufe Snow Dr Hightower Dr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BODYPUMP (Jazzy J.)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20261110T143000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20261110T153000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
-UID:1794321000_BODYPUMP(JazzyJ.)@eos
-DESCRIPTION:Barbell class that strengthens your entire body and challenges
-  all your major muscle groups by using the best weight room exercises. Rea
- l results - real fast!
-LOCATION:North Richland Hills Rufe Snow Dr Hightower Dr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BODYBALANCE (Jazzy J.)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20261110T153500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20261110T163500Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
-UID:1794324900_BODYBALANCE(JazzyJ.)@eos
-DESCRIPTION:A yoga\, tai chi\, Pilates workout that builds flexibility and
-  strength. A holistic approach brings the body into a state of harmony and
-  balance.
-LOCATION:North Richland Hills Rufe Snow Dr Hightower Dr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Forever Fit (Roberta)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20261110T164000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20261110T174000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
-UID:1794328800_ForeverFit(Roberta)@eos
-DESCRIPTION:Low impact does not mean low intensity! A strength and cardio 
- full  body workout that feels good on the body\, joints and ligaments!
-LOCATION:North Richland Hills Rufe Snow Dr Hightower Dr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Step (Ken D.)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20261110T230000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20261111T000000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
-UID:1794351600_Step(KenD.)@eos
-DESCRIPTION:This is where coordination comes into play!  This class delive
- rs a physical and mental challenge where you build patterns\, combinations
-  and routines on the step.
-LOCATION:North Richland Hills Rufe Snow Dr Hightower Dr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BBL Event (CJ)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20261111T000000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20261111T004500Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
-UID:1794355200_BBLEvent(CJ)@eos
-DESCRIPTION:Welcome to your Booty Builder Lab ("aka" BBL)! This is a magic
- al place where strong\, shapely and healthy bootys are created. All booty 
- sizes and shapes are loved and welcomed in the lab. Enhance your power and
-  exercise performance\, reduce knee and back pain and stabilize your hips 
- in these specialty classes performed on the actual "Booty Builder" state o
- f the art full line of equipment designed to transform your body and your 
- mind!\nHow-To\, go here: https://bootybuilder.com/how-to-use-the-booty-bui
- lder/
-LOCATION:North Richland Hills Rufe Snow Dr Hightower Dr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Water Fit (Svetlana I.)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20261111T001500Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20261111T011500Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
-UID:1794356100_WaterFit(SvetlanaI.)@eos
-DESCRIPTION:A fantastic way to improve your cardio conditioning\, enduranc
- e\, and muscular strength using the buoyancy and resistance of the water w
- ithout  impact on joints!
-LOCATION:North Richland Hills Rufe Snow Dr Hightower Dr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Yoga (Andrea)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20261111T002000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20261111T012000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
-UID:1794356400_Yoga(Andrea)@eos
-DESCRIPTION:An experience that links breath and movement in between postur
- es focusing on bringing harmony between mind and body. Each instructor may
-  bring a different unique style to the class.\n\n 
-LOCATION:North Richland Hills Rufe Snow Dr Hightower Dr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Zumba (Mercy)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20261111T013000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20261111T023000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
-UID:1794360600_Zumba(Mercy)@eos
-DESCRIPTION:A fusion of Latin and International music! This dance workout 
- features easy to follow routines with fast and slow rhythms ensuring tonin
- g and cardio training!
-LOCATION:North Richland Hills Rufe Snow Dr Hightower Dr
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:BODYPUMP (Ronda F.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261111T113000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261111T123000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1794396600_BODYPUMP(RondaF.)@eos
 DESCRIPTION:Barbell class that strengthens your entire body and challenges
   all your major muscle groups by using the best weight room exercises. Rea
@@ -122,21 +14,10 @@ DESCRIPTION:Barbell class that strengthens your entire body and challenges
 LOCATION:North Richland Hills Rufe Snow Dr Hightower Dr
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Upbeat Barre (Chantel F.)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20261111T143000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20261111T153000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
-UID:1794407400_UpbeatBarre(ChantelF.)@eos
-DESCRIPTION:Strength training\, barre\, Pilates\, cardio and yoga combine 
- into a high-energy fusion of fun! Popular tunes rock providing an intense 
- muscular-endurance workout.
-LOCATION:North Richland Hills Rufe Snow Dr Hightower Dr
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:BBL Event (Angie C.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261111T143000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261111T151500Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1794407400_BBLEvent(AngieC.)@eos
 DESCRIPTION:Welcome to your Booty Builder Lab ("aka" BBL)! This is a magic
  al place where strong\, shapely and healthy bootys are created. All booty 
@@ -149,10 +30,21 @@ DESCRIPTION:Welcome to your Booty Builder Lab ("aka" BBL)! This is a magic
 LOCATION:North Richland Hills Rufe Snow Dr Hightower Dr
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Upbeat Barre (Chantel F.)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20261111T143000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20261111T153000Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
+UID:1794407400_UpbeatBarre(ChantelF.)@eos
+DESCRIPTION:Strength training\, barre\, Pilates\, cardio and yoga combine 
+ into a high-energy fusion of fun! Popular tunes rock providing an intense 
+ muscular-endurance workout.
+LOCATION:North Richland Hills Rufe Snow Dr Hightower Dr
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ZUMBA + LIFT (Angie C.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261111T153000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261111T163000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1794411000_ZUMBA+LIFT(AngieC.)@eos
 DESCRIPTION:A Zumba + Lift class is a high-energy fusion of traditional Zu
  mba dance cardio with strength training\, using intervals to combine Latin
@@ -164,21 +56,10 @@ DESCRIPTION:A Zumba + Lift class is a high-energy fusion of traditional Zu
 LOCATION:North Richland Hills Rufe Snow Dr Hightower Dr
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Water Fit (Yvonne B.)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20261111T164000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20261111T174000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
-UID:1794415200_WaterFit(YvonneB.)@eos
-DESCRIPTION:A fantastic way to improve your cardio conditioning\, enduranc
- e\, and muscular strength using the buoyancy and resistance of the water w
- ithout  impact on joints!
-LOCATION:North Richland Hills Rufe Snow Dr Hightower Dr
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Yoga (Angie C.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261111T164000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261111T174000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1794415200_Yoga(AngieC.)@eos
 DESCRIPTION:An experience that links breath and movement in between postur
  es focusing on bringing harmony between mind and body. Each instructor may
@@ -186,10 +67,21 @@ DESCRIPTION:An experience that links breath and movement in between postur
 LOCATION:North Richland Hills Rufe Snow Dr Hightower Dr
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Water Fit (Yvonne B.)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20261111T164000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20261111T174000Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
+UID:1794415200_WaterFit(YvonneB.)@eos
+DESCRIPTION:A fantastic way to improve your cardio conditioning\, enduranc
+ e\, and muscular strength using the buoyancy and resistance of the water w
+ ithout  impact on joints!
+LOCATION:North Richland Hills Rufe Snow Dr Hightower Dr
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:BODYPUMP (India M.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261112T000000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261112T010000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1794441600_BODYPUMP(IndiaM.)@eos
 DESCRIPTION:Barbell class that strengthens your entire body and challenges
   all your major muscle groups by using the best weight room exercises. Rea
@@ -200,7 +92,7 @@ BEGIN:VEVENT
 SUMMARY:BBL Event (Valerie G.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261112T010000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261112T014500Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1794445200_BBLEvent(ValerieG.)@eos
 DESCRIPTION:Welcome to your Booty Builder Lab ("aka" BBL)! This is a magic
  al place where strong\, shapely and healthy bootys are created. All booty 
@@ -216,7 +108,7 @@ BEGIN:VEVENT
 SUMMARY:Yoga (Andrea)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261112T011500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261112T021500Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1794446100_Yoga(Andrea)@eos
 DESCRIPTION:An experience that links breath and movement in between postur
  es focusing on bringing harmony between mind and body. Each instructor may
@@ -227,7 +119,7 @@ BEGIN:VEVENT
 SUMMARY:BBL Event (Edina P.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261112T113000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261112T121500Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1794483000_BBLEvent(EdinaP.)@eos
 DESCRIPTION:Welcome to your Booty Builder Lab ("aka" BBL)! This is a magic
  al place where strong\, shapely and healthy bootys are created. All booty 
@@ -243,7 +135,7 @@ BEGIN:VEVENT
 SUMMARY:BODYPUMP (Jennifer)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261112T143000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261112T153000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1794493800_BODYPUMP(Jennifer)@eos
 DESCRIPTION:Barbell class that strengthens your entire body and challenges
   all your major muscle groups by using the best weight room exercises. Rea
@@ -254,7 +146,7 @@ BEGIN:VEVENT
 SUMMARY:Yoga (Andrea)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261112T153500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261112T163500Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1794497700_Yoga(Andrea)@eos
 DESCRIPTION:An experience that links breath and movement in between postur
  es focusing on bringing harmony between mind and body. Each instructor may
@@ -265,7 +157,7 @@ BEGIN:VEVENT
 SUMMARY:Forever Fit (Roberta)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261112T164000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261112T173500Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1794501600_ForeverFit(Roberta)@eos
 DESCRIPTION:Low impact does not mean low intensity! A strength and cardio 
  full  body workout that feels good on the body\, joints and ligaments!
@@ -275,7 +167,7 @@ BEGIN:VEVENT
 SUMMARY:Les Mills SHAPES (Jennifer)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261112T232500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261113T002500Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1794525900_LesMillsSHAPES(Jennifer)@eos
 DESCRIPTION:A concentrated strength based workout inspired by Pilates\, ba
  rre and power yoga which stays connected to the floor so there is minimal 
@@ -286,7 +178,7 @@ BEGIN:VEVENT
 SUMMARY:Water Fit (India M.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261113T000000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261113T010000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1794528000_WaterFit(IndiaM.)@eos
 DESCRIPTION:A fantastic way to improve your cardio conditioning\, enduranc
  e\, and muscular strength using the buoyancy and resistance of the water w
@@ -297,7 +189,7 @@ BEGIN:VEVENT
 SUMMARY:Zumba (Vivian D.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261113T003000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261113T013000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1794529800_Zumba(VivianD.)@eos
 DESCRIPTION:A fusion of Latin and International music! This dance workout 
  features easy to follow routines with fast and slow rhythms ensuring tonin
@@ -308,7 +200,7 @@ BEGIN:VEVENT
 SUMMARY:BODYPUMP (Michael)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261113T113000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261113T123000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1794569400_BODYPUMP(Michael)@eos
 DESCRIPTION:Barbell class that strengthens your entire body and challenges
   all your major muscle groups by using the best weight room exercises. Rea
@@ -319,7 +211,7 @@ BEGIN:VEVENT
 SUMMARY:BBL Event (Denise A.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261113T143000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261113T151500Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1794580200_BBLEvent(DeniseA.)@eos
 DESCRIPTION:Welcome to your Booty Builder Lab ("aka" BBL)! This is a magic
  al place where strong\, shapely and healthy bootys are created. All booty 
@@ -335,7 +227,7 @@ BEGIN:VEVENT
 SUMMARY:Build the Peach (CJ)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261113T153500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261113T162000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1794584100_BuildthePeach(CJ)@eos
 DESCRIPTION:Build your strength\, balance and stability with this quick lo
  wer body workout with a strong focus on the glutes!
@@ -345,7 +237,7 @@ BEGIN:VEVENT
 SUMMARY:Water Fit (Yvonne B.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261113T164000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261113T174000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1794588000_WaterFit(YvonneB.)@eos
 DESCRIPTION:A fantastic way to improve your cardio conditioning\, enduranc
  e\, and muscular strength using the buoyancy and resistance of the water w
@@ -356,7 +248,7 @@ BEGIN:VEVENT
 SUMMARY:Pilates (Jessica R.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261114T143000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261114T153000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1794666600_Pilates(JessicaR.)@eos
 DESCRIPTION:The popular mat workout developed by Joseph Pilates concentrat
  ing on core strength\, body alignment and long\, lean muscles without addi
@@ -367,7 +259,7 @@ BEGIN:VEVENT
 SUMMARY:BBL Event (Theresa)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261114T143000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261114T151500Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1794666600_BBLEvent(Theresa)@eos
 DESCRIPTION:Welcome to your Booty Builder Lab ("aka" BBL)! This is a magic
  al place where strong\, shapely and healthy bootys are created. All booty 
@@ -383,7 +275,7 @@ BEGIN:VEVENT
 SUMMARY:Water Fit (Carol B.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261114T150000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261114T160000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1794668400_WaterFit(CarolB.)@eos
 DESCRIPTION:A fantastic way to improve your cardio conditioning\, enduranc
  e\, and muscular strength using the buoyancy and resistance of the water w
@@ -394,7 +286,7 @@ BEGIN:VEVENT
 SUMMARY:BODYPUMP (Theresa)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261114T153500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261114T163500Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1794670500_BODYPUMP(Theresa)@eos
 DESCRIPTION:Barbell class that strengthens your entire body and challenges
   all your major muscle groups by using the best weight room exercises. Rea
@@ -405,7 +297,7 @@ BEGIN:VEVENT
 SUMMARY:ZUMBA + LIFT (Irony S.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261114T164000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261114T174000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1794674400_ZUMBA+LIFT(IronyS.)@eos
 DESCRIPTION:A Zumba + Lift class is a high-energy fusion of traditional Zu
  mba dance cardio with strength training\, using intervals to combine Latin
@@ -420,7 +312,7 @@ BEGIN:VEVENT
 SUMMARY:Power Yoga (Michelle F.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261115T143000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261115T153000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1794753000_PowerYoga(MichelleF.)@eos
 DESCRIPTION:A fast paced style of yoga which focuses on building strength 
  and stamina. Provides both physical and mental wellness!
@@ -430,7 +322,7 @@ BEGIN:VEVENT
 SUMMARY:Water Fit (India M.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261115T153000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261115T163000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1794756600_WaterFit(IndiaM.)@eos
 DESCRIPTION:A fantastic way to improve your cardio conditioning\, enduranc
  e\, and muscular strength using the buoyancy and resistance of the water w
@@ -441,7 +333,7 @@ BEGIN:VEVENT
 SUMMARY:BODYPUMP (Jennifer)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261116T113000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261116T123000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1794828600_BODYPUMP(Jennifer)@eos
 DESCRIPTION:Barbell class that strengthens your entire body and challenges
   all your major muscle groups by using the best weight room exercises. Rea
@@ -452,7 +344,7 @@ BEGIN:VEVENT
 SUMMARY:Build the Peach (CJ)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261116T143000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261116T151500Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1794839400_BuildthePeach(CJ)@eos
 DESCRIPTION:Build your strength\, balance and stability with this quick lo
  wer body workout with a strong focus on the glutes!
@@ -462,7 +354,7 @@ BEGIN:VEVENT
 SUMMARY:Pilates (Svetlana I.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261116T153000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261116T163000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1794843000_Pilates(SvetlanaI.)@eos
 DESCRIPTION:The popular mat workout developed by Joseph Pilates concentrat
  ing on core strength\, body alignment and long\, lean muscles without addi
@@ -470,21 +362,10 @@ DESCRIPTION:The popular mat workout developed by Joseph Pilates concentrat
 LOCATION:North Richland Hills Rufe Snow Dr Hightower Dr
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Water Fit (Svetlana I.)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20261116T164000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20261116T174000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
-UID:1794847200_WaterFit(SvetlanaI.)@eos
-DESCRIPTION:A fantastic way to improve your cardio conditioning\, enduranc
- e\, and muscular strength using the buoyancy and resistance of the water w
- ithout  impact on joints!
-LOCATION:North Richland Hills Rufe Snow Dr Hightower Dr
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Gentle Yoga (Suzy S.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261116T164000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261116T174000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1794847200_GentleYoga(SuzyS.)@eos
 DESCRIPTION:A gentler\, more restorative style yoga class focusing on mind
  fulness\, meditation\, and a series of slower paced poses with positions h
@@ -492,10 +373,21 @@ DESCRIPTION:A gentler\, more restorative style yoga class focusing on mind
 LOCATION:North Richland Hills Rufe Snow Dr Hightower Dr
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Water Fit (Svetlana I.)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20261116T164000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20261116T174000Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
+UID:1794847200_WaterFit(SvetlanaI.)@eos
+DESCRIPTION:A fantastic way to improve your cardio conditioning\, enduranc
+ e\, and muscular strength using the buoyancy and resistance of the water w
+ ithout  impact on joints!
+LOCATION:North Richland Hills Rufe Snow Dr Hightower Dr
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:BBL Event (Denise A.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261116T180000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261116T184500Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1794852000_BBLEvent(DeniseA.)@eos
 DESCRIPTION:Welcome to your Booty Builder Lab ("aka" BBL)! This is a magic
  al place where strong\, shapely and healthy bootys are created. All booty 
@@ -511,7 +403,7 @@ BEGIN:VEVENT
 SUMMARY:BODYPUMP (Karyn C.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261116T232500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261117T002500Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1794871500_BODYPUMP(KarynC.)@eos
 DESCRIPTION:Barbell class that strengthens your entire body and challenges
   all your major muscle groups by using the best weight room exercises. Rea
@@ -522,7 +414,7 @@ BEGIN:VEVENT
 SUMMARY:BBL Event (Denise A.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261117T003000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261117T011500Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1794875400_BBLEvent(DeniseA.)@eos
 DESCRIPTION:Welcome to your Booty Builder Lab ("aka" BBL)! This is a magic
  al place where strong\, shapely and healthy bootys are created. All booty 
@@ -538,7 +430,7 @@ BEGIN:VEVENT
 SUMMARY:MixxedFit (Valerie G.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261117T010000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261117T020000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1794877200_MixxedFit(ValerieG.)@eos
 DESCRIPTION:A people-inspired dance style with the hottest current dance m
  oves choreographed to the hottest beats! You may not know if you are in th
@@ -549,7 +441,7 @@ BEGIN:VEVENT
 SUMMARY:BBL Event (Edina P.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261117T113000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261117T121500Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1794915000_BBLEvent(EdinaP.)@eos
 DESCRIPTION:Welcome to your Booty Builder Lab ("aka" BBL)! This is a magic
  al place where strong\, shapely and healthy bootys are created. All booty 
@@ -565,7 +457,7 @@ BEGIN:VEVENT
 SUMMARY:BODYPUMP (Barbara I.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261117T143000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261117T153000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1794925800_BODYPUMP(BarbaraI.)@eos
 DESCRIPTION:Barbell class that strengthens your entire body and challenges
   all your major muscle groups by using the best weight room exercises. Rea
@@ -576,7 +468,7 @@ BEGIN:VEVENT
 SUMMARY:BODYBALANCE (Barbara I.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261117T153500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261117T163500Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1794929700_BODYBALANCE(BarbaraI.)@eos
 DESCRIPTION:A yoga\, tai chi\, Pilates workout that builds flexibility and
   strength. A holistic approach brings the body into a state of harmony and
@@ -587,7 +479,7 @@ BEGIN:VEVENT
 SUMMARY:Forever Fit (Roberta)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261117T164000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261117T174000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1794933600_ForeverFit(Roberta)@eos
 DESCRIPTION:Low impact does not mean low intensity! A strength and cardio 
  full  body workout that feels good on the body\, joints and ligaments!
@@ -597,7 +489,7 @@ BEGIN:VEVENT
 SUMMARY:Step (Ken D.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261117T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261118T000000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1794956400_Step(KenD.)@eos
 DESCRIPTION:This is where coordination comes into play!  This class delive
  rs a physical and mental challenge where you build patterns\, combinations
@@ -608,7 +500,7 @@ BEGIN:VEVENT
 SUMMARY:BBL Event (CJ)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261118T000000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261118T004500Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1794960000_BBLEvent(CJ)@eos
 DESCRIPTION:Welcome to your Booty Builder Lab ("aka" BBL)! This is a magic
  al place where strong\, shapely and healthy bootys are created. All booty 
@@ -624,7 +516,7 @@ BEGIN:VEVENT
 SUMMARY:Water Fit ()
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261118T001500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261118T011500Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1794960900_WaterFit()@eos
 DESCRIPTION:A fantastic way to improve your cardio conditioning\, enduranc
  e\, and muscular strength using the buoyancy and resistance of the water w
@@ -635,7 +527,7 @@ BEGIN:VEVENT
 SUMMARY:Yoga (Andrea)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261118T002000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261118T012000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1794961200_Yoga(Andrea)@eos
 DESCRIPTION:An experience that links breath and movement in between postur
  es focusing on bringing harmony between mind and body. Each instructor may
@@ -646,7 +538,7 @@ BEGIN:VEVENT
 SUMMARY:Zumba (Mercy)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261118T013000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261118T023000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1794965400_Zumba(Mercy)@eos
 DESCRIPTION:A fusion of Latin and International music! This dance workout 
  features easy to follow routines with fast and slow rhythms ensuring tonin
@@ -657,7 +549,7 @@ BEGIN:VEVENT
 SUMMARY:BODYPUMP (Barbara I.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261118T113000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261118T123000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1795001400_BODYPUMP(BarbaraI.)@eos
 DESCRIPTION:Barbell class that strengthens your entire body and challenges
   all your major muscle groups by using the best weight room exercises. Rea
@@ -665,21 +557,10 @@ DESCRIPTION:Barbell class that strengthens your entire body and challenges
 LOCATION:North Richland Hills Rufe Snow Dr Hightower Dr
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Upbeat Barre (Chantel F.)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20261118T143000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20261118T153000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
-UID:1795012200_UpbeatBarre(ChantelF.)@eos
-DESCRIPTION:Strength training\, barre\, Pilates\, cardio and yoga combine 
- into a high-energy fusion of fun! Popular tunes rock providing an intense 
- muscular-endurance workout.
-LOCATION:North Richland Hills Rufe Snow Dr Hightower Dr
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:BBL Event (Angie C.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261118T143000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261118T151500Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1795012200_BBLEvent(AngieC.)@eos
 DESCRIPTION:Welcome to your Booty Builder Lab ("aka" BBL)! This is a magic
  al place where strong\, shapely and healthy bootys are created. All booty 
@@ -692,10 +573,21 @@ DESCRIPTION:Welcome to your Booty Builder Lab ("aka" BBL)! This is a magic
 LOCATION:North Richland Hills Rufe Snow Dr Hightower Dr
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Upbeat Barre (Chantel F.)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20261118T143000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20261118T153000Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
+UID:1795012200_UpbeatBarre(ChantelF.)@eos
+DESCRIPTION:Strength training\, barre\, Pilates\, cardio and yoga combine 
+ into a high-energy fusion of fun! Popular tunes rock providing an intense 
+ muscular-endurance workout.
+LOCATION:North Richland Hills Rufe Snow Dr Hightower Dr
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ZUMBA + LIFT (Angie C.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261118T153000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261118T163000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1795015800_ZUMBA+LIFT(AngieC.)@eos
 DESCRIPTION:A Zumba + Lift class is a high-energy fusion of traditional Zu
  mba dance cardio with strength training\, using intervals to combine Latin
@@ -707,21 +599,10 @@ DESCRIPTION:A Zumba + Lift class is a high-energy fusion of traditional Zu
 LOCATION:North Richland Hills Rufe Snow Dr Hightower Dr
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Water Fit (Yvonne B.)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20261118T164000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20261118T174000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
-UID:1795020000_WaterFit(YvonneB.)@eos
-DESCRIPTION:A fantastic way to improve your cardio conditioning\, enduranc
- e\, and muscular strength using the buoyancy and resistance of the water w
- ithout  impact on joints!
-LOCATION:North Richland Hills Rufe Snow Dr Hightower Dr
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Yoga (Angie C.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261118T164000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261118T174000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1795020000_Yoga(AngieC.)@eos
 DESCRIPTION:An experience that links breath and movement in between postur
  es focusing on bringing harmony between mind and body. Each instructor may
@@ -729,10 +610,21 @@ DESCRIPTION:An experience that links breath and movement in between postur
 LOCATION:North Richland Hills Rufe Snow Dr Hightower Dr
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Water Fit (Yvonne B.)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20261118T164000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20261118T174000Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
+UID:1795020000_WaterFit(YvonneB.)@eos
+DESCRIPTION:A fantastic way to improve your cardio conditioning\, enduranc
+ e\, and muscular strength using the buoyancy and resistance of the water w
+ ithout  impact on joints!
+LOCATION:North Richland Hills Rufe Snow Dr Hightower Dr
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:BODYPUMP (India M.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261119T000000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261119T010000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1795046400_BODYPUMP(IndiaM.)@eos
 DESCRIPTION:Barbell class that strengthens your entire body and challenges
   all your major muscle groups by using the best weight room exercises. Rea
@@ -743,7 +635,7 @@ BEGIN:VEVENT
 SUMMARY:BBL Event (Valerie G.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261119T010000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261119T014500Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1795050000_BBLEvent(ValerieG.)@eos
 DESCRIPTION:Welcome to your Booty Builder Lab ("aka" BBL)! This is a magic
  al place where strong\, shapely and healthy bootys are created. All booty 
@@ -759,7 +651,7 @@ BEGIN:VEVENT
 SUMMARY:Yoga (Andrea)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261119T011500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261119T021500Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1795050900_Yoga(Andrea)@eos
 DESCRIPTION:An experience that links breath and movement in between postur
  es focusing on bringing harmony between mind and body. Each instructor may
@@ -770,7 +662,7 @@ BEGIN:VEVENT
 SUMMARY:BBL Event (Edina P.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261119T113000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261119T121500Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1795087800_BBLEvent(EdinaP.)@eos
 DESCRIPTION:Welcome to your Booty Builder Lab ("aka" BBL)! This is a magic
  al place where strong\, shapely and healthy bootys are created. All booty 
@@ -786,7 +678,7 @@ BEGIN:VEVENT
 SUMMARY:BODYPUMP (Jennifer)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261119T143000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261119T153000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1795098600_BODYPUMP(Jennifer)@eos
 DESCRIPTION:Barbell class that strengthens your entire body and challenges
   all your major muscle groups by using the best weight room exercises. Rea
@@ -797,7 +689,7 @@ BEGIN:VEVENT
 SUMMARY:Yoga (Andrea)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261119T153500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261119T163500Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1795102500_Yoga(Andrea)@eos
 DESCRIPTION:An experience that links breath and movement in between postur
  es focusing on bringing harmony between mind and body. Each instructor may
@@ -808,7 +700,7 @@ BEGIN:VEVENT
 SUMMARY:Forever Fit (Roberta)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261119T164000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261119T173500Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1795106400_ForeverFit(Roberta)@eos
 DESCRIPTION:Low impact does not mean low intensity! A strength and cardio 
  full  body workout that feels good on the body\, joints and ligaments!
@@ -818,7 +710,7 @@ BEGIN:VEVENT
 SUMMARY:Les Mills SHAPES (Jennifer)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261119T232500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261120T002500Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1795130700_LesMillsSHAPES(Jennifer)@eos
 DESCRIPTION:A concentrated strength based workout inspired by Pilates\, ba
  rre and power yoga which stays connected to the floor so there is minimal 
@@ -829,7 +721,7 @@ BEGIN:VEVENT
 SUMMARY:Water Fit (India M.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261120T000000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261120T010000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1795132800_WaterFit(IndiaM.)@eos
 DESCRIPTION:A fantastic way to improve your cardio conditioning\, enduranc
  e\, and muscular strength using the buoyancy and resistance of the water w
@@ -840,7 +732,7 @@ BEGIN:VEVENT
 SUMMARY:Zumba (Vivian D.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261120T003000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261120T013000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1795134600_Zumba(VivianD.)@eos
 DESCRIPTION:A fusion of Latin and International music! This dance workout 
  features easy to follow routines with fast and slow rhythms ensuring tonin
@@ -851,7 +743,7 @@ BEGIN:VEVENT
 SUMMARY:BODYPUMP (Michael)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261120T113000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261120T123000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1795174200_BODYPUMP(Michael)@eos
 DESCRIPTION:Barbell class that strengthens your entire body and challenges
   all your major muscle groups by using the best weight room exercises. Rea
@@ -862,7 +754,7 @@ BEGIN:VEVENT
 SUMMARY:BBL Event (Denise A.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261120T143000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261120T151500Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1795185000_BBLEvent(DeniseA.)@eos
 DESCRIPTION:Welcome to your Booty Builder Lab ("aka" BBL)! This is a magic
  al place where strong\, shapely and healthy bootys are created. All booty 
@@ -878,7 +770,7 @@ BEGIN:VEVENT
 SUMMARY:Build the Peach (CJ)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261120T153500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261120T162000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1795188900_BuildthePeach(CJ)@eos
 DESCRIPTION:Build your strength\, balance and stability with this quick lo
  wer body workout with a strong focus on the glutes!
@@ -888,7 +780,7 @@ BEGIN:VEVENT
 SUMMARY:Water Fit (Carol B.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261120T164000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261120T174000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1795192800_WaterFit(CarolB.)@eos
 DESCRIPTION:A fantastic way to improve your cardio conditioning\, enduranc
  e\, and muscular strength using the buoyancy and resistance of the water w
@@ -899,7 +791,7 @@ BEGIN:VEVENT
 SUMMARY:Pilates (Jessica R.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261121T143000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261121T153000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1795271400_Pilates(JessicaR.)@eos
 DESCRIPTION:The popular mat workout developed by Joseph Pilates concentrat
  ing on core strength\, body alignment and long\, lean muscles without addi
@@ -910,7 +802,7 @@ BEGIN:VEVENT
 SUMMARY:BBL Event (Theresa)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261121T143000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261121T151500Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1795271400_BBLEvent(Theresa)@eos
 DESCRIPTION:Welcome to your Booty Builder Lab ("aka" BBL)! This is a magic
  al place where strong\, shapely and healthy bootys are created. All booty 
@@ -926,7 +818,7 @@ BEGIN:VEVENT
 SUMMARY:Water Fit (Carol B.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261121T150000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261121T160000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1795273200_WaterFit(CarolB.)@eos
 DESCRIPTION:A fantastic way to improve your cardio conditioning\, enduranc
  e\, and muscular strength using the buoyancy and resistance of the water w
@@ -937,7 +829,7 @@ BEGIN:VEVENT
 SUMMARY:BODYPUMP (Theresa)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261121T153500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261121T163500Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1795275300_BODYPUMP(Theresa)@eos
 DESCRIPTION:Barbell class that strengthens your entire body and challenges
   all your major muscle groups by using the best weight room exercises. Rea
@@ -948,7 +840,7 @@ BEGIN:VEVENT
 SUMMARY:ZUMBA + LIFT (Irony S.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261121T164000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261121T174000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1795279200_ZUMBA+LIFT(IronyS.)@eos
 DESCRIPTION:A Zumba + Lift class is a high-energy fusion of traditional Zu
  mba dance cardio with strength training\, using intervals to combine Latin
@@ -963,7 +855,7 @@ BEGIN:VEVENT
 SUMMARY:Power Yoga (Michelle F.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261122T143000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261122T153000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1795357800_PowerYoga(MichelleF.)@eos
 DESCRIPTION:A fast paced style of yoga which focuses on building strength 
  and stamina. Provides both physical and mental wellness!
@@ -973,7 +865,7 @@ BEGIN:VEVENT
 SUMMARY:Water Fit (India M.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261122T153000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261122T163000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1795361400_WaterFit(IndiaM.)@eos
 DESCRIPTION:A fantastic way to improve your cardio conditioning\, enduranc
  e\, and muscular strength using the buoyancy and resistance of the water w
@@ -984,7 +876,7 @@ BEGIN:VEVENT
 SUMMARY:BODYPUMP (Jennifer)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261123T113000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261123T123000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1795433400_BODYPUMP(Jennifer)@eos
 DESCRIPTION:Barbell class that strengthens your entire body and challenges
   all your major muscle groups by using the best weight room exercises. Rea
@@ -995,7 +887,7 @@ BEGIN:VEVENT
 SUMMARY:Build the Peach (CJ)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261123T143000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261123T151500Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1795444200_BuildthePeach(CJ)@eos
 DESCRIPTION:Build your strength\, balance and stability with this quick lo
  wer body workout with a strong focus on the glutes!
@@ -1005,7 +897,7 @@ BEGIN:VEVENT
 SUMMARY:Pilates (Svetlana I.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261123T153000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261123T163000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1795447800_Pilates(SvetlanaI.)@eos
 DESCRIPTION:The popular mat workout developed by Joseph Pilates concentrat
  ing on core strength\, body alignment and long\, lean muscles without addi
@@ -1013,21 +905,10 @@ DESCRIPTION:The popular mat workout developed by Joseph Pilates concentrat
 LOCATION:North Richland Hills Rufe Snow Dr Hightower Dr
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Water Fit (Svetlana I.)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20261123T164000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20261123T174000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
-UID:1795452000_WaterFit(SvetlanaI.)@eos
-DESCRIPTION:A fantastic way to improve your cardio conditioning\, enduranc
- e\, and muscular strength using the buoyancy and resistance of the water w
- ithout  impact on joints!
-LOCATION:North Richland Hills Rufe Snow Dr Hightower Dr
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Gentle Yoga (Suzy S.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261123T164000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261123T174000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1795452000_GentleYoga(SuzyS.)@eos
 DESCRIPTION:A gentler\, more restorative style yoga class focusing on mind
  fulness\, meditation\, and a series of slower paced poses with positions h
@@ -1035,10 +916,21 @@ DESCRIPTION:A gentler\, more restorative style yoga class focusing on mind
 LOCATION:North Richland Hills Rufe Snow Dr Hightower Dr
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Water Fit (Svetlana I.)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20261123T164000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20261123T174000Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
+UID:1795452000_WaterFit(SvetlanaI.)@eos
+DESCRIPTION:A fantastic way to improve your cardio conditioning\, enduranc
+ e\, and muscular strength using the buoyancy and resistance of the water w
+ ithout  impact on joints!
+LOCATION:North Richland Hills Rufe Snow Dr Hightower Dr
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:BBL Event (Everett)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261123T180000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261123T184500Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1795456800_BBLEvent(Everett)@eos
 DESCRIPTION:Welcome to your Booty Builder Lab ("aka" BBL)! This is a magic
  al place where strong\, shapely and healthy bootys are created. All booty 
@@ -1054,7 +946,7 @@ BEGIN:VEVENT
 SUMMARY:BODYPUMP (Karyn C.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261123T232500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261124T002500Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1795476300_BODYPUMP(KarynC.)@eos
 DESCRIPTION:Barbell class that strengthens your entire body and challenges
   all your major muscle groups by using the best weight room exercises. Rea
@@ -1065,7 +957,7 @@ BEGIN:VEVENT
 SUMMARY:BBL Event (Everett)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261124T003000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261124T011500Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1795480200_BBLEvent(Everett)@eos
 DESCRIPTION:Welcome to your Booty Builder Lab ("aka" BBL)! This is a magic
  al place where strong\, shapely and healthy bootys are created. All booty 
@@ -1078,11 +970,11 @@ DESCRIPTION:Welcome to your Booty Builder Lab ("aka" BBL)! This is a magic
 LOCATION:North Richland Hills Rufe Snow Dr Hightower Dr
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:MixxedFit (Vivian D.)
+SUMMARY:MixxedFit (Chantelle W.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261124T010000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261124T020000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
-UID:1795482000_MixxedFit(VivianD.)@eos
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
+UID:1795482000_MixxedFit(ChantelleW.)@eos
 DESCRIPTION:A people-inspired dance style with the hottest current dance m
  oves choreographed to the hottest beats! You may not know if you are in th
  e gym or at a nightclub!
@@ -1092,7 +984,7 @@ BEGIN:VEVENT
 SUMMARY:BBL Event (Edina P.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261124T113000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261124T121500Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1795519800_BBLEvent(EdinaP.)@eos
 DESCRIPTION:Welcome to your Booty Builder Lab ("aka" BBL)! This is a magic
  al place where strong\, shapely and healthy bootys are created. All booty 
@@ -1108,7 +1000,7 @@ BEGIN:VEVENT
 SUMMARY:BODYPUMP (Barbara I.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261124T143000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261124T153000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1795530600_BODYPUMP(BarbaraI.)@eos
 DESCRIPTION:Barbell class that strengthens your entire body and challenges
   all your major muscle groups by using the best weight room exercises. Rea
@@ -1119,7 +1011,7 @@ BEGIN:VEVENT
 SUMMARY:BODYBALANCE (Barbara I.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261124T153500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261124T163500Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1795534500_BODYBALANCE(BarbaraI.)@eos
 DESCRIPTION:A yoga\, tai chi\, Pilates workout that builds flexibility and
   strength. A holistic approach brings the body into a state of harmony and
@@ -1130,7 +1022,7 @@ BEGIN:VEVENT
 SUMMARY:Forever Fit (Roberta)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261124T164000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261124T174000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1795538400_ForeverFit(Roberta)@eos
 DESCRIPTION:Low impact does not mean low intensity! A strength and cardio 
  full  body workout that feels good on the body\, joints and ligaments!
@@ -1140,7 +1032,7 @@ BEGIN:VEVENT
 SUMMARY:Step (Ken D.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261124T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261125T000000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1795561200_Step(KenD.)@eos
 DESCRIPTION:This is where coordination comes into play!  This class delive
  rs a physical and mental challenge where you build patterns\, combinations
@@ -1151,7 +1043,7 @@ BEGIN:VEVENT
 SUMMARY:BBL Event (CJ)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261125T000000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261125T004500Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1795564800_BBLEvent(CJ)@eos
 DESCRIPTION:Welcome to your Booty Builder Lab ("aka" BBL)! This is a magic
  al place where strong\, shapely and healthy bootys are created. All booty 
@@ -1167,7 +1059,7 @@ BEGIN:VEVENT
 SUMMARY:Water Fit ()
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261125T001500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261125T011500Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1795565700_WaterFit()@eos
 DESCRIPTION:A fantastic way to improve your cardio conditioning\, enduranc
  e\, and muscular strength using the buoyancy and resistance of the water w
@@ -1178,7 +1070,7 @@ BEGIN:VEVENT
 SUMMARY:Yoga (Andrea)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261125T002000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261125T012000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1795566000_Yoga(Andrea)@eos
 DESCRIPTION:An experience that links breath and movement in between postur
  es focusing on bringing harmony between mind and body. Each instructor may
@@ -1189,7 +1081,7 @@ BEGIN:VEVENT
 SUMMARY:Zumba (Mercy)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261125T013000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261125T023000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1795570200_Zumba(Mercy)@eos
 DESCRIPTION:A fusion of Latin and International music! This dance workout 
  features easy to follow routines with fast and slow rhythms ensuring tonin
@@ -1200,7 +1092,7 @@ BEGIN:VEVENT
 SUMMARY:BODYPUMP (Jennifer)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261125T113000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261125T123000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1795606200_BODYPUMP(Jennifer)@eos
 DESCRIPTION:Barbell class that strengthens your entire body and challenges
   all your major muscle groups by using the best weight room exercises. Rea
@@ -1208,21 +1100,10 @@ DESCRIPTION:Barbell class that strengthens your entire body and challenges
 LOCATION:North Richland Hills Rufe Snow Dr Hightower Dr
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Upbeat Barre (Chantel F.)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20261125T143000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20261125T153000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
-UID:1795617000_UpbeatBarre(ChantelF.)@eos
-DESCRIPTION:Strength training\, barre\, Pilates\, cardio and yoga combine 
- into a high-energy fusion of fun! Popular tunes rock providing an intense 
- muscular-endurance workout.
-LOCATION:North Richland Hills Rufe Snow Dr Hightower Dr
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:BBL Event (Angie C.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261125T143000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261125T151500Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1795617000_BBLEvent(AngieC.)@eos
 DESCRIPTION:Welcome to your Booty Builder Lab ("aka" BBL)! This is a magic
  al place where strong\, shapely and healthy bootys are created. All booty 
@@ -1235,10 +1116,21 @@ DESCRIPTION:Welcome to your Booty Builder Lab ("aka" BBL)! This is a magic
 LOCATION:North Richland Hills Rufe Snow Dr Hightower Dr
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Upbeat Barre (Chantel F.)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20261125T143000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20261125T153000Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
+UID:1795617000_UpbeatBarre(ChantelF.)@eos
+DESCRIPTION:Strength training\, barre\, Pilates\, cardio and yoga combine 
+ into a high-energy fusion of fun! Popular tunes rock providing an intense 
+ muscular-endurance workout.
+LOCATION:North Richland Hills Rufe Snow Dr Hightower Dr
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ZUMBA + LIFT (Angie C.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261125T153000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261125T163000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1795620600_ZUMBA+LIFT(AngieC.)@eos
 DESCRIPTION:A Zumba + Lift class is a high-energy fusion of traditional Zu
  mba dance cardio with strength training\, using intervals to combine Latin
@@ -1250,21 +1142,10 @@ DESCRIPTION:A Zumba + Lift class is a high-energy fusion of traditional Zu
 LOCATION:North Richland Hills Rufe Snow Dr Hightower Dr
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Water Fit (Yvonne B.)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20261125T164000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20261125T174000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
-UID:1795624800_WaterFit(YvonneB.)@eos
-DESCRIPTION:A fantastic way to improve your cardio conditioning\, enduranc
- e\, and muscular strength using the buoyancy and resistance of the water w
- ithout  impact on joints!
-LOCATION:North Richland Hills Rufe Snow Dr Hightower Dr
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Yoga (Angie C.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261125T164000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261125T174000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1795624800_Yoga(AngieC.)@eos
 DESCRIPTION:An experience that links breath and movement in between postur
  es focusing on bringing harmony between mind and body. Each instructor may
@@ -1272,10 +1153,21 @@ DESCRIPTION:An experience that links breath and movement in between postur
 LOCATION:North Richland Hills Rufe Snow Dr Hightower Dr
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Water Fit (Yvonne B.)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20261125T164000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20261125T174000Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
+UID:1795624800_WaterFit(YvonneB.)@eos
+DESCRIPTION:A fantastic way to improve your cardio conditioning\, enduranc
+ e\, and muscular strength using the buoyancy and resistance of the water w
+ ithout  impact on joints!
+LOCATION:North Richland Hills Rufe Snow Dr Hightower Dr
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:BODYPUMP (India M.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261126T000000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261126T010000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1795651200_BODYPUMP(IndiaM.)@eos
 DESCRIPTION:Barbell class that strengthens your entire body and challenges
   all your major muscle groups by using the best weight room exercises. Rea
@@ -1286,7 +1178,7 @@ BEGIN:VEVENT
 SUMMARY:BBL Event (Valerie G.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261126T010000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261126T014500Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1795654800_BBLEvent(ValerieG.)@eos
 DESCRIPTION:Welcome to your Booty Builder Lab ("aka" BBL)! This is a magic
  al place where strong\, shapely and healthy bootys are created. All booty 
@@ -1302,7 +1194,7 @@ BEGIN:VEVENT
 SUMMARY:Yoga (Rachel R.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261126T011500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261126T021500Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1795655700_Yoga(RachelR.)@eos
 DESCRIPTION:An experience that links breath and movement in between postur
  es focusing on bringing harmony between mind and body. Each instructor may
@@ -1313,7 +1205,7 @@ BEGIN:VEVENT
 SUMMARY:BODYPUMP ()
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261126T143000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261126T153000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1795703400_BODYPUMP()@eos
 DESCRIPTION:Barbell class that strengthens your entire body and challenges
   all your major muscle groups by using the best weight room exercises. Rea
@@ -1324,7 +1216,7 @@ BEGIN:VEVENT
 SUMMARY:BODYPUMP (Jennifer)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261127T113000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261127T123000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1795779000_BODYPUMP(Jennifer)@eos
 DESCRIPTION:Barbell class that strengthens your entire body and challenges
   all your major muscle groups by using the best weight room exercises. Rea
@@ -1335,7 +1227,7 @@ BEGIN:VEVENT
 SUMMARY:BBL Event (Everett)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261127T143000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261127T151500Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1795789800_BBLEvent(Everett)@eos
 DESCRIPTION:Welcome to your Booty Builder Lab ("aka" BBL)! This is a magic
  al place where strong\, shapely and healthy bootys are created. All booty 
@@ -1351,7 +1243,7 @@ BEGIN:VEVENT
 SUMMARY:Build the Peach (CJ)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261127T153500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261127T162000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1795793700_BuildthePeach(CJ)@eos
 DESCRIPTION:Build your strength\, balance and stability with this quick lo
  wer body workout with a strong focus on the glutes!
@@ -1361,7 +1253,7 @@ BEGIN:VEVENT
 SUMMARY:Water Fit (Yvonne B.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261127T164000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261127T174000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1795797600_WaterFit(YvonneB.)@eos
 DESCRIPTION:A fantastic way to improve your cardio conditioning\, enduranc
  e\, and muscular strength using the buoyancy and resistance of the water w
@@ -1372,7 +1264,7 @@ BEGIN:VEVENT
 SUMMARY:Pilates (Jessica R.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261128T143000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261128T153000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1795876200_Pilates(JessicaR.)@eos
 DESCRIPTION:The popular mat workout developed by Joseph Pilates concentrat
  ing on core strength\, body alignment and long\, lean muscles without addi
@@ -1383,7 +1275,7 @@ BEGIN:VEVENT
 SUMMARY:BBL Event (Theresa)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261128T143000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261128T151500Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1795876200_BBLEvent(Theresa)@eos
 DESCRIPTION:Welcome to your Booty Builder Lab ("aka" BBL)! This is a magic
  al place where strong\, shapely and healthy bootys are created. All booty 
@@ -1399,7 +1291,7 @@ BEGIN:VEVENT
 SUMMARY:Water Fit (Carol B.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261128T150000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261128T160000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1795878000_WaterFit(CarolB.)@eos
 DESCRIPTION:A fantastic way to improve your cardio conditioning\, enduranc
  e\, and muscular strength using the buoyancy and resistance of the water w
@@ -1410,7 +1302,7 @@ BEGIN:VEVENT
 SUMMARY:BODYPUMP (Theresa)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261128T153500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261128T163500Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1795880100_BODYPUMP(Theresa)@eos
 DESCRIPTION:Barbell class that strengthens your entire body and challenges
   all your major muscle groups by using the best weight room exercises. Rea
@@ -1421,7 +1313,7 @@ BEGIN:VEVENT
 SUMMARY:ZUMBA + LIFT (Irony S.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261128T164000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261128T174000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1795884000_ZUMBA+LIFT(IronyS.)@eos
 DESCRIPTION:A Zumba + Lift class is a high-energy fusion of traditional Zu
  mba dance cardio with strength training\, using intervals to combine Latin
@@ -1436,7 +1328,7 @@ BEGIN:VEVENT
 SUMMARY:Power Yoga (Michelle F.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261129T143000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261129T153000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1795962600_PowerYoga(MichelleF.)@eos
 DESCRIPTION:A fast paced style of yoga which focuses on building strength 
  and stamina. Provides both physical and mental wellness!
@@ -1446,7 +1338,7 @@ BEGIN:VEVENT
 SUMMARY:Water Fit (India M.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261129T153000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261129T163000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1795966200_WaterFit(IndiaM.)@eos
 DESCRIPTION:A fantastic way to improve your cardio conditioning\, enduranc
  e\, and muscular strength using the buoyancy and resistance of the water w
@@ -1457,7 +1349,7 @@ BEGIN:VEVENT
 SUMMARY:BODYPUMP (Jennifer)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261130T113000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261130T123000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1796038200_BODYPUMP(Jennifer)@eos
 DESCRIPTION:Barbell class that strengthens your entire body and challenges
   all your major muscle groups by using the best weight room exercises. Rea
@@ -1468,7 +1360,7 @@ BEGIN:VEVENT
 SUMMARY:Build the Peach (CJ)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261130T143000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261130T151500Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1796049000_BuildthePeach(CJ)@eos
 DESCRIPTION:Build your strength\, balance and stability with this quick lo
  wer body workout with a strong focus on the glutes!
@@ -1478,7 +1370,7 @@ BEGIN:VEVENT
 SUMMARY:Pilates (Svetlana I.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261130T153000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261130T163000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1796052600_Pilates(SvetlanaI.)@eos
 DESCRIPTION:The popular mat workout developed by Joseph Pilates concentrat
  ing on core strength\, body alignment and long\, lean muscles without addi
@@ -1486,21 +1378,10 @@ DESCRIPTION:The popular mat workout developed by Joseph Pilates concentrat
 LOCATION:North Richland Hills Rufe Snow Dr Hightower Dr
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Water Fit (Svetlana I.)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20261130T164000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20261130T174000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
-UID:1796056800_WaterFit(SvetlanaI.)@eos
-DESCRIPTION:A fantastic way to improve your cardio conditioning\, enduranc
- e\, and muscular strength using the buoyancy and resistance of the water w
- ithout  impact on joints!
-LOCATION:North Richland Hills Rufe Snow Dr Hightower Dr
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Gentle Yoga (Suzy S.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261130T164000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261130T174000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1796056800_GentleYoga(SuzyS.)@eos
 DESCRIPTION:A gentler\, more restorative style yoga class focusing on mind
  fulness\, meditation\, and a series of slower paced poses with positions h
@@ -1508,10 +1389,21 @@ DESCRIPTION:A gentler\, more restorative style yoga class focusing on mind
 LOCATION:North Richland Hills Rufe Snow Dr Hightower Dr
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Water Fit (Svetlana I.)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20261130T164000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20261130T174000Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
+UID:1796056800_WaterFit(SvetlanaI.)@eos
+DESCRIPTION:A fantastic way to improve your cardio conditioning\, enduranc
+ e\, and muscular strength using the buoyancy and resistance of the water w
+ ithout  impact on joints!
+LOCATION:North Richland Hills Rufe Snow Dr Hightower Dr
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:BBL Event (Denise A.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261130T180000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261130T184500Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1796061600_BBLEvent(DeniseA.)@eos
 DESCRIPTION:Welcome to your Booty Builder Lab ("aka" BBL)! This is a magic
  al place where strong\, shapely and healthy bootys are created. All booty 
@@ -1527,7 +1419,7 @@ BEGIN:VEVENT
 SUMMARY:BODYPUMP (Karyn C.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261130T232500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261201T002500Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1796081100_BODYPUMP(KarynC.)@eos
 DESCRIPTION:Barbell class that strengthens your entire body and challenges
   all your major muscle groups by using the best weight room exercises. Rea
@@ -1538,7 +1430,7 @@ BEGIN:VEVENT
 SUMMARY:BBL Event (Denise A.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261201T003000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261201T011500Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1796085000_BBLEvent(DeniseA.)@eos
 DESCRIPTION:Welcome to your Booty Builder Lab ("aka" BBL)! This is a magic
  al place where strong\, shapely and healthy bootys are created. All booty 
@@ -1554,7 +1446,7 @@ BEGIN:VEVENT
 SUMMARY:MixxedFit (Valerie G.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261201T010000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261201T020000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1796086800_MixxedFit(ValerieG.)@eos
 DESCRIPTION:A people-inspired dance style with the hottest current dance m
  oves choreographed to the hottest beats! You may not know if you are in th
@@ -1565,7 +1457,7 @@ BEGIN:VEVENT
 SUMMARY:BBL Event (Edina P.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261201T113000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261201T121500Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1796124600_BBLEvent(EdinaP.)@eos
 DESCRIPTION:Welcome to your Booty Builder Lab ("aka" BBL)! This is a magic
  al place where strong\, shapely and healthy bootys are created. All booty 
@@ -1581,7 +1473,7 @@ BEGIN:VEVENT
 SUMMARY:BODYPUMP (Barbara I.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261201T143000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261201T153000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1796135400_BODYPUMP(BarbaraI.)@eos
 DESCRIPTION:Barbell class that strengthens your entire body and challenges
   all your major muscle groups by using the best weight room exercises. Rea
@@ -1592,7 +1484,7 @@ BEGIN:VEVENT
 SUMMARY:BODYBALANCE (Barbara I.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261201T153500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261201T163500Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1796139300_BODYBALANCE(BarbaraI.)@eos
 DESCRIPTION:A yoga\, tai chi\, Pilates workout that builds flexibility and
   strength. A holistic approach brings the body into a state of harmony and
@@ -1603,7 +1495,7 @@ BEGIN:VEVENT
 SUMMARY:Forever Fit (Roberta)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261201T164000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261201T174000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1796143200_ForeverFit(Roberta)@eos
 DESCRIPTION:Low impact does not mean low intensity! A strength and cardio 
  full  body workout that feels good on the body\, joints and ligaments!
@@ -1613,7 +1505,7 @@ BEGIN:VEVENT
 SUMMARY:Step (Ken D.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261201T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261202T000000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1796166000_Step(KenD.)@eos
 DESCRIPTION:This is where coordination comes into play!  This class delive
  rs a physical and mental challenge where you build patterns\, combinations
@@ -1624,7 +1516,7 @@ BEGIN:VEVENT
 SUMMARY:BBL Event (CJ)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261202T000000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261202T004500Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1796169600_BBLEvent(CJ)@eos
 DESCRIPTION:Welcome to your Booty Builder Lab ("aka" BBL)! This is a magic
  al place where strong\, shapely and healthy bootys are created. All booty 
@@ -1640,7 +1532,7 @@ BEGIN:VEVENT
 SUMMARY:Water Fit ()
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261202T001500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261202T011500Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1796170500_WaterFit()@eos
 DESCRIPTION:A fantastic way to improve your cardio conditioning\, enduranc
  e\, and muscular strength using the buoyancy and resistance of the water w
@@ -1651,7 +1543,7 @@ BEGIN:VEVENT
 SUMMARY:Yoga (Andrea)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261202T002000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261202T012000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1796170800_Yoga(Andrea)@eos
 DESCRIPTION:An experience that links breath and movement in between postur
  es focusing on bringing harmony between mind and body. Each instructor may
@@ -1662,7 +1554,7 @@ BEGIN:VEVENT
 SUMMARY:Zumba (Mercy)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261202T013000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261202T023000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1796175000_Zumba(Mercy)@eos
 DESCRIPTION:A fusion of Latin and International music! This dance workout 
  features easy to follow routines with fast and slow rhythms ensuring tonin
@@ -1673,7 +1565,7 @@ BEGIN:VEVENT
 SUMMARY:BODYPUMP (Ronda F.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261202T113000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261202T123000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1796211000_BODYPUMP(RondaF.)@eos
 DESCRIPTION:Barbell class that strengthens your entire body and challenges
   all your major muscle groups by using the best weight room exercises. Rea
@@ -1681,21 +1573,10 @@ DESCRIPTION:Barbell class that strengthens your entire body and challenges
 LOCATION:North Richland Hills Rufe Snow Dr Hightower Dr
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Upbeat Barre (Chantel F.)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20261202T143000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20261202T153000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
-UID:1796221800_UpbeatBarre(ChantelF.)@eos
-DESCRIPTION:Strength training\, barre\, Pilates\, cardio and yoga combine 
- into a high-energy fusion of fun! Popular tunes rock providing an intense 
- muscular-endurance workout.
-LOCATION:North Richland Hills Rufe Snow Dr Hightower Dr
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:BBL Event (Angie C.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261202T143000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261202T151500Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1796221800_BBLEvent(AngieC.)@eos
 DESCRIPTION:Welcome to your Booty Builder Lab ("aka" BBL)! This is a magic
  al place where strong\, shapely and healthy bootys are created. All booty 
@@ -1708,10 +1589,21 @@ DESCRIPTION:Welcome to your Booty Builder Lab ("aka" BBL)! This is a magic
 LOCATION:North Richland Hills Rufe Snow Dr Hightower Dr
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Upbeat Barre (Chantel F.)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20261202T143000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20261202T153000Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
+UID:1796221800_UpbeatBarre(ChantelF.)@eos
+DESCRIPTION:Strength training\, barre\, Pilates\, cardio and yoga combine 
+ into a high-energy fusion of fun! Popular tunes rock providing an intense 
+ muscular-endurance workout.
+LOCATION:North Richland Hills Rufe Snow Dr Hightower Dr
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ZUMBA + LIFT (Angie C.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261202T153000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261202T163000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1796225400_ZUMBA+LIFT(AngieC.)@eos
 DESCRIPTION:A Zumba + Lift class is a high-energy fusion of traditional Zu
  mba dance cardio with strength training\, using intervals to combine Latin
@@ -1723,21 +1615,10 @@ DESCRIPTION:A Zumba + Lift class is a high-energy fusion of traditional Zu
 LOCATION:North Richland Hills Rufe Snow Dr Hightower Dr
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Water Fit (Yvonne B.)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20261202T164000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20261202T174000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
-UID:1796229600_WaterFit(YvonneB.)@eos
-DESCRIPTION:A fantastic way to improve your cardio conditioning\, enduranc
- e\, and muscular strength using the buoyancy and resistance of the water w
- ithout  impact on joints!
-LOCATION:North Richland Hills Rufe Snow Dr Hightower Dr
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Yoga (Angie C.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261202T164000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261202T174000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1796229600_Yoga(AngieC.)@eos
 DESCRIPTION:An experience that links breath and movement in between postur
  es focusing on bringing harmony between mind and body. Each instructor may
@@ -1745,10 +1626,21 @@ DESCRIPTION:An experience that links breath and movement in between postur
 LOCATION:North Richland Hills Rufe Snow Dr Hightower Dr
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Water Fit (Yvonne B.)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20261202T164000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20261202T174000Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
+UID:1796229600_WaterFit(YvonneB.)@eos
+DESCRIPTION:A fantastic way to improve your cardio conditioning\, enduranc
+ e\, and muscular strength using the buoyancy and resistance of the water w
+ ithout  impact on joints!
+LOCATION:North Richland Hills Rufe Snow Dr Hightower Dr
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:BODYPUMP (India M.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261203T000000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261203T010000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1796256000_BODYPUMP(IndiaM.)@eos
 DESCRIPTION:Barbell class that strengthens your entire body and challenges
   all your major muscle groups by using the best weight room exercises. Rea
@@ -1759,7 +1651,7 @@ BEGIN:VEVENT
 SUMMARY:BBL Event (Valerie G.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261203T010000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261203T014500Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1796259600_BBLEvent(ValerieG.)@eos
 DESCRIPTION:Welcome to your Booty Builder Lab ("aka" BBL)! This is a magic
  al place where strong\, shapely and healthy bootys are created. All booty 
@@ -1775,7 +1667,7 @@ BEGIN:VEVENT
 SUMMARY:Yoga (Jazzy J.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261203T011500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261203T021500Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1796260500_Yoga(JazzyJ.)@eos
 DESCRIPTION:An experience that links breath and movement in between postur
  es focusing on bringing harmony between mind and body. Each instructor may
@@ -1786,7 +1678,7 @@ BEGIN:VEVENT
 SUMMARY:BBL Event (Edina P.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261203T113000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261203T121500Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1796297400_BBLEvent(EdinaP.)@eos
 DESCRIPTION:Welcome to your Booty Builder Lab ("aka" BBL)! This is a magic
  al place where strong\, shapely and healthy bootys are created. All booty 
@@ -1802,7 +1694,7 @@ BEGIN:VEVENT
 SUMMARY:BODYPUMP (Jennifer)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261203T143000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261203T153000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1796308200_BODYPUMP(Jennifer)@eos
 DESCRIPTION:Barbell class that strengthens your entire body and challenges
   all your major muscle groups by using the best weight room exercises. Rea
@@ -1813,7 +1705,7 @@ BEGIN:VEVENT
 SUMMARY:Yoga (Andrea)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261203T153500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261203T163500Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1796312100_Yoga(Andrea)@eos
 DESCRIPTION:An experience that links breath and movement in between postur
  es focusing on bringing harmony between mind and body. Each instructor may
@@ -1824,7 +1716,7 @@ BEGIN:VEVENT
 SUMMARY:Forever Fit (Suzanne L.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261203T164000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261203T173500Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1796316000_ForeverFit(SuzanneL.)@eos
 DESCRIPTION:Low impact does not mean low intensity! A strength and cardio 
  full  body workout that feels good on the body\, joints and ligaments!
@@ -1834,7 +1726,7 @@ BEGIN:VEVENT
 SUMMARY:Les Mills SHAPES (Jennifer)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261203T232500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261204T002500Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1796340300_LesMillsSHAPES(Jennifer)@eos
 DESCRIPTION:A concentrated strength based workout inspired by Pilates\, ba
  rre and power yoga which stays connected to the floor so there is minimal 
@@ -1845,7 +1737,7 @@ BEGIN:VEVENT
 SUMMARY:Water Fit (India M.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261204T000000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261204T010000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1796342400_WaterFit(IndiaM.)@eos
 DESCRIPTION:A fantastic way to improve your cardio conditioning\, enduranc
  e\, and muscular strength using the buoyancy and resistance of the water w
@@ -1856,7 +1748,7 @@ BEGIN:VEVENT
 SUMMARY:Zumba (Vivian D.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261204T003000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261204T013000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1796344200_Zumba(VivianD.)@eos
 DESCRIPTION:A fusion of Latin and International music! This dance workout 
  features easy to follow routines with fast and slow rhythms ensuring tonin
@@ -1867,7 +1759,7 @@ BEGIN:VEVENT
 SUMMARY:BODYPUMP (Ronda F.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261204T113000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261204T123000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1796383800_BODYPUMP(RondaF.)@eos
 DESCRIPTION:Barbell class that strengthens your entire body and challenges
   all your major muscle groups by using the best weight room exercises. Rea
@@ -1878,7 +1770,7 @@ BEGIN:VEVENT
 SUMMARY:BBL Event (Everett)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261204T143000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261204T151500Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1796394600_BBLEvent(Everett)@eos
 DESCRIPTION:Welcome to your Booty Builder Lab ("aka" BBL)! This is a magic
  al place where strong\, shapely and healthy bootys are created. All booty 
@@ -1894,7 +1786,7 @@ BEGIN:VEVENT
 SUMMARY:Build the Peach (CJ)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261204T153500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261204T162000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1796398500_BuildthePeach(CJ)@eos
 DESCRIPTION:Build your strength\, balance and stability with this quick lo
  wer body workout with a strong focus on the glutes!
@@ -1904,7 +1796,7 @@ BEGIN:VEVENT
 SUMMARY:Water Fit (Yvonne B.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261204T164000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261204T174000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1796402400_WaterFit(YvonneB.)@eos
 DESCRIPTION:A fantastic way to improve your cardio conditioning\, enduranc
  e\, and muscular strength using the buoyancy and resistance of the water w
@@ -1915,7 +1807,7 @@ BEGIN:VEVENT
 SUMMARY:Pilates (Jessica R.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261205T143000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261205T153000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1796481000_Pilates(JessicaR.)@eos
 DESCRIPTION:The popular mat workout developed by Joseph Pilates concentrat
  ing on core strength\, body alignment and long\, lean muscles without addi
@@ -1926,7 +1818,7 @@ BEGIN:VEVENT
 SUMMARY:BBL Event (Theresa)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261205T143000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261205T151500Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1796481000_BBLEvent(Theresa)@eos
 DESCRIPTION:Welcome to your Booty Builder Lab ("aka" BBL)! This is a magic
  al place where strong\, shapely and healthy bootys are created. All booty 
@@ -1942,7 +1834,7 @@ BEGIN:VEVENT
 SUMMARY:Water Fit (Carol B.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261205T150000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261205T160000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1796482800_WaterFit(CarolB.)@eos
 DESCRIPTION:A fantastic way to improve your cardio conditioning\, enduranc
  e\, and muscular strength using the buoyancy and resistance of the water w
@@ -1953,7 +1845,7 @@ BEGIN:VEVENT
 SUMMARY:BODYPUMP (Theresa)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261205T153500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261205T163500Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1796484900_BODYPUMP(Theresa)@eos
 DESCRIPTION:Barbell class that strengthens your entire body and challenges
   all your major muscle groups by using the best weight room exercises. Rea
@@ -1964,7 +1856,7 @@ BEGIN:VEVENT
 SUMMARY:ZUMBA + LIFT (Irony S.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261205T164000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261205T174000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1796488800_ZUMBA+LIFT(IronyS.)@eos
 DESCRIPTION:A Zumba + Lift class is a high-energy fusion of traditional Zu
  mba dance cardio with strength training\, using intervals to combine Latin
@@ -1979,7 +1871,7 @@ BEGIN:VEVENT
 SUMMARY:Power Yoga (Michelle F.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261206T143000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261206T153000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1796567400_PowerYoga(MichelleF.)@eos
 DESCRIPTION:A fast paced style of yoga which focuses on building strength 
  and stamina. Provides both physical and mental wellness!
@@ -1989,7 +1881,7 @@ BEGIN:VEVENT
 SUMMARY:Water Fit (India M.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261206T153000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261206T163000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1796571000_WaterFit(IndiaM.)@eos
 DESCRIPTION:A fantastic way to improve your cardio conditioning\, enduranc
  e\, and muscular strength using the buoyancy and resistance of the water w
@@ -2000,7 +1892,7 @@ BEGIN:VEVENT
 SUMMARY:BODYPUMP (Jennifer)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261207T113000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261207T123000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1796643000_BODYPUMP(Jennifer)@eos
 DESCRIPTION:Barbell class that strengthens your entire body and challenges
   all your major muscle groups by using the best weight room exercises. Rea
@@ -2011,7 +1903,7 @@ BEGIN:VEVENT
 SUMMARY:Build the Peach (CJ)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261207T143000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261207T151500Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1796653800_BuildthePeach(CJ)@eos
 DESCRIPTION:Build your strength\, balance and stability with this quick lo
  wer body workout with a strong focus on the glutes!
@@ -2021,7 +1913,7 @@ BEGIN:VEVENT
 SUMMARY:Pilates (Svetlana I.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261207T153000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261207T163000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1796657400_Pilates(SvetlanaI.)@eos
 DESCRIPTION:The popular mat workout developed by Joseph Pilates concentrat
  ing on core strength\, body alignment and long\, lean muscles without addi
@@ -2029,21 +1921,10 @@ DESCRIPTION:The popular mat workout developed by Joseph Pilates concentrat
 LOCATION:North Richland Hills Rufe Snow Dr Hightower Dr
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Water Fit (Svetlana I.)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20261207T164000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20261207T174000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
-UID:1796661600_WaterFit(SvetlanaI.)@eos
-DESCRIPTION:A fantastic way to improve your cardio conditioning\, enduranc
- e\, and muscular strength using the buoyancy and resistance of the water w
- ithout  impact on joints!
-LOCATION:North Richland Hills Rufe Snow Dr Hightower Dr
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Gentle Yoga (Suzy S.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261207T164000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261207T174000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1796661600_GentleYoga(SuzyS.)@eos
 DESCRIPTION:A gentler\, more restorative style yoga class focusing on mind
  fulness\, meditation\, and a series of slower paced poses with positions h
@@ -2051,10 +1932,21 @@ DESCRIPTION:A gentler\, more restorative style yoga class focusing on mind
 LOCATION:North Richland Hills Rufe Snow Dr Hightower Dr
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Water Fit (Svetlana I.)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20261207T164000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20261207T174000Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
+UID:1796661600_WaterFit(SvetlanaI.)@eos
+DESCRIPTION:A fantastic way to improve your cardio conditioning\, enduranc
+ e\, and muscular strength using the buoyancy and resistance of the water w
+ ithout  impact on joints!
+LOCATION:North Richland Hills Rufe Snow Dr Hightower Dr
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:BBL Event (Everett)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261207T180000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261207T184500Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1796666400_BBLEvent(Everett)@eos
 DESCRIPTION:Welcome to your Booty Builder Lab ("aka" BBL)! This is a magic
  al place where strong\, shapely and healthy bootys are created. All booty 
@@ -2070,7 +1962,7 @@ BEGIN:VEVENT
 SUMMARY:BODYPUMP (Karyn C.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261207T232500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261208T002500Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1796685900_BODYPUMP(KarynC.)@eos
 DESCRIPTION:Barbell class that strengthens your entire body and challenges
   all your major muscle groups by using the best weight room exercises. Rea
@@ -2081,7 +1973,7 @@ BEGIN:VEVENT
 SUMMARY:BBL Event (Everett)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261208T003000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261208T011500Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1796689800_BBLEvent(Everett)@eos
 DESCRIPTION:Welcome to your Booty Builder Lab ("aka" BBL)! This is a magic
  al place where strong\, shapely and healthy bootys are created. All booty 
@@ -2097,7 +1989,7 @@ BEGIN:VEVENT
 SUMMARY:MixxedFit (Valerie G.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261208T010000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261208T020000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1796691600_MixxedFit(ValerieG.)@eos
 DESCRIPTION:A people-inspired dance style with the hottest current dance m
  oves choreographed to the hottest beats! You may not know if you are in th
@@ -2108,7 +2000,7 @@ BEGIN:VEVENT
 SUMMARY:BBL Event (Edina P.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261208T113000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261208T121500Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1796729400_BBLEvent(EdinaP.)@eos
 DESCRIPTION:Welcome to your Booty Builder Lab ("aka" BBL)! This is a magic
  al place where strong\, shapely and healthy bootys are created. All booty 
@@ -2124,7 +2016,7 @@ BEGIN:VEVENT
 SUMMARY:BODYPUMP (Barbara I.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261208T143000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261208T153000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1796740200_BODYPUMP(BarbaraI.)@eos
 DESCRIPTION:Barbell class that strengthens your entire body and challenges
   all your major muscle groups by using the best weight room exercises. Rea
@@ -2135,7 +2027,7 @@ BEGIN:VEVENT
 SUMMARY:BODYBALANCE (Barbara I.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261208T153500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261208T163500Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1796744100_BODYBALANCE(BarbaraI.)@eos
 DESCRIPTION:A yoga\, tai chi\, Pilates workout that builds flexibility and
   strength. A holistic approach brings the body into a state of harmony and
@@ -2146,7 +2038,7 @@ BEGIN:VEVENT
 SUMMARY:Forever Fit (Roberta)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261208T164000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261208T174000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1796748000_ForeverFit(Roberta)@eos
 DESCRIPTION:Low impact does not mean low intensity! A strength and cardio 
  full  body workout that feels good on the body\, joints and ligaments!
@@ -2156,7 +2048,7 @@ BEGIN:VEVENT
 SUMMARY:Step (Ken D.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261208T230000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261209T000000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1796770800_Step(KenD.)@eos
 DESCRIPTION:This is where coordination comes into play!  This class delive
  rs a physical and mental challenge where you build patterns\, combinations
@@ -2167,7 +2059,7 @@ BEGIN:VEVENT
 SUMMARY:BBL Event (CJ)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261209T000000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261209T004500Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1796774400_BBLEvent(CJ)@eos
 DESCRIPTION:Welcome to your Booty Builder Lab ("aka" BBL)! This is a magic
  al place where strong\, shapely and healthy bootys are created. All booty 
@@ -2183,7 +2075,7 @@ BEGIN:VEVENT
 SUMMARY:Water Fit ()
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261209T001500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261209T011500Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1796775300_WaterFit()@eos
 DESCRIPTION:A fantastic way to improve your cardio conditioning\, enduranc
  e\, and muscular strength using the buoyancy and resistance of the water w
@@ -2194,7 +2086,7 @@ BEGIN:VEVENT
 SUMMARY:Yoga (Jazzy J.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261209T002000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261209T012000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1796775600_Yoga(JazzyJ.)@eos
 DESCRIPTION:An experience that links breath and movement in between postur
  es focusing on bringing harmony between mind and body. Each instructor may
@@ -2205,7 +2097,7 @@ BEGIN:VEVENT
 SUMMARY:Zumba (Mercy)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261209T013000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261209T023000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1796779800_Zumba(Mercy)@eos
 DESCRIPTION:A fusion of Latin and International music! This dance workout 
  features easy to follow routines with fast and slow rhythms ensuring tonin
@@ -2216,7 +2108,7 @@ BEGIN:VEVENT
 SUMMARY:BODYPUMP (Ronda F.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261209T113000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261209T123000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1796815800_BODYPUMP(RondaF.)@eos
 DESCRIPTION:Barbell class that strengthens your entire body and challenges
   all your major muscle groups by using the best weight room exercises. Rea
@@ -2224,21 +2116,10 @@ DESCRIPTION:Barbell class that strengthens your entire body and challenges
 LOCATION:North Richland Hills Rufe Snow Dr Hightower Dr
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Upbeat Barre (Chantel F.)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20261209T143000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20261209T153000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
-UID:1796826600_UpbeatBarre(ChantelF.)@eos
-DESCRIPTION:Strength training\, barre\, Pilates\, cardio and yoga combine 
- into a high-energy fusion of fun! Popular tunes rock providing an intense 
- muscular-endurance workout.
-LOCATION:North Richland Hills Rufe Snow Dr Hightower Dr
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:BBL Event (Angie C.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261209T143000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261209T151500Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1796826600_BBLEvent(AngieC.)@eos
 DESCRIPTION:Welcome to your Booty Builder Lab ("aka" BBL)! This is a magic
  al place where strong\, shapely and healthy bootys are created. All booty 
@@ -2251,10 +2132,21 @@ DESCRIPTION:Welcome to your Booty Builder Lab ("aka" BBL)! This is a magic
 LOCATION:North Richland Hills Rufe Snow Dr Hightower Dr
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Upbeat Barre (Chantel F.)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20261209T143000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20261209T153000Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
+UID:1796826600_UpbeatBarre(ChantelF.)@eos
+DESCRIPTION:Strength training\, barre\, Pilates\, cardio and yoga combine 
+ into a high-energy fusion of fun! Popular tunes rock providing an intense 
+ muscular-endurance workout.
+LOCATION:North Richland Hills Rufe Snow Dr Hightower Dr
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ZUMBA + LIFT (Angie C.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261209T153000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261209T163000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1796830200_ZUMBA+LIFT(AngieC.)@eos
 DESCRIPTION:A Zumba + Lift class is a high-energy fusion of traditional Zu
  mba dance cardio with strength training\, using intervals to combine Latin
@@ -2266,21 +2158,10 @@ DESCRIPTION:A Zumba + Lift class is a high-energy fusion of traditional Zu
 LOCATION:North Richland Hills Rufe Snow Dr Hightower Dr
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Water Fit (Yvonne B.)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20261209T164000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20261209T174000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
-UID:1796834400_WaterFit(YvonneB.)@eos
-DESCRIPTION:A fantastic way to improve your cardio conditioning\, enduranc
- e\, and muscular strength using the buoyancy and resistance of the water w
- ithout  impact on joints!
-LOCATION:North Richland Hills Rufe Snow Dr Hightower Dr
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Yoga (Angie C.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261209T164000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261209T174000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1796834400_Yoga(AngieC.)@eos
 DESCRIPTION:An experience that links breath and movement in between postur
  es focusing on bringing harmony between mind and body. Each instructor may
@@ -2288,10 +2169,21 @@ DESCRIPTION:An experience that links breath and movement in between postur
 LOCATION:North Richland Hills Rufe Snow Dr Hightower Dr
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Water Fit (Yvonne B.)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20261209T164000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20261209T174000Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
+UID:1796834400_WaterFit(YvonneB.)@eos
+DESCRIPTION:A fantastic way to improve your cardio conditioning\, enduranc
+ e\, and muscular strength using the buoyancy and resistance of the water w
+ ithout  impact on joints!
+LOCATION:North Richland Hills Rufe Snow Dr Hightower Dr
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:BODYPUMP (India M.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261210T000000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261210T010000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1796860800_BODYPUMP(IndiaM.)@eos
 DESCRIPTION:Barbell class that strengthens your entire body and challenges
   all your major muscle groups by using the best weight room exercises. Rea
@@ -2302,7 +2194,7 @@ BEGIN:VEVENT
 SUMMARY:BBL Event (Valerie G.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261210T010000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261210T014500Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1796864400_BBLEvent(ValerieG.)@eos
 DESCRIPTION:Welcome to your Booty Builder Lab ("aka" BBL)! This is a magic
  al place where strong\, shapely and healthy bootys are created. All booty 
@@ -2318,7 +2210,7 @@ BEGIN:VEVENT
 SUMMARY:Yoga (Andrea)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261210T011500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261210T021500Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1796865300_Yoga(Andrea)@eos
 DESCRIPTION:An experience that links breath and movement in between postur
  es focusing on bringing harmony between mind and body. Each instructor may
@@ -2329,7 +2221,7 @@ BEGIN:VEVENT
 SUMMARY:BBL Event (Edina P.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261210T113000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261210T121500Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1796902200_BBLEvent(EdinaP.)@eos
 DESCRIPTION:Welcome to your Booty Builder Lab ("aka" BBL)! This is a magic
  al place where strong\, shapely and healthy bootys are created. All booty 
@@ -2345,7 +2237,7 @@ BEGIN:VEVENT
 SUMMARY:BODYPUMP (Jennifer)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261210T143000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261210T153000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1796913000_BODYPUMP(Jennifer)@eos
 DESCRIPTION:Barbell class that strengthens your entire body and challenges
   all your major muscle groups by using the best weight room exercises. Rea
@@ -2356,7 +2248,7 @@ BEGIN:VEVENT
 SUMMARY:Yoga (Andrea)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261210T153500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261210T163500Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1796916900_Yoga(Andrea)@eos
 DESCRIPTION:An experience that links breath and movement in between postur
  es focusing on bringing harmony between mind and body. Each instructor may
@@ -2367,7 +2259,7 @@ BEGIN:VEVENT
 SUMMARY:Forever Fit (Suzanne L.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261210T164000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261210T173500Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1796920800_ForeverFit(SuzanneL.)@eos
 DESCRIPTION:Low impact does not mean low intensity! A strength and cardio 
  full  body workout that feels good on the body\, joints and ligaments!
@@ -2377,7 +2269,7 @@ BEGIN:VEVENT
 SUMMARY:Les Mills SHAPES (Jennifer)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261210T232500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261211T002500Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1796945100_LesMillsSHAPES(Jennifer)@eos
 DESCRIPTION:A concentrated strength based workout inspired by Pilates\, ba
  rre and power yoga which stays connected to the floor so there is minimal 
@@ -2388,7 +2280,7 @@ BEGIN:VEVENT
 SUMMARY:Water Fit (India M.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261211T000000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261211T010000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1796947200_WaterFit(IndiaM.)@eos
 DESCRIPTION:A fantastic way to improve your cardio conditioning\, enduranc
  e\, and muscular strength using the buoyancy and resistance of the water w
@@ -2399,7 +2291,7 @@ BEGIN:VEVENT
 SUMMARY:Zumba (Vivian D.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261211T003000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261211T013000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1796949000_Zumba(VivianD.)@eos
 DESCRIPTION:A fusion of Latin and International music! This dance workout 
  features easy to follow routines with fast and slow rhythms ensuring tonin
@@ -2410,7 +2302,7 @@ BEGIN:VEVENT
 SUMMARY:BODYPUMP (Ronda F.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261211T113000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261211T123000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1796988600_BODYPUMP(RondaF.)@eos
 DESCRIPTION:Barbell class that strengthens your entire body and challenges
   all your major muscle groups by using the best weight room exercises. Rea
@@ -2421,7 +2313,7 @@ BEGIN:VEVENT
 SUMMARY:BBL Event (Everett)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261211T143000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261211T151500Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1796999400_BBLEvent(Everett)@eos
 DESCRIPTION:Welcome to your Booty Builder Lab ("aka" BBL)! This is a magic
  al place where strong\, shapely and healthy bootys are created. All booty 
@@ -2437,7 +2329,7 @@ BEGIN:VEVENT
 SUMMARY:Build the Peach (CJ)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261211T153500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261211T162000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1797003300_BuildthePeach(CJ)@eos
 DESCRIPTION:Build your strength\, balance and stability with this quick lo
  wer body workout with a strong focus on the glutes!
@@ -2447,7 +2339,7 @@ BEGIN:VEVENT
 SUMMARY:Water Fit (Yvonne B.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261211T164000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261211T174000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1797007200_WaterFit(YvonneB.)@eos
 DESCRIPTION:A fantastic way to improve your cardio conditioning\, enduranc
  e\, and muscular strength using the buoyancy and resistance of the water w
@@ -2458,7 +2350,7 @@ BEGIN:VEVENT
 SUMMARY:Pilates (Jessica R.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261212T143000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261212T153000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1797085800_Pilates(JessicaR.)@eos
 DESCRIPTION:The popular mat workout developed by Joseph Pilates concentrat
  ing on core strength\, body alignment and long\, lean muscles without addi
@@ -2469,7 +2361,7 @@ BEGIN:VEVENT
 SUMMARY:BBL Event (Theresa)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261212T143000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261212T151500Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1797085800_BBLEvent(Theresa)@eos
 DESCRIPTION:Welcome to your Booty Builder Lab ("aka" BBL)! This is a magic
  al place where strong\, shapely and healthy bootys are created. All booty 
@@ -2485,7 +2377,7 @@ BEGIN:VEVENT
 SUMMARY:Water Fit (Carol B.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261212T150000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261212T160000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1797087600_WaterFit(CarolB.)@eos
 DESCRIPTION:A fantastic way to improve your cardio conditioning\, enduranc
  e\, and muscular strength using the buoyancy and resistance of the water w
@@ -2496,7 +2388,7 @@ BEGIN:VEVENT
 SUMMARY:BODYPUMP (Theresa)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261212T153500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261212T163500Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1797089700_BODYPUMP(Theresa)@eos
 DESCRIPTION:Barbell class that strengthens your entire body and challenges
   all your major muscle groups by using the best weight room exercises. Rea
@@ -2507,7 +2399,7 @@ BEGIN:VEVENT
 SUMMARY:ZUMBA + LIFT (Irony S.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261212T164000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261212T174000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1797093600_ZUMBA+LIFT(IronyS.)@eos
 DESCRIPTION:A Zumba + Lift class is a high-energy fusion of traditional Zu
  mba dance cardio with strength training\, using intervals to combine Latin
@@ -2522,7 +2414,7 @@ BEGIN:VEVENT
 SUMMARY:Power Yoga (Michelle F.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261213T143000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261213T153000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1797172200_PowerYoga(MichelleF.)@eos
 DESCRIPTION:A fast paced style of yoga which focuses on building strength 
  and stamina. Provides both physical and mental wellness!
@@ -2532,7 +2424,7 @@ BEGIN:VEVENT
 SUMMARY:Water Fit (India M.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261213T153000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261213T163000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1797175800_WaterFit(IndiaM.)@eos
 DESCRIPTION:A fantastic way to improve your cardio conditioning\, enduranc
  e\, and muscular strength using the buoyancy and resistance of the water w
@@ -2543,7 +2435,7 @@ BEGIN:VEVENT
 SUMMARY:BODYPUMP (Jennifer)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261214T113000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261214T123000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1797247800_BODYPUMP(Jennifer)@eos
 DESCRIPTION:Barbell class that strengthens your entire body and challenges
   all your major muscle groups by using the best weight room exercises. Rea
@@ -2554,7 +2446,7 @@ BEGIN:VEVENT
 SUMMARY:Build the Peach (CJ)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261214T143000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261214T151500Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1797258600_BuildthePeach(CJ)@eos
 DESCRIPTION:Build your strength\, balance and stability with this quick lo
  wer body workout with a strong focus on the glutes!
@@ -2564,7 +2456,7 @@ BEGIN:VEVENT
 SUMMARY:Pilates (Svetlana I.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261214T153000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261214T163000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1797262200_Pilates(SvetlanaI.)@eos
 DESCRIPTION:The popular mat workout developed by Joseph Pilates concentrat
  ing on core strength\, body alignment and long\, lean muscles without addi
@@ -2572,21 +2464,10 @@ DESCRIPTION:The popular mat workout developed by Joseph Pilates concentrat
 LOCATION:North Richland Hills Rufe Snow Dr Hightower Dr
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Water Fit (Svetlana I.)
-DTSTART;TZID=UTC;VALUE=DATE-TIME:20261214T164000Z
-DTEND;TZID=UTC;VALUE=DATE-TIME:20261214T174000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
-UID:1797266400_WaterFit(SvetlanaI.)@eos
-DESCRIPTION:A fantastic way to improve your cardio conditioning\, enduranc
- e\, and muscular strength using the buoyancy and resistance of the water w
- ithout  impact on joints!
-LOCATION:North Richland Hills Rufe Snow Dr Hightower Dr
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Gentle Yoga (Suzy S.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261214T164000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261214T174000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1797266400_GentleYoga(SuzyS.)@eos
 DESCRIPTION:A gentler\, more restorative style yoga class focusing on mind
  fulness\, meditation\, and a series of slower paced poses with positions h
@@ -2594,10 +2475,21 @@ DESCRIPTION:A gentler\, more restorative style yoga class focusing on mind
 LOCATION:North Richland Hills Rufe Snow Dr Hightower Dr
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Water Fit (Svetlana I.)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20261214T164000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20261214T174000Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
+UID:1797266400_WaterFit(SvetlanaI.)@eos
+DESCRIPTION:A fantastic way to improve your cardio conditioning\, enduranc
+ e\, and muscular strength using the buoyancy and resistance of the water w
+ ithout  impact on joints!
+LOCATION:North Richland Hills Rufe Snow Dr Hightower Dr
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:BBL Event (Everett)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261214T180000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261214T184500Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1797271200_BBLEvent(Everett)@eos
 DESCRIPTION:Welcome to your Booty Builder Lab ("aka" BBL)! This is a magic
  al place where strong\, shapely and healthy bootys are created. All booty 
@@ -2613,7 +2505,7 @@ BEGIN:VEVENT
 SUMMARY:BODYPUMP (Karyn C.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261214T232500Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261215T002500Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1797290700_BODYPUMP(KarynC.)@eos
 DESCRIPTION:Barbell class that strengthens your entire body and challenges
   all your major muscle groups by using the best weight room exercises. Rea
@@ -2624,7 +2516,7 @@ BEGIN:VEVENT
 SUMMARY:BBL Event (Everett)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261215T003000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261215T011500Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1797294600_BBLEvent(Everett)@eos
 DESCRIPTION:Welcome to your Booty Builder Lab ("aka" BBL)! This is a magic
  al place where strong\, shapely and healthy bootys are created. All booty 
@@ -2640,11 +2532,119 @@ BEGIN:VEVENT
 SUMMARY:MixxedFit (Valerie G.)
 DTSTART;TZID=UTC;VALUE=DATE-TIME:20261215T010000Z
 DTEND;TZID=UTC;VALUE=DATE-TIME:20261215T020000Z
-DTSTAMP;VALUE=DATE-TIME:20261110T020004Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
 UID:1797296400_MixxedFit(ValerieG.)@eos
 DESCRIPTION:A people-inspired dance style with the hottest current dance m
  oves choreographed to the hottest beats! You may not know if you are in th
  e gym or at a nightclub!
+LOCATION:North Richland Hills Rufe Snow Dr Hightower Dr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BBL Event (Edina P.)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20261215T113000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20261215T121500Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
+UID:1797334200_BBLEvent(EdinaP.)@eos
+DESCRIPTION:Welcome to your Booty Builder Lab ("aka" BBL)! This is a magic
+ al place where strong\, shapely and healthy bootys are created. All booty 
+ sizes and shapes are loved and welcomed in the lab. Enhance your power and
+  exercise performance\, reduce knee and back pain and stabilize your hips 
+ in these specialty classes performed on the actual "Booty Builder" state o
+ f the art full line of equipment designed to transform your body and your 
+ mind!\nHow-To\, go here: https://bootybuilder.com/how-to-use-the-booty-bui
+ lder/
+LOCATION:North Richland Hills Rufe Snow Dr Hightower Dr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BODYPUMP (Barbara I.)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20261215T143000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20261215T153000Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
+UID:1797345000_BODYPUMP(BarbaraI.)@eos
+DESCRIPTION:Barbell class that strengthens your entire body and challenges
+  all your major muscle groups by using the best weight room exercises. Rea
+ l results - real fast!
+LOCATION:North Richland Hills Rufe Snow Dr Hightower Dr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BODYBALANCE (Barbara I.)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20261215T153500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20261215T163500Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
+UID:1797348900_BODYBALANCE(BarbaraI.)@eos
+DESCRIPTION:A yoga\, tai chi\, Pilates workout that builds flexibility and
+  strength. A holistic approach brings the body into a state of harmony and
+  balance.
+LOCATION:North Richland Hills Rufe Snow Dr Hightower Dr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Forever Fit (Roberta)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20261215T164000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20261215T174000Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
+UID:1797352800_ForeverFit(Roberta)@eos
+DESCRIPTION:Low impact does not mean low intensity! A strength and cardio 
+ full  body workout that feels good on the body\, joints and ligaments!
+LOCATION:North Richland Hills Rufe Snow Dr Hightower Dr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Step (Ken D.)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20261215T230000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20261216T000000Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
+UID:1797375600_Step(KenD.)@eos
+DESCRIPTION:This is where coordination comes into play!  This class delive
+ rs a physical and mental challenge where you build patterns\, combinations
+  and routines on the step.
+LOCATION:North Richland Hills Rufe Snow Dr Hightower Dr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BBL Event (CJ)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20261216T000000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20261216T004500Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
+UID:1797379200_BBLEvent(CJ)@eos
+DESCRIPTION:Welcome to your Booty Builder Lab ("aka" BBL)! This is a magic
+ al place where strong\, shapely and healthy bootys are created. All booty 
+ sizes and shapes are loved and welcomed in the lab. Enhance your power and
+  exercise performance\, reduce knee and back pain and stabilize your hips 
+ in these specialty classes performed on the actual "Booty Builder" state o
+ f the art full line of equipment designed to transform your body and your 
+ mind!\nHow-To\, go here: https://bootybuilder.com/how-to-use-the-booty-bui
+ lder/
+LOCATION:North Richland Hills Rufe Snow Dr Hightower Dr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Water Fit ()
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20261216T001500Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20261216T011500Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
+UID:1797380100_WaterFit()@eos
+DESCRIPTION:A fantastic way to improve your cardio conditioning\, enduranc
+ e\, and muscular strength using the buoyancy and resistance of the water w
+ ithout  impact on joints!
+LOCATION:North Richland Hills Rufe Snow Dr Hightower Dr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yoga (Andrea)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20261216T002000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20261216T012000Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
+UID:1797380400_Yoga(Andrea)@eos
+DESCRIPTION:An experience that links breath and movement in between postur
+ es focusing on bringing harmony between mind and body. Each instructor may
+  bring a different unique style to the class.\n\n 
+LOCATION:North Richland Hills Rufe Snow Dr Hightower Dr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zumba (Mercy)
+DTSTART;TZID=UTC;VALUE=DATE-TIME:20261216T013000Z
+DTEND;TZID=UTC;VALUE=DATE-TIME:20261216T023000Z
+DTSTAMP;VALUE=DATE-TIME:20261111T020004Z
+UID:1797384600_Zumba(Mercy)@eos
+DESCRIPTION:A fusion of Latin and International music! This dance workout 
+ features easy to follow routines with fast and slow rhythms ensuring tonin
+ g and cardio training!
 LOCATION:North Richland Hills Rufe Snow Dr Hightower Dr
 END:VEVENT
 END:VCALENDAR
